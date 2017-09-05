@@ -1,0 +1,23 @@
+# Spoleto
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = fraticelli
+capital = 120
+1423.9.17 = {
+	monarch = {
+		name = "Aleramo III"
+		birth_date = 1409.5.15
+		dynasty = "Guideschi"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 120
+	add_treasury = 37
+	add_prestige = 103
+}

@@ -1,0 +1,23 @@
+# Wallachia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = avar
+religion = catholic
+capital = 160
+1442.1.14 = {
+	monarch = {
+		name = "Drong"
+		birth_date = 1411.11.17
+		dynasty = "Borghest"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 160
+	add_treasury = 4
+	add_prestige = 299
+}

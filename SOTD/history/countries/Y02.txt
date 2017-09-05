@@ -1,0 +1,26 @@
+# Samos
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2348
+1443.1.22 = {
+	monarch = {
+		name = "Euphrasia"
+		birth_date = 1419.4.22
+		dynasty = "Komnenos"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2348
+	add_treasury = 1
+	add_prestige = 23
+}

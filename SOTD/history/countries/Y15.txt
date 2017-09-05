@@ -1,0 +1,23 @@
+# Karashar
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = persian
+religion = sunni
+capital = 713
+1442.8.18 = {
+	monarch = {
+		name = "Mozaffar"
+		birth_date = 1435.10.18
+		dynasty = "Khayyam"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 713
+	add_treasury = 10
+	add_prestige = 17
+}

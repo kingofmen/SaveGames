@@ -1,0 +1,25 @@
+# Kalinga Ganga
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 547
+1426.2.4 = {
+	monarch = {
+		name = "Nettabhanja"
+		birth_date = 1410.2.4
+		dynasty = "Kalinga Ganga"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 547
+	add_treasury = 13
+	add_prestige = 201
+}

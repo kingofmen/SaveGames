@@ -1,0 +1,171 @@
+# Burgundy
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 134 0 37 }
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	exploration_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Forflissa" "Egilona" "Leodegundis" "Kaspar" "Wimarano" "Iberia" "Ursula" "Friedenando" "Heilwiva" "Elisabeth" 
+	"Binhilde" "Cothilda" "Fafila" "Walther" "Ognjen" "Baldomar" "Karlmann" "Robin" "Gerberga" "Rudolf" 
+	"Reinhold" "Richardis" "Konstanze" "Hupold" "Kriemhild" "Friedrich" "Luitgard" "Agathe" "Filibert" "Klementia" 
+	"Peter" "Stefan" "Berenguié" "Walram" "Gotthard" "Ingjerðr" "Lupo" "Dorothea" "Gunhilda" "Hemma" 
+	"Airmanagildo" "Günther" "Guttier" "Eufemia" "Ermessentz" "Alberich" "Aldrich" "Ivanis" "Osterhild" "Irmele" 
+	"Wulfhilde" "Matthias" "Lothar" "Wolfgang" "Hildegard" "Albrecht" "Dietmar" "Christine" "Wido" "Markward" 
+	"Flamula" "Mirna" "Matilda" "Gersenda" "Gautier" "Udalrich" "Siegmund" "Karloman" "Louis" "Lothaire" 
+	"Mihangel" "Adelfonso" "Agila" "Alaricho" "Aloito" "Assur" "Athanagildo" "Berengario" "Diaco" "Friednand" 
+	"Froila" "Garçi" "Gonçalo" "Gundemar" "Johan" "Liuva" "Liuvericho" "Mauregato" "Monnio" "Nunno" 
+	"Oliba" "Ordonno" "Pelagio" "Petro" "Ranimiro" "Rekkaredo" "Rodericho" "Sans" "Silo" "Suneario" 
+	"Suniefredo" "Theodoricho" "Veremondo" "Wifredo" "Witiza" }
+monarch_names = {
+	"Forflissa #0" = -1
+	"Egilona #0" = -1
+	"Leodegundis #0" = -1
+	"Kaspar #1" = 18
+	"Wimarano #0" = 1
+	"Iberia #0" = -1
+	"Ursula #0" = -1
+	"Friedenando #0" = 1
+	"Heilwiva #0" = -1
+	"Elisabeth #0" = -1
+	"Binhilde #0" = -1
+	"Cothilda #0" = -1
+	"Fafila #0" = 1
+	"Walther #0" = 1
+	"Ognjen #1" = 21
+	"Baldomar #0" = 1
+	"Karlmann #1" = 18
+	"Robin #1" = 24
+	"Gerberga #0" = -1
+	"Rudolf #0" = 1
+	"Reinhold #2" = 21
+	"Richardis #0" = -1
+	"Konstanze #0" = -1
+	"Hupold #0" = 1
+	"Kriemhild #0" = -1
+	"Friedrich #0" = 1
+	"Luitgard #0" = -1
+	"Agathe #0" = -1
+	"Filibert #0" = 1
+	"Klementia #0" = -1
+	"Peter #0" = 1
+	"Stefan #0" = 1
+	"Berenguié #0" = 1
+	"Walram #1" = 18
+	"Gotthard #0" = 1
+	"Ingjerðr #0" = -1
+	"Lupo #0" = 1
+	"Dorothea #0" = -1
+	"Gunhilda #0" = -1
+	"Hemma #0" = -1
+	"Airmanagildo #0" = 1
+	"Günther #0" = 1
+	"Guttier #0" = 1
+	"Eufemia #0" = -1
+	"Ermessentz #0" = -1
+	"Alberich #0" = 1
+	"Aldrich #1" = 18
+	"Ivanis #1" = 18
+	"Osterhild #0" = -1
+	"Irmele #0" = -1
+	"Wulfhilde #0" = -1
+	"Matthias #0" = 1
+	"Lothar #0" = 1
+	"Wolfgang #0" = 1
+	"Hildegard #0" = -1
+	"Albrecht #1" = 18
+	"Dietmar #0" = 1
+	"Christine #0" = -1
+	"Wido #0" = 1
+	"Markward #0" = 1
+	"Flamula #0" = -1
+	"Mirna #0" = -1
+	"Matilda #0" = -1
+	"Gersenda #0" = -1
+	"Gautier #0" = 1
+	"Udalrich #0" = 1
+	"Siegmund #0" = 1
+	"Karloman #1" = 0
+	"Louis #1" = 0
+	"Lothaire #2" = 0
+	"Mihangel #1" = 0
+	"Adelfonso #0" = 0
+	"Agila #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Assur #0" = 0
+	"Athanagildo #0" = 0
+	"Berengario #0" = 0
+	"Diaco #0" = 0
+	"Friednand #0" = 0
+	"Froila #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Gundemar #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Mauregato #0" = 0
+	"Monnio #0" = 0
+	"Nunno #0" = 0
+	"Oliba #0" = 0
+	"Ordonno #0" = 0
+	"Pelagio #0" = 0
+	"Petro #0" = 0
+	"Ranimiro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Suniefredo #0" = 0
+	"Theodoricho #0" = 0
+	"Veremondo #0" = 0
+	"Wifredo #0" = 0
+	"Witiza #0" = 0
+}
+ship_names = {
+	Armançon Arroux
+	Bourgogne Brugge
+	Cambrai "Castrum Divionense" Childebert "Childebert II" Chilperic Citeaux Chlothar Cluny Comtesse "Côte-d'Or" 
+	Dijon "Duc de Bourgogne" Duchesse 
+	Gebicca Giselher Godegisel Godomar Gunderic Gundobad Gundomar "Gundomar II" Gunther Guntram
+	"Jean sans Peur"
+	"Marie de Bourgogne"
+	"Philippe le Bon" "Philippe le Hardi"
+	"Richard de Bourgogne"
+	Saône Sigismund
+	Theudebert "Theuderic II"
+	Vézelay
+}
+

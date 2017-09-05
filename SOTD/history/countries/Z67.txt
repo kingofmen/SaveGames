@@ -1,0 +1,23 @@
+# Ravenna
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+capital = 114
+1443.5.21 = {
+	monarch = {
+		name = "Simonetto"
+		birth_date = 1414.10.14
+		dynasty = "di Ravenna"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 114
+	add_treasury = 24
+	add_prestige = 0
+}

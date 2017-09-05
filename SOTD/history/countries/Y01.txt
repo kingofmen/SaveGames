@@ -1,0 +1,25 @@
+# Antioch
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2313
+1411.9.5 = {
+	monarch = {
+		name = "Abdul-Wahab II"
+		birth_date = 1384.5.22
+		dynasty = "Botaneiates"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2313
+	add_treasury = 20
+	add_prestige = 180
+}

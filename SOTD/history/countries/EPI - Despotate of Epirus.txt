@@ -1,0 +1,23 @@
+# Epirus
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 144
+1435.5.16 = {
+	monarch = {
+		name = "Germanos"
+		birth_date = 1420.12.2
+		dynasty = "Lazuli"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 144
+	add_treasury = 14
+	add_prestige = 484
+}

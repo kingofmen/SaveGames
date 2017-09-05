@@ -1,0 +1,23 @@
+# Delhi
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+capital = 510
+1443.12.21 = {
+	monarch = {
+		name = "Hammir-Singh"
+		birth_date = 1401.8.2
+		dynasty = "Pratihara"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 510
+	add_treasury = 1
+	add_prestige = 457
+}

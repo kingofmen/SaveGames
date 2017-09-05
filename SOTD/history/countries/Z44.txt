@@ -1,0 +1,33 @@
+# Loon
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+capital = 1742
+1443.11.28 = {
+	monarch = {
+		name = "Castore"
+		birth_date = 1410.3.25
+		dynasty = "Widling"
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+	heir = {
+		name = "Fortunato"
+		monarch_name = "Fortunato"
+		dynasty = "Widling"
+		birth_date = 1417.7.25
+		death_date = 1497.7.25
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 1742
+	add_treasury = 21
+	add_prestige = 36
+}

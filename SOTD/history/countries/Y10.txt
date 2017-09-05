@@ -1,0 +1,34 @@
+# Abkhazia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = georgian
+religion = monothelite
+capital = 1856
+1437.5.19 = {
+	monarch = {
+		name = "Gubaz"
+		birth_date = 1436.12.18
+		dynasty = "Vakhvakhishvili"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Shorena"
+		monarch_name = "Shorena"
+		dynasty = "Vakhvakhishvili"
+		birth_date = 1434.11.18
+		death_date = 1514.11.18
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1856
+	add_treasury = 27
+	add_prestige = 2
+}

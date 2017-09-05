@@ -1,0 +1,37 @@
+# Charsianon
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 322
+1410.1.13 = {
+	monarch = {
+		name = "Laurentios"
+		birth_date = 1404.6.5
+		dynasty = "Alyattes"
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1425.6.26 = {
+	heir = {
+		name = "Romanos"
+		monarch_name = "Romanos"
+		dynasty = "Alyattes"
+		birth_date = 1425.6.26
+		death_date = 1505.6.26
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 322
+	add_treasury = 21
+	add_prestige = 56
+}

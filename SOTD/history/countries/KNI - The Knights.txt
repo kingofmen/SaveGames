@@ -1,0 +1,23 @@
+# Knights Hospitaller
+government = monastic_order_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = occitain
+religion = catholic
+capital = 148
+1442.11.4 = {
+	monarch = {
+		name = "Papaçyz"
+		birth_date = 1402.7.10
+		dynasty = "Borghest"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 148
+	add_treasury = 10
+	add_prestige = 341
+}

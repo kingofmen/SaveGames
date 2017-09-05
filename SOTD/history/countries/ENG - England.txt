@@ -1,0 +1,38 @@
+# England
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = normand
+religion = catholic
+clear_scripted_personalities = yes
+capital = 236
+1428.8.17 = {
+	monarch = {
+		name = "Torf II"
+		birth_date = 1415.1.16
+		dynasty = "von Britannia"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = scholar_personality
+}
+1442.6.28 = {
+	heir = {
+		name = "Fulk"
+		monarch_name = "Fulk"
+		dynasty = "von Britannia"
+		birth_date = 1442.6.28
+		death_date = 1522.6.28
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 236
+	add_treasury = -1
+	add_prestige = 467
+}

@@ -1,0 +1,39 @@
+# Mordor
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2312
+1414.10.20 = {
+	monarch = {
+		name = "Faisal III"
+		birth_date = 1384.7.25
+		dynasty = "Mordorite"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = industrious_personality
+}
+1416.7.4 = {
+	heir = {
+		name = "Umaya"
+		monarch_name = "Umaya"
+		dynasty = "Mordorite"
+		birth_date = 1416.7.4
+		death_date = 1496.7.4
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2312
+	add_treasury = 37
+	add_prestige = 854
+}

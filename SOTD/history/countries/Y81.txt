@@ -1,0 +1,23 @@
+# Haritanaka
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = hinduism
+capital = 2230
+1443.12.21 = {
+	monarch = {
+		name = "Harischandra"
+		birth_date = 1443.7.26
+		dynasty = "Pratihara"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2230
+	add_treasury = 0
+	add_prestige = 380
+}

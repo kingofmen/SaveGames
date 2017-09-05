@@ -1,0 +1,23 @@
+# Abbasid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+capital = 392
+1437.10.13 = {
+	monarch = {
+		name = "Murad"
+		birth_date = 1378.5.13
+		dynasty = "Abbasid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 392
+	add_treasury = 16
+	add_prestige = 294
+}

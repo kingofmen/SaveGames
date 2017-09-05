@@ -1,0 +1,38 @@
+# Zeta
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 138
+1435.3.25 = {
+	monarch = {
+		name = "Manuel"
+		birth_date = 1407.6.18
+		dynasty = "Akropolites"
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = industrious_personality
+}
+1439.6.12 = {
+	heir = {
+		name = "Theognosia"
+		monarch_name = "Theognosia"
+		dynasty = "Akropolites"
+		birth_date = 1439.6.12
+		death_date = 1519.6.12
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 138
+	add_treasury = 6
+	add_prestige = 41
+}

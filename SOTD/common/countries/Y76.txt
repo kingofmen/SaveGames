@@ -1,0 +1,206 @@
+# Turkestan
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 204 150 21 }
+
+
+
+
+leader_names = {
+
+	"Skonka" "Buzan" "Soraya" "Jitka" "Klára" "Shindyay" "Irnek" "Yartilek" "Chepa" "Bayan" 
+	"Kubrat" "Asparukh" "Batbayan" "Kotrag" "Kuber" "Tervel" "Ajjar" "Sevar" "Kormesiy" "Bozok" 
+	"Kermek" "Toktu" "Telerig" "Kardam" "Irkhan" "Krum" "Zvinica" "Omortag" "Tukiy" "Malamir" 
+	"Ügyek" "Kätyarikka" "Aydar" "Sibel" "Këlyamal" "Savtilek" "Shilki" "Almis" "Dometa" "Lärkka" 
+	"Krovat" "Batir" "Ipek" "Savkëlti" "Alzek" "Sarä" "Ayten" "Gundes" "Özlem" "Lyukha" 
+	"Shurkka" "Isbul" "Timërpälat" "Ilkay" "Çiltanesi" "Batulia" "Zenti" "Umay" "Sabin" "Sartäç" 
+	"Eskhakh" "Rassate" "Savaçka" "Malyy" "Sarkhan" "Gostun" "Organa" "Tetyava" "Bozçin" "Ayasun" 
+	"Sondoke" "Deryab" "Sirin" "Peksen" "Sehnaz" "Sati" "Gunduz" "Roshanora" "Gulçiçek" "Sandil" 
+	"Dengizikh" "Tada" "Behnaz" "Maturkka" "Johanka" "Fereedun" "Kavoos" "Kavadh" "Litava" "Nasr" 
+	"Mehrzad" "Pulad" "Etrek" "Kobyak" "Yapti" "Svatopluk" "Albert" "Albrecht" "Ales" "Arnost" 
+	"Bavor" "Bedrich" "Benes" "Bocek" "Bohuslav" "Boleslav" "Bores" "Borijov" "Bretislav" "Budivoj" 
+	"Castolov" "Cenek" "Chval" "Ctirad" "Diepold" "Detrich" "Drslav" "Gerhard" "Hanus" "Havel" 
+	"Heralt" "Herman" "Hrabis" "Hynek" "Jan" "Jaromír" "Jaroslav" "Jesek" "Jindrich" "Jirík" 
+	"Karel" "Kojata" "Konrád" "Kuník" "Litold" "Markvart" "Matous" "Mikulás" "Milic" "Mojmír" 
+	"Ojír" "Oldrich" "Ondrej" "Ota" "Otakar" "Pelhrim" "Petr" "Premysl" "Prokop" "Rajmund" 
+	"Rostislav" "Sezima" "Slavibor" "Slavomír" "Smil" "Sobieslav" "Spytihnev" "Strachkvas" "Svatobor" "Tobiás" 
+	"Václav" "Viktorín" "Vítek" "Vanek" "Vilém" "Vladimír" "Vladislav" "Vojtech" "Vratislav" "Vsebor" 
+	"Závis" "Zbynek" "Zdík" "Zdirad" "Zikmund" }
+monarch_names = {
+	"Skonka #0" = -1
+	"Buzan #0" = 1
+	"Soraya #0" = -1
+	"Jitka #1" = -19
+	"Klára #0" = -1
+	"Shindyay #0" = 1
+	"Irnek #0" = 1
+	"Yartilek #0" = -1
+	"Chepa #0" = 1
+	"Bayan #0" = 1
+	"Kubrat #0" = 1
+	"Asparukh #0" = 1
+	"Batbayan #0" = 1
+	"Kotrag #0" = 1
+	"Kuber #0" = 1
+	"Tervel #0" = 1
+	"Ajjar #0" = 1
+	"Sevar #0" = 1
+	"Kormesiy #0" = 1
+	"Bozok #0" = -1
+	"Kermek #0" = 1
+	"Toktu #0" = 1
+	"Telerig #0" = 1
+	"Kardam #0" = 1
+	"Irkhan #0" = 1
+	"Krum #0" = 1
+	"Zvinica #0" = 1
+	"Omortag #0" = 1
+	"Tukiy #0" = 1
+	"Malamir #0" = 1
+	"Ügyek #0" = 1
+	"Kätyarikka #0" = -1
+	"Aydar #0" = 1
+	"Sibel #0" = -1
+	"Këlyamal #0" = -1
+	"Savtilek #0" = -1
+	"Shilki #0" = 1
+	"Almis #0" = 1
+	"Dometa #0" = 1
+	"Lärkka #0" = -1
+	"Krovat #0" = 1
+	"Batir #0" = 1
+	"Ipek #0" = -1
+	"Savkëlti #0" = -1
+	"Alzek #0" = 1
+	"Sarä #0" = -1
+	"Ayten #0" = -1
+	"Gundes #0" = -1
+	"Özlem #0" = -1
+	"Lyukha #0" = -1
+	"Shurkka #0" = -1
+	"Isbul #0" = 1
+	"Timërpälat #0" = 1
+	"Ilkay #0" = -1
+	"Çiltanesi #0" = -1
+	"Batulia #0" = 1
+	"Zenti #0" = 1
+	"Umay #0" = -1
+	"Sabin #0" = 1
+	"Sartäç #0" = 1
+	"Eskhakh #0" = 1
+	"Rassate #0" = 1
+	"Savaçka #0" = -1
+	"Malyy #0" = 1
+	"Sarkhan #1" = 18
+	"Gostun #0" = 1
+	"Organa #2" = 24
+	"Tetyava #0" = -1
+	"Bozçin #0" = -1
+	"Ayasun #0" = -1
+	"Sondoke #0" = 1
+	"Deryab #0" = 1
+	"Sirin #0" = -1
+	"Peksen #0" = -1
+	"Sehnaz #0" = -1
+	"Sati #0" = -1
+	"Gunduz #0" = -1
+	"Roshanora #0" = -1
+	"Gulçiçek #0" = -1
+	"Sandil #0" = 1
+	"Dengizikh #0" = 1
+	"Tada #0" = -1
+	"Behnaz #0" = -1
+	"Maturkka #0" = -1
+	"Johanka #0" = -1
+	"Fereedun #0" = 1
+	"Kavoos #1" = 18
+	"Kavadh #1" = 18
+	"Litava #0" = -1
+	"Nasr #1" = 0
+	"Mehrzad #1" = 0
+	"Pulad #1" = 0
+	"Etrek #2" = 0
+	"Kobyak #1" = 0
+	"Yapti #1" = 0
+	"Svatopluk #1" = 0
+	"Albert #0" = 0
+	"Albrecht #0" = 0
+	"Ales #0" = 0
+	"Arnost #0" = 0
+	"Bavor #0" = 0
+	"Bedrich #0" = 0
+	"Benes #0" = 0
+	"Bocek #0" = 0
+	"Bohuslav #0" = 0
+	"Boleslav #0" = 0
+	"Bores #0" = 0
+	"Borijov #0" = 0
+	"Bretislav #0" = 0
+	"Budivoj #0" = 0
+	"Castolov #0" = 0
+	"Cenek #0" = 0
+	"Chval #0" = 0
+	"Ctirad #0" = 0
+	"Diepold #0" = 0
+	"Detrich #0" = 0
+	"Drslav #0" = 0
+	"Gerhard #0" = 0
+	"Hanus #0" = 0
+	"Havel #0" = 0
+	"Heralt #0" = 0
+	"Herman #0" = 0
+	"Hrabis #0" = 0
+	"Hynek #0" = 0
+	"Jan #0" = 0
+	"Jaromír #0" = 0
+	"Jaroslav #0" = 0
+	"Jesek #0" = 0
+	"Jindrich #0" = 0
+	"Jirík #0" = 0
+	"Karel #0" = 0
+	"Kojata #0" = 0
+	"Konrád #0" = 0
+	"Kuník #0" = 0
+	"Litold #0" = 0
+	"Markvart #0" = 0
+	"Matous #0" = 0
+	"Mikulás #0" = 0
+	"Milic #0" = 0
+	"Mojmír #0" = 0
+	"Ojír #0" = 0
+	"Oldrich #0" = 0
+	"Ondrej #0" = 0
+	"Ota #0" = 0
+	"Otakar #0" = 0
+	"Pelhrim #0" = 0
+	"Petr #0" = 0
+	"Premysl #0" = 0
+	"Prokop #0" = 0
+	"Rajmund #0" = 0
+	"Rostislav #0" = 0
+	"Sezima #0" = 0
+	"Slavibor #0" = 0
+	"Slavomír #0" = 0
+	"Smil #0" = 0
+	"Sobieslav #0" = 0
+	"Spytihnev #0" = 0
+	"Strachkvas #0" = 0
+	"Svatobor #0" = 0
+	"Tobiás #0" = 0
+	"Václav #0" = 0
+	"Viktorín #0" = 0
+	"Vítek #0" = 0
+	"Vanek #0" = 0
+	"Vilém #0" = 0
+	"Vladimír #0" = 0
+	"Vladislav #0" = 0
+	"Vojtech #0" = 0
+	"Vratislav #0" = 0
+	"Vsebor #0" = 0
+	"Závis #0" = 0
+	"Zbynek #0" = 0
+	"Zdík #0" = 0
+	"Zdirad #0" = 0
+	"Zikmund #0" = 0
+}
+

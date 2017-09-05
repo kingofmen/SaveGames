@@ -1,0 +1,26 @@
+# Jämtland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 10
+1408.1.9 = {
+	monarch = {
+		name = "Alonso"
+		birth_date = 1377.4.6
+		dynasty = "de Castro"
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 10
+	add_treasury = 9
+	add_prestige = 191
+}

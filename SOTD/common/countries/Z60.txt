@@ -1,0 +1,97 @@
+# Finnmark
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 200 80 30 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	#New Ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Ramiro" "Juana" "Jimena" "Ordoño" "Mencía" "Estefanía" "Fernando" "Felipe" "Elvira" "Alfonso" 
+	"Alonso" "Álvar" "Álvaro" "Bermudo" "Diego" "Enrique" "Fadrique" "Fruela" "García" "Gil" 
+	"Gómez" "Gonzalo" "Guillén" "Guillermo" "Gutierre" "Juan" "Lope" "Luis" "Manrique" "Martín" 
+	"Munio" "Nuño" "Oveco" "Pedro" "Pelayo" "Rodrigo" "Salvador" "Sancho" "Suero" "Tello" 
+	"Vela" }
+monarch_names = {
+	"Ramiro #1" = 18
+	"Juana #0" = -1
+	"Jimena #0" = -1
+	"Ordoño #0" = 1
+	"Mencía #0" = -1
+	"Estefanía #0" = -1
+	"Fernando #1" = 18
+	"Felipe #2" = 24
+	"Elvira #0" = -1
+	"Alfonso #0" = 0
+	"Alonso #0" = 0
+	"Álvar #0" = 0
+	"Álvaro #0" = 0
+	"Bermudo #0" = 0
+	"Diego #0" = 0
+	"Enrique #0" = 0
+	"Fadrique #0" = 0
+	"Fruela #0" = 0
+	"García #0" = 0
+	"Gil #0" = 0
+	"Gómez #0" = 0
+	"Gonzalo #0" = 0
+	"Guillén #0" = 0
+	"Guillermo #0" = 0
+	"Gutierre #0" = 0
+	"Juan #0" = 0
+	"Lope #0" = 0
+	"Luis #0" = 0
+	"Manrique #0" = 0
+	"Martín #0" = 0
+	"Munio #0" = 0
+	"Nuño #0" = 0
+	"Oveco #0" = 0
+	"Pedro #0" = 0
+	"Pelayo #0" = 0
+	"Rodrigo #0" = 0
+	"Salvador #0" = 0
+	"Sancho #0" = 0
+	"Suero #0" = 0
+	"Tello #0" = 0
+	"Vela #0" = 0
+}
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

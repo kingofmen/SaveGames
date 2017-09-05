@@ -1,0 +1,25 @@
+# Jannabid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 395
+1440.6.5 = {
+	monarch = {
+		name = "Abdul-Wahab III"
+		birth_date = 1403.5.23
+		dynasty = "Jannabid"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 395
+	add_treasury = 50
+	add_prestige = 57
+}

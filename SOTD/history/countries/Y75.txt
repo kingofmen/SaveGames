@@ -1,0 +1,26 @@
+# Aksonqorid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = animism
+clear_scripted_personalities = yes
+capital = 476
+1444.1.24 = {
+	monarch = {
+		name = "Fatma"
+		birth_date = 1397.2.4
+		dynasty = "Aksonqorid"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 476
+	add_treasury = 0
+	add_prestige = 52
+}

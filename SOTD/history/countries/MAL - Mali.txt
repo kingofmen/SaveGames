@@ -1,0 +1,36 @@
+# Mali
+government = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1132
+1431.5.23 = {
+	monarch = {
+		name = "Kanafa"
+		birth_date = 1404.6.27
+		dynasty = "Cisse"
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Nintasanay"
+		monarch_name = "Nintasanay"
+		dynasty = "Cisse"
+		birth_date = 1423.7.15
+		death_date = 1503.7.15
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 1132
+	add_treasury = 38
+	add_prestige = 340
+}

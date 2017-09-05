@@ -1,0 +1,26 @@
+# Mazovia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = latvian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 272
+1422.1.7 = {
+	monarch = {
+		name = "Eskild II"
+		birth_date = 1399.2.12
+		dynasty = "Örn"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 272
+	add_treasury = 18
+	add_prestige = 154
+}

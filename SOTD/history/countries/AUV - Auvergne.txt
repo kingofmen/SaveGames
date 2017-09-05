@@ -1,0 +1,26 @@
+# Auvergne
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = catholic
+clear_scripted_personalities = yes
+capital = 199
+1412.2.1 = {
+	monarch = {
+		name = "Foulques"
+		birth_date = 1391.12.2
+		dynasty = "d'Auvergne"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 199
+	add_treasury = 18
+	add_prestige = 180
+}

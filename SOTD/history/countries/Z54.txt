@@ -1,0 +1,24 @@
+# Obotritia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = pommeranian
+religion = catholic
+capital = 1763
+1443.8.5 = {
+	monarch = {
+		name = "Andela"
+		birth_date = 1412.1.14
+		dynasty = "Wend"
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 1763
+	add_treasury = 19
+	add_prestige = 13
+}

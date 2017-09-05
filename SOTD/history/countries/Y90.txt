@@ -1,0 +1,25 @@
+# Mushkarid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = marathi
+religion = jain
+clear_scripted_personalities = yes
+capital = 2034
+1439.6.26 = {
+	monarch = {
+		name = "Jagaraya"
+		birth_date = 1425.10.28
+		dynasty = "Mushkarid"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2034
+	add_treasury = 12
+	add_prestige = 78
+}

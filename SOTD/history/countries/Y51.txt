@@ -1,0 +1,23 @@
+# Nobatia
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = nubian
+religion = ibadi
+capital = 362
+1441.2.24 = {
+	monarch = {
+		name = "Theodote"
+		birth_date = 1439.12.20
+		dynasty = "Hedareb"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 362
+	add_treasury = 15
+	add_prestige = 203
+}

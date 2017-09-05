@@ -1,0 +1,23 @@
+# Granada
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = visigothic
+religion = catholic
+capital = 223
+1442.5.28 = {
+	monarch = {
+		name = "Ninian"
+		birth_date = 1402.2.23
+		dynasty = "Cameron"
+		adm = 1
+		dip = 0
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 223
+	add_treasury = 22
+	add_prestige = 50
+}

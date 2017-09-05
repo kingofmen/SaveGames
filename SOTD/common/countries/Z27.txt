@@ -1,0 +1,283 @@
+# Portucale
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 182 108 45 }
+historical_idea_groups = {
+	religious_ideas
+	naval_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Marguerite" "Henry" "Guilhem" "Eve" "Guillaume" "Anne" "Helvis" "Nikolaus" "Zubayda" "Angelbert" 
+	"Katharina" "Nicolas" "Léon" "Gelduin" "Henri" "Sophie" "Dietpold" "Rorgues" "Inga" "Arsinde" 
+	"Simon" "Ida" "Creat" "Édouard" "Cathèrine" "Stefania" "Klementia" "Bourgogne" "Adelinde" "Arnaud" 
+	"Giuditta" "Mélisende" "Mélisande" "Bourguigne" "Sybille" "Hadrad" "Rothard" "Welf" "Dhuoda" "Judith" 
+	"Konrad" "Emma" "Rudolf" "Hemma" "Folkmar" "Hugo" "Raoul" "Burchard" "Kaspar" "Foulques" 
+	"Karlmann" "Rigunth" "Radulf" "Maria" "Adela" "Theodorich" "Géraud" "Manassès" "Eticho" "Adelaide" 
+	"Amalberga" "Birinus" "Arnold" "Cecilie" "Aliénor" "Baldarich" "Valence" "Corrado" "Leonide" "Ruprecht" 
+	"Ekkehard" "Barthélémi" "Raymonde" "Orson" "Mascarose" "Walpurga" "Gudrun" "Benedicta" "Richwara" "Sigismund" 
+	"Lambert" "Adalhard" "Serhilda" "Konstanze" "Wolfgang" "Thomas" "Geoffroy" "Ildégarde" "Douce" "Toumas" 
+	"Béatrice" "Guichard" "Cécile" "Ludolf" "Hildeburg" "Étienne" "Eneko" "Friedrica" "Ugo" "Johann" 
+	"Helferich" "Ursula" "Adèle" "Koenraad" "Gerberge" "Guy" "Beatrix" "Gunhilda" "Agnes" "Sofie" 
+	"Margarete" "Hedwig" "Romilda" "Héloise" "Barbara" "Walther" "Benoîte" "Leone" "Hugues" "Ermessinde" 
+	"François" "Blanche" "Georg" "Jeanne" "André" "Mahaut" "Helene" "Sigismond" "Gisela" "Aléarde" 
+	"Hartmann" "Raimbaut" "Leopoldo" "Guigliadore" "Louis" "Echive" "Hamelin" "Amalrich" "Clotilde" "Agnès" 
+	"Bonne" "Waldemar" "Berta" "Bertrada" "Bertrand" "Gebhard" "Gauthier" "Teutbald" "Ademar" "Gaucher" 
+	"Amaury" "Wilhelmina" "Étiennette" "Guillaumette" "Emich" "Bernhard" "Alix" "Ermengard" "Isentrude" "Wimarano" 
+	"Lucidio" "Mauregato" "Onecca" "Diaco" "Iberia" "Adelfonso" "William" "Herbert" "Armand" "Agila" 
+	"Airmanagildo" "Alaricho" "Aloito" "Assur" "Athanagildo" "Berengario" "Fafila" "Friedenando" "Friednand" "Froila" 
+	"Garçi" "Gonçalo" "Gundemar" "Guttier" "Johan" "Liuva" "Liuvericho" "Lupo" "Monnio" "Nunno" 
+	"Oliba" "Ordonno" "Pelagio" "Petro" "Ranimiro" "Rekkaredo" "Rodericho" "Sans" "Silo" "Suneario" 
+	"Suniefredo" "Theodoricho" "Veremondo" "Wifredo" "Witiza" }
+monarch_names = {
+	"Marguerite #0" = -1
+	"Henry #2" = 18
+	"Guilhem #0" = 1
+	"Eve #0" = -1
+	"Guillaume #0" = 1
+	"Anne #0" = -1
+	"Helvis #0" = -1
+	"Nikolaus #1" = 33
+	"Zubayda #0" = -1
+	"Angelbert #0" = 1
+	"Katharina #0" = -1
+	"Nicolas #0" = 1
+	"Léon #0" = 1
+	"Gelduin #0" = 1
+	"Henri #1" = 30
+	"Sophie #0" = -1
+	"Dietpold #0" = 1
+	"Rorgues #0" = 1
+	"Inga #0" = -1
+	"Arsinde #0" = -1
+	"Simon #0" = 1
+	"Ida #0" = -1
+	"Creat #0" = 1
+	"Édouard #0" = 1
+	"Cathèrine #0" = -1
+	"Stefania #0" = -1
+	"Klementia #0" = -1
+	"Bourgogne #0" = -1
+	"Adelinde #0" = -1
+	"Arnaud #0" = 1
+	"Giuditta #0" = -1
+	"Mélisende #0" = -1
+	"Mélisande #0" = -1
+	"Bourguigne #0" = -1
+	"Sybille #0" = -1
+	"Hadrad #0" = 1
+	"Rothard #0" = 1
+	"Welf #0" = 1
+	"Dhuoda #0" = -1
+	"Judith #0" = -1
+	"Konrad #0" = 1
+	"Emma #0" = -1
+	"Rudolf #0" = 1
+	"Hemma #0" = -1
+	"Folkmar #0" = 1
+	"Hugo #0" = 1
+	"Raoul #0" = 1
+	"Burchard #0" = 1
+	"Kaspar #0" = 1
+	"Foulques #0" = 1
+	"Karlmann #0" = 1
+	"Rigunth #0" = -1
+	"Radulf #0" = 1
+	"Maria #0" = -1
+	"Adela #0" = -1
+	"Theodorich #0" = 1
+	"Géraud #0" = 1
+	"Manassès #0" = 1
+	"Eticho #0" = 1
+	"Adelaide #0" = -1
+	"Amalberga #0" = -1
+	"Birinus #0" = 1
+	"Arnold #0" = 1
+	"Cecilie #0" = -1
+	"Aliénor #0" = -1
+	"Baldarich #0" = 1
+	"Valence #0" = -1
+	"Corrado #0" = 1
+	"Leonide #0" = -1
+	"Ruprecht #0" = 1
+	"Ekkehard #0" = 1
+	"Barthélémi #0" = 1
+	"Raymonde #0" = -1
+	"Orson #0" = 1
+	"Mascarose #0" = -1
+	"Walpurga #0" = -1
+	"Gudrun #0" = -1
+	"Benedicta #0" = -1
+	"Richwara #0" = -1
+	"Sigismund #0" = 1
+	"Lambert #0" = 1
+	"Adalhard #0" = 1
+	"Serhilda #0" = -1
+	"Konstanze #0" = -1
+	"Wolfgang #0" = 1
+	"Thomas #0" = 1
+	"Geoffroy #0" = 1
+	"Ildégarde #0" = -1
+	"Douce #0" = -1
+	"Toumas #0" = 1
+	"Béatrice #0" = -1
+	"Guichard #0" = 1
+	"Cécile #0" = -1
+	"Ludolf #0" = 1
+	"Hildeburg #0" = -1
+	"Étienne #0" = 1
+	"Eneko #0" = 1
+	"Friedrica #0" = -1
+	"Ugo #0" = 1
+	"Johann #0" = 1
+	"Helferich #0" = 1
+	"Ursula #0" = -1
+	"Adèle #0" = -1
+	"Koenraad #0" = 1
+	"Gerberge #0" = -1
+	"Guy #0" = 1
+	"Beatrix #0" = -1
+	"Gunhilda #0" = -1
+	"Agnes #0" = -1
+	"Sofie #0" = -1
+	"Margarete #0" = -1
+	"Hedwig #0" = -1
+	"Romilda #0" = -1
+	"Héloise #0" = -1
+	"Barbara #0" = -1
+	"Walther #0" = 1
+	"Benoîte #0" = -1
+	"Leone #0" = 1
+	"Hugues #0" = 1
+	"Ermessinde #0" = -1
+	"François #0" = 1
+	"Blanche #0" = -1
+	"Georg #0" = 1
+	"Jeanne #0" = -1
+	"André #0" = 1
+	"Mahaut #0" = -1
+	"Helene #0" = -1
+	"Sigismond #0" = 1
+	"Gisela #0" = -1
+	"Aléarde #0" = -1
+	"Hartmann #0" = 1
+	"Raimbaut #0" = 1
+	"Leopoldo #0" = 1
+	"Guigliadore #0" = 1
+	"Louis #0" = 1
+	"Echive #0" = -1
+	"Hamelin #0" = 1
+	"Amalrich #0" = 1
+	"Clotilde #0" = -1
+	"Agnès #0" = -1
+	"Bonne #0" = -1
+	"Waldemar #0" = 1
+	"Berta #0" = -1
+	"Bertrada #0" = -1
+	"Bertrand #0" = 1
+	"Gebhard #0" = 1
+	"Gauthier #0" = 1
+	"Teutbald #0" = 1
+	"Ademar #0" = 1
+	"Gaucher #0" = 1
+	"Amaury #0" = 1
+	"Wilhelmina #0" = -1
+	"Étiennette #0" = -1
+	"Guillaumette #0" = -1
+	"Emich #0" = 1
+	"Bernhard #0" = 1
+	"Alix #0" = -1
+	"Ermengard #0" = -1
+	"Isentrude #0" = -1
+	"Wimarano #2" = 0
+	"Lucidio #1" = 0
+	"Mauregato #1" = 0
+	"Onecca #1" = -1
+	"Diaco #1" = 0
+	"Iberia #1" = -1
+	"Adelfonso #1" = 0
+	"William #2" = 0
+	"Herbert #2" = 0
+	"Armand #1" = 0
+	"Agila #0" = 0
+	"Airmanagildo #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Assur #0" = 0
+	"Athanagildo #0" = 0
+	"Berengario #0" = 0
+	"Fafila #0" = 0
+	"Friedenando #0" = 0
+	"Friednand #0" = 0
+	"Froila #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Gundemar #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Lupo #0" = 0
+	"Monnio #0" = 0
+	"Nunno #0" = 0
+	"Oliba #0" = 0
+	"Ordonno #0" = 0
+	"Pelagio #0" = 0
+	"Petro #0" = 0
+	"Ranimiro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Suniefredo #0" = 0
+	"Theodoricho #0" = 0
+	"Veremondo #0" = 0
+	"Wifredo #0" = 0
+	"Witiza #0" = 0
+}
+ship_names = {
+	Galicia Argonauta Asturias Asunción Atrevido Azor
+	Cartagonova Castilla "Castillo Negro" Castor "Ciervo Volante"
+	Doncella Dragón 
+	"El Gran Grin" "El Retiro" Eneas Eolo Esperanza "Espíritu Santo" Extremadura
+	Furor Galicia "Gran Grifón" Halcón Hércules Isabela Júpiter
+	"La Concepción" "La Magdalena" "La Manuela" León Ligera "Lobo Marino"
+	Marte Mercurio Neptuno Niña Orión
+	"Paloma Blanca" Pegaso "Perro Marino" Pinta Plutón Pollux "Príncipe de Asturias"
+	Rayo "Real Alfonso" "Real Enrique" "Real Juan" "Rey Pelayo" "Rey Rodrigo"
+	"San Andrés" "San Antonio" "San Bartolomé" "San Bernabé" "San Cristobal" "San Enrique"
+	"San Esteban" "San Fernando" "San Francisco" "San Gabriel" "San Isidoro" "San Jerónimo"
+	"San José" "San Juan" "San Juan Bautista" "San Leandro" "San Miguel" "San Pedro"
+	"San Rafael" "San Salvador" "San Sebastian" "Santa Ana" "Santa Bárbara" "Santa Beatriz"
+	"Santa Catalina" "Santa Cruz" "Santa Fe" "Santa Isabel" "Santa Justa" "Santa María"
+	"Santa Marta" "Santa Rita" "Santa Teresa" Santiago "Santísima Trinidad" "Santo Domingo" Sirena
+	Terror Toledo Trinidad Tritón Unicornio
+	Vencedora Ventura Victoria Vigilante Vizcaya Vulcano Zúñiga
+}
+

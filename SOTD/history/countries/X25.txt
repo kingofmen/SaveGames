@@ -1,0 +1,25 @@
+# Kabulistan
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2225
+1441.6.2 = {
+	monarch = {
+		name = "Ehsan"
+		birth_date = 1415.7.9
+		dynasty = "Saffarid"
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2225
+	add_treasury = 17
+	add_prestige = 116
+}

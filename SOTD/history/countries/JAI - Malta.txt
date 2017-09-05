@@ -1,0 +1,26 @@
+# Malta
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = croatian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 126
+1441.8.1 = {
+	monarch = {
+		name = "Jagoda"
+		birth_date = 1414.9.21
+		dynasty = "Hrvatinic"
+		female = yes
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 126
+	add_treasury = 28
+	add_prestige = 24
+}

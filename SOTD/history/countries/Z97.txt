@@ -1,0 +1,26 @@
+# Fatimid
+government = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 382
+1390.11.24 = {
+	monarch = {
+		name = "Aarif II"
+		birth_date = 1378.2.5
+		dynasty = "Fatimid"
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 382
+	add_treasury = 9
+	add_prestige = 975
+}

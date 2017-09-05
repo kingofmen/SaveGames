@@ -1,0 +1,35 @@
+# Candravamsa
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 564
+1441.1.23 = {
+	monarch = {
+		name = "Virajdendranarayan"
+		birth_date = 1409.1.18
+		dynasty = "Candravamsa"
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Rajyapala"
+		monarch_name = "Rajyapala II"
+		dynasty = "Candravamsa"
+		birth_date = 1420.12.15
+		death_date = 1500.12.15
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+1444.11.11 = {
+	capital = 564
+	add_treasury = 11
+	add_prestige = 144
+}

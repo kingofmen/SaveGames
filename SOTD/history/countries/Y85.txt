@@ -1,0 +1,25 @@
+# Talakad Ganga
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = jain
+clear_scripted_personalities = yes
+capital = 569
+1441.4.27 = {
+	monarch = {
+		name = "Harihara IV"
+		birth_date = 1423.6.18
+		dynasty = "Talakad Ganga"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 569
+	add_treasury = 22
+	add_prestige = 122
+}

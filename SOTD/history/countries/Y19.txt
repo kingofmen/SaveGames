@@ -1,0 +1,36 @@
+# Alavid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 426
+1424.9.14 = {
+	monarch = {
+		name = "Abdul-Wahab"
+		birth_date = 1423.12.2
+		dynasty = "Alavid"
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Qawurd"
+		monarch_name = "Qawurd"
+		dynasty = "Alavid"
+		birth_date = 1388.3.23
+		death_date = 1468.3.23
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 426
+	add_treasury = 38
+	add_prestige = 145
+}

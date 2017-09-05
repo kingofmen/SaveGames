@@ -1,0 +1,35 @@
+# Meshchera
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
+clear_scripted_personalities = yes
+capital = 302
+1441.9.2 = {
+	monarch = {
+		name = "Vechkas II"
+		birth_date = 1418.12.21
+		dynasty = "Nuyakshid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Nuyat"
+		monarch_name = "Nuyat II"
+		dynasty = "Nuyakshid"
+		birth_date = 1437.4.3
+		death_date = 1517.4.3
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 302
+	add_treasury = 18
+	add_prestige = 34
+}

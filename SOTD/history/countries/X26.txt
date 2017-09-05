@@ -1,0 +1,23 @@
+# Sinhala
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = sinhala
+religion = sunni
+capital = 2099
+1440.10.28 = {
+	monarch = {
+		name = "Papasinen"
+		birth_date = 1424.10.2
+		dynasty = "Menaid"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2099
+	add_treasury = 26
+	add_prestige = 31
+}

@@ -1,0 +1,102 @@
+# Jämtland
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 45 85 245 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	#New Ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Aldonza" "Gil" "Juana" "Jimena" "Suero" "Alonso" "Blanca" "Arni" "Guðfrið" "Hrolfr" 
+	"Ingólfr" "Aleta" "Godfrey" "Fernando" "Alfonso" "Álvar" "Álvaro" "Bermudo" "Diego" "Enrique" 
+	"Fadrique" "Felipe" "Fruela" "García" "Gómez" "Gonzalo" "Guillén" "Guillermo" "Gutierre" "Juan" 
+	"Lope" "Luis" "Manrique" "Martín" "Munio" "Nuño" "Ordoño" "Oveco" "Pedro" "Pelayo" 
+	"Ramiro" "Rodrigo" "Salvador" "Sancho" "Tello" "Vela" }
+monarch_names = {
+	"Aldonza #0" = -1
+	"Gil #0" = 1
+	"Juana #0" = -1
+	"Jimena #0" = -1
+	"Suero #0" = 1
+	"Alonso #1" = 18
+	"Blanca #0" = -1
+	"Arni #1" = 0
+	"Guðfrið #1" = 0
+	"Hrolfr #2" = 0
+	"Ingólfr #1" = 0
+	"Aleta #1" = -1
+	"Godfrey #1" = 0
+	"Fernando #1" = 0
+	"Alfonso #0" = 0
+	"Álvar #0" = 0
+	"Álvaro #0" = 0
+	"Bermudo #0" = 0
+	"Diego #0" = 0
+	"Enrique #0" = 0
+	"Fadrique #0" = 0
+	"Felipe #0" = 0
+	"Fruela #0" = 0
+	"García #0" = 0
+	"Gómez #0" = 0
+	"Gonzalo #0" = 0
+	"Guillén #0" = 0
+	"Guillermo #0" = 0
+	"Gutierre #0" = 0
+	"Juan #0" = 0
+	"Lope #0" = 0
+	"Luis #0" = 0
+	"Manrique #0" = 0
+	"Martín #0" = 0
+	"Munio #0" = 0
+	"Nuño #0" = 0
+	"Ordoño #0" = 0
+	"Oveco #0" = 0
+	"Pedro #0" = 0
+	"Pelayo #0" = 0
+	"Ramiro #0" = 0
+	"Rodrigo #0" = 0
+	"Salvador #0" = 0
+	"Sancho #0" = 0
+	"Tello #0" = 0
+	"Vela #0" = 0
+}
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

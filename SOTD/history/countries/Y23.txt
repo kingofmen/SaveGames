@@ -1,0 +1,23 @@
+# Tahirid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+capital = 430
+1431.3.24 = {
+	monarch = {
+		name = "Farzad II"
+		birth_date = 1402.12.18
+		dynasty = "Tahirid"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 430
+	add_treasury = 9
+	add_prestige = 201
+}

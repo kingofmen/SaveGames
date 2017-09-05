@@ -1,0 +1,76 @@
+# Castille
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 242 196 12 }
+
+
+
+
+leader_names = {
+
+	"Monniadomna" "Suniefredo" "Berengario" "Rekkaredo" "Riciberga" "Theodora" "Fronilde" "Veremondo" "Argilo" "Onecca" 
+	"Ermenisinda" "Eldonza" "Diaco" "Friednand" "Flamula" "Marco" "Ramiro" "Aloito" "Leodegundis" "Menenda" 
+	"Adila" "Adelgundis" "Winidilda" "Sisenanda" "Pelagio" "Rodericho" "Nunno" "Adelfonso" "Agila" "Airmanagildo" 
+	"Alaricho" "Assur" "Athanagildo" "Fafila" "Friedenando" "Froila" "Garçi" "Gonçalo" "Gundemar" "Guttier" 
+	"Johan" "Liuva" "Liuvericho" "Lupo" "Mauregato" "Monnio" "Oliba" "Ordonno" "Petro" "Ranimiro" 
+	"Sans" "Silo" "Suneario" "Theodoricho" "Wifredo" "Wimarano" "Witiza" }
+monarch_names = {
+	"Monniadomna #0" = -1
+	"Suniefredo #0" = 1
+	"Berengario #1" = 21
+	"Rekkaredo #0" = 1
+	"Riciberga #0" = -1
+	"Theodora #0" = -1
+	"Fronilde #0" = -1
+	"Veremondo #0" = 1
+	"Argilo #0" = -1
+	"Onecca #0" = -1
+	"Ermenisinda #0" = -1
+	"Eldonza #0" = -1
+	"Diaco #0" = 1
+	"Friednand #0" = 1
+	"Flamula #0" = -1
+	"Marco #0" = 1
+	"Ramiro #1" = 18
+	"Aloito #2" = 27
+	"Leodegundis #1" = -19
+	"Menenda #0" = -1
+	"Adila #0" = -1
+	"Adelgundis #0" = -1
+	"Winidilda #0" = -1
+	"Sisenanda #0" = -1
+	"Pelagio #0" = 1
+	"Rodericho #1" = 0
+	"Nunno #1" = 0
+	"Adelfonso #0" = 0
+	"Agila #0" = 0
+	"Airmanagildo #0" = 0
+	"Alaricho #0" = 0
+	"Assur #0" = 0
+	"Athanagildo #0" = 0
+	"Fafila #0" = 0
+	"Friedenando #0" = 0
+	"Froila #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Gundemar #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Lupo #0" = 0
+	"Mauregato #0" = 0
+	"Monnio #0" = 0
+	"Oliba #0" = 0
+	"Ordonno #0" = 0
+	"Petro #0" = 0
+	"Ranimiro #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Theodoricho #0" = 0
+	"Wifredo #0" = 0
+	"Wimarano #0" = 0
+	"Witiza #0" = 0
+}
+

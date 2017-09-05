@@ -1,0 +1,25 @@
+# Ghana
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1129
+1415.4.6 = {
+	monarch = {
+		name = "Faga-Laye"
+		birth_date = 1408.7.1
+		dynasty = "Zuwa"
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1129
+	add_treasury = 39
+	add_prestige = 208
+}

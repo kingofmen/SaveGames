@@ -1,0 +1,25 @@
+# Austergautland
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = swedish
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2
+1432.4.14 = {
+	monarch = {
+		name = "Toke"
+		birth_date = 1383.11.23
+		dynasty = "Yngling"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2
+	add_treasury = 17
+	add_prestige = 303
+}

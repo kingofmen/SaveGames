@@ -1,0 +1,23 @@
+# Damietta
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = nubian
+religion = sunni
+capital = 362
+1439.9.27 = {
+	monarch = {
+		name = "Hoasse VI"
+		birth_date = 1439.2.8
+		dynasty = "Hoasse"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 362
+	add_treasury = 21
+	add_prestige = 55
+}

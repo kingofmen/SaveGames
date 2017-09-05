@@ -1,0 +1,23 @@
+# Boutrosid
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+capital = 380
+1443.6.8 = {
+	monarch = {
+		name = "Seyfullah"
+		birth_date = 1438.1.19
+		dynasty = "Boutrosid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 380
+	add_treasury = 0
+	add_prestige = 36
+}

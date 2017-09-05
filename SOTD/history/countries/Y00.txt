@@ -1,0 +1,25 @@
+# Halabanid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2314
+1439.7.22 = {
+	monarch = {
+		name = "Idris"
+		birth_date = 1391.7.1
+		dynasty = "Halabanid"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2314
+	add_treasury = 34
+	add_prestige = 131
+}

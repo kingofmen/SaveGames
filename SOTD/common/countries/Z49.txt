@@ -1,0 +1,79 @@
+# Seville
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 150 218 21 }
+
+
+
+
+leader_names = {
+
+	"Roy" "Christina" "Eithne" "Ranald" "Cecilia" "Innes" "Iona" "Maoilios" "Lulach" "Nuala" 
+	"Eleanor" "Carbrey" "Sheena" "Hisham" "Tariq" "Musa" "Flaithem" "Abbad" "Abdallah" "Abdul-Aziz" 
+	"Abdul-Hakam" "Abdul-Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" "Abu" "Adfuns" "Amr" "Ayyub" "Balashk" 
+	"Bilal" "Fadl" "Fath" "Galind" "Garsiya" "Hakam" "Hilal" "Ibrahim" "Isma'il" "Jyad" 
+	"Lubb" "Ma'n" "Mubashir" "Mundir" "Muyahid" "Raf" "Rashid" "Rasiq" "Sa'd" "Sanyo" 
+	"Siddray" "Suleyman" "Tifilwit" "Umar" "Utman" "Wannaqo" "Ya'far" "Yahaff" "Yahya" "Yusuf" }
+monarch_names = {
+	"Roy #1" = 24
+	"Christina #0" = -1
+	"Eithne #0" = -1
+	"Ranald #1" = 18
+	"Cecilia #0" = -1
+	"Innes #0" = -1
+	"Iona #0" = -1
+	"Maoilios #0" = 1
+	"Lulach #1" = 18
+	"Nuala #0" = -1
+	"Eleanor #0" = -1
+	"Carbrey #1" = 18
+	"Sheena #0" = -1
+	"Hisham #1" = 0
+	"Tariq #3" = 0
+	"Musa #1" = 0
+	"Flaithem #1" = 0
+	"Abbad #0" = 0
+	"Abdallah #0" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Hakam #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Hazm #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abu #0" = 0
+	"Adfuns #0" = 0
+	"Amr #0" = 0
+	"Ayyub #0" = 0
+	"Balashk #0" = 0
+	"Bilal #0" = 0
+	"Fadl #0" = 0
+	"Fath #0" = 0
+	"Galind #0" = 0
+	"Garsiya #0" = 0
+	"Hakam #0" = 0
+	"Hilal #0" = 0
+	"Ibrahim #0" = 0
+	"Isma'il #0" = 0
+	"Jyad #0" = 0
+	"Lubb #0" = 0
+	"Ma'n #0" = 0
+	"Mubashir #0" = 0
+	"Mundir #0" = 0
+	"Muyahid #0" = 0
+	"Raf #0" = 0
+	"Rashid #0" = 0
+	"Rasiq #0" = 0
+	"Sa'd #0" = 0
+	"Sanyo #0" = 0
+	"Siddray #0" = 0
+	"Suleyman #0" = 0
+	"Tifilwit #0" = 0
+	"Umar #0" = 0
+	"Utman #0" = 0
+	"Wannaqo #0" = 0
+	"Ya'far #0" = 0
+	"Yahaff #0" = 0
+	"Yahya #0" = 0
+	"Yusuf #0" = 0
+}
+

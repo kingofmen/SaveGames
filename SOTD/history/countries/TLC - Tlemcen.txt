@@ -1,0 +1,26 @@
+# Tlemcen
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = catholic
+clear_scripted_personalities = yes
+capital = 336
+1417.10.10 = {
+	monarch = {
+		name = "Hiba"
+		birth_date = 1408.12.6
+		dynasty = "Hárde"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 336
+	add_treasury = 38
+	add_prestige = 131
+}

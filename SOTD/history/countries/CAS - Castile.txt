@@ -1,0 +1,23 @@
+# Castille
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = visigothic
+religion = catholic
+capital = 1746
+1403.11.20 = {
+	monarch = {
+		name = "Berengario"
+		birth_date = 1384.10.17
+		dynasty = "de Salgueiro"
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1746
+	add_treasury = 15
+	add_prestige = 513
+}

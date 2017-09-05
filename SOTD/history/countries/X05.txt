@@ -1,0 +1,23 @@
+# Suhma
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+capital = 2039
+1401.11.5 = {
+	monarch = {
+		name = "Shakrasingh Dev"
+		birth_date = 1375.5.10
+		dynasty = "Candravamsa"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2039
+	add_treasury = 10
+	add_prestige = 418
+}

@@ -1,0 +1,23 @@
+# Cibyrrhaeot
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 1848
+1442.1.19 = {
+	monarch = {
+		name = "Ignatios II"
+		birth_date = 1441.11.5
+		dynasty = "Pastillas"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1848
+	add_treasury = 60
+	add_prestige = 95
+}

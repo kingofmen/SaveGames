@@ -1,0 +1,23 @@
+# Sulaihid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+capital = 378
+1431.11.5 = {
+	monarch = {
+		name = "Muzaffaraddin II"
+		birth_date = 1398.5.14
+		dynasty = "Sulaihid"
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 378
+	add_treasury = 12
+	add_prestige = 154
+}

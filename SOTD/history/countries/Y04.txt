@@ -1,0 +1,27 @@
+# Azov
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khazar
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2413
+1410.5.5 = {
+	monarch = {
+		name = "Maer"
+		birth_date = 1410.3.15
+		dynasty = "af Kairy"
+		female = yes
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = navigator_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2413
+	add_treasury = 16
+	add_prestige = 112
+}

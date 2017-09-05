@@ -1,0 +1,39 @@
+# Turov
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = nestorian
+clear_scripted_personalities = yes
+capital = 1941
+1431.12.18 = {
+	monarch = {
+		name = "Björn"
+		birth_date = 1418.2.5
+		dynasty = "af Soldaia"
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1441.1.24 = {
+	heir = {
+		name = "Gurli"
+		monarch_name = "Gurli"
+		dynasty = "af Soldaia"
+		birth_date = 1441.1.24
+		death_date = 1521.1.24
+		female = yes
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 1941
+	add_treasury = 7
+	add_prestige = 8
+}

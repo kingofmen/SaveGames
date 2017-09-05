@@ -1,0 +1,36 @@
+# Holstein
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = mordvin
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1775
+1437.4.17 = {
+	monarch = {
+		name = "Ingemar"
+		birth_date = 1388.12.12
+		dynasty = "Falk"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Shindyay"
+		monarch_name = "Shindyay"
+		dynasty = "Falk"
+		birth_date = 1416.6.18
+		death_date = 1496.6.18
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1775
+	add_treasury = 8
+	add_prestige = 59
+}

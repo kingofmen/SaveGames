@@ -1,0 +1,25 @@
+# Tver
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 294
+1442.1.14 = {
+	monarch = {
+		name = "Ingólfr"
+		birth_date = 1399.9.15
+		dynasty = "Þjófi"
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 294
+	add_treasury = 7
+	add_prestige = 86
+}

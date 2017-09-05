@@ -1,0 +1,164 @@
+# Andalusia
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 31 138 40 }
+
+
+
+
+leader_names = {
+
+	"Eithne" "Suibne" "Lupo" "Artbran" "Artgal" "Dub-Essa" "Aibilín" "Máirgred" "Lachtnán" "Sisuile" 
+	"Avelina" "Fressenda" "Conchenn" "Amalgaid" "Ælfwig" "Berengario" "Éua" "Ranulf" "Eimhir" "Tigernach" 
+	"Fairchellach" "Barrdub" "Æthelsige" "Sibilia" "James" "Áine" "Gormlaith" "Coblaith" "Echthigern" "Uasal" 
+	"Faílenn" "Lorcán" "Gráinne" "Lerthan" "Uallach" "Eterscél" "Érennach" "Fedelm" "Conaing" "Ceithernach" 
+	"Laidcenn" "Tailltiu" "Ben-Míde" "Máel-Dúin" "Tressach" "Ellbríg" "Sétach" "Cobflaith" "Bran" "Cóelub" 
+	"Sáerlaith" "Caíntigern" "Lasairfíona" "Cináed" "Coirpre" "Flaithem" "Crínóch" "Ercáed" "Aileann" "Scáthach" 
+	"Éibhleann" "Caillech-Fhinnéin" "Echmarcach" "Íte" "Anlaith" "Sétna" "Beornræd" "Faílbe" "Sinach" "Judith" 
+	"Eadwine" "Dunáed" "Ólchobar" "Forbflaith" "Tómnat" "Imag" "Ælfwynn" "Cyneswith" "Máel-Corgis" "Doriend" 
+	"Æthelflæd" "Muirgel" "Flannán" "Sárán" "Emer" "Samthann" "Athanagildo" "Mór" "Petro" "Muirgius" 
+	"Dubcenn" "Áedammair" "Leofflæd" "Elduara" "Abd-al-Rahman" "Hisham" "al-Hakam" "al-Mundir" "Abdallah" "Tariq" 
+	"Amellal" "Adelfonso" "Agila" "Airmanagildo" "Alaricho" "Aloito" "Assur" "Diaco" "Fafila" "Friedenando" 
+	"Friednand" "Froila" "Garçi" "Gonçalo" "Gundemar" "Guttier" "Johan" "Liuva" "Liuvericho" "Mauregato" 
+	"Monnio" "Nunno" "Oliba" "Ordonno" "Pelagio" "Ranimiro" "Rekkaredo" "Rodericho" "Sans" "Silo" 
+	"Suneario" "Suniefredo" "Theodoricho" "Veremondo" "Wifredo" "Wimarano" "Witiza" }
+monarch_names = {
+	"Eithne #0" = -1
+	"Suibne #0" = 1
+	"Lupo #0" = 1
+	"Artbran #0" = 1
+	"Artgal #0" = 1
+	"Dub-Essa #0" = -1
+	"Aibilín #0" = -1
+	"Máirgred #0" = -1
+	"Lachtnán #0" = 1
+	"Sisuile #0" = -1
+	"Avelina #0" = -1
+	"Fressenda #0" = -1
+	"Conchenn #0" = -1
+	"Amalgaid #0" = 1
+	"Ælfwig #0" = 1
+	"Berengario #0" = 1
+	"Éua #0" = -1
+	"Ranulf #0" = 1
+	"Eimhir #0" = -1
+	"Tigernach #0" = 1
+	"Fairchellach #0" = 1
+	"Barrdub #0" = -1
+	"Æthelsige #0" = 1
+	"Sibilia #0" = -1
+	"James #0" = 1
+	"Áine #0" = -1
+	"Gormlaith #0" = -1
+	"Coblaith #0" = -1
+	"Echthigern #0" = 1
+	"Uasal #0" = -1
+	"Faílenn #0" = -1
+	"Lorcán #0" = 1
+	"Gráinne #0" = -1
+	"Lerthan #0" = -1
+	"Uallach #0" = -1
+	"Eterscél #1" = 21
+	"Érennach #0" = 1
+	"Fedelm #0" = -1
+	"Conaing #0" = 1
+	"Ceithernach #0" = 1
+	"Laidcenn #0" = 1
+	"Tailltiu #0" = -1
+	"Ben-Míde #0" = -1
+	"Máel-Dúin #0" = 1
+	"Tressach #0" = 1
+	"Ellbríg #0" = -1
+	"Sétach #0" = -1
+	"Cobflaith #0" = -1
+	"Bran #0" = 1
+	"Cóelub #0" = 1
+	"Sáerlaith #0" = -1
+	"Caíntigern #0" = -1
+	"Lasairfíona #0" = -1
+	"Cináed #0" = 1
+	"Coirpre #0" = 1
+	"Flaithem #0" = 1
+	"Crínóch #0" = -1
+	"Ercáed #0" = 1
+	"Aileann #0" = -1
+	"Scáthach #0" = -1
+	"Éibhleann #0" = -1
+	"Caillech-Fhinnéin #0" = -1
+	"Echmarcach #0" = 1
+	"Íte #0" = -1
+	"Anlaith #0" = -1
+	"Sétna #0" = 1
+	"Beornræd #0" = 1
+	"Faílbe #0" = 1
+	"Sinach #0" = 1
+	"Judith #0" = -1
+	"Eadwine #0" = 1
+	"Dunáed #1" = 21
+	"Ólchobar #1" = 18
+	"Forbflaith #0" = -1
+	"Tómnat #0" = -1
+	"Imag #0" = -1
+	"Ælfwynn #0" = -1
+	"Cyneswith #0" = -1
+	"Máel-Corgis #1" = 18
+	"Doriend #0" = -1
+	"Æthelflæd #0" = -1
+	"Muirgel #0" = -1
+	"Flannán #0" = 1
+	"Sárán #0" = 1
+	"Emer #0" = -1
+	"Samthann #0" = -1
+	"Athanagildo #0" = 1
+	"Mór #0" = -1
+	"Petro #0" = 1
+	"Muirgius #0" = 1
+	"Dubcenn #0" = 1
+	"Áedammair #0" = -1
+	"Leofflæd #0" = -1
+	"Elduara #0" = -1
+	"Abd-al-Rahman #2" = 0
+	"Hisham #1" = 0
+	"al-Hakam #1" = 0
+	"al-Mundir #1" = 0
+	"Abdallah #1" = 0
+	"Tariq #2" = 0
+	"Amellal #1" = 0
+	"Adelfonso #0" = 0
+	"Agila #0" = 0
+	"Airmanagildo #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Assur #0" = 0
+	"Diaco #0" = 0
+	"Fafila #0" = 0
+	"Friedenando #0" = 0
+	"Friednand #0" = 0
+	"Froila #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Gundemar #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Mauregato #0" = 0
+	"Monnio #0" = 0
+	"Nunno #0" = 0
+	"Oliba #0" = 0
+	"Ordonno #0" = 0
+	"Pelagio #0" = 0
+	"Ranimiro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Suniefredo #0" = 0
+	"Theodoricho #0" = 0
+	"Veremondo #0" = 0
+	"Wifredo #0" = 0
+	"Wimarano #0" = 0
+	"Witiza #0" = 0
+}
+

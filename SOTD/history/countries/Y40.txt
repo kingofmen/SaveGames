@@ -1,0 +1,35 @@
+# Cilicia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = al_suryah_arabic
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 332
+1439.8.8 = {
+	monarch = {
+		name = "Avedis"
+		birth_date = 1374.6.19
+		dynasty = "ve Misti"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Aziz"
+		monarch_name = "Aziz"
+		dynasty = "ve Misti"
+		birth_date = 1396.12.1
+		death_date = 1476.12.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 332
+	add_treasury = 15
+	add_prestige = 155
+}

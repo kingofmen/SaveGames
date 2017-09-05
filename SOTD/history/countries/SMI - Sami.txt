@@ -1,0 +1,25 @@
+# Kola
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = finnish
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 4113
+1421.9.16 = {
+	monarch = {
+		name = "Öysteinn"
+		birth_date = 1420.8.16
+		dynasty = "Yngling"
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 4113
+	add_treasury = 16
+	add_prestige = 181
+}

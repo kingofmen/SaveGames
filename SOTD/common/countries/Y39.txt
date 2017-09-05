@@ -1,0 +1,93 @@
+# Gurgen
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 85 232 20 }
+
+
+
+
+leader_names = {
+
+	"Ismat" "Gulnar" "Gurgen" "Nastaran" "Noushin" "Mas'ud" "Yusuf" "Mu'izz" "Zahir" "Isa" 
+	"Abdul-Wahad" "Hamdan" "Muhammad" "Abdul-Azeem" "Abdul-Hamid" "Abdul-Lateef" "Abdul-Razzaq" "Abdullah" "Adhid" "Adil" 
+	"Akab" "Ala'i" "Ali" "Amir" "Ashraf" "Aziz" "Bashar" "Boutros" "Da'ud" "Faisal" 
+	"Fayiz" "Ghazi" "Hakam" "Hashmaddin" "Hussayn" "Ibrahim" "Imamaddin" "Is'mail" "Jahan" "Jamil" 
+	"Kamran" "Khalid" "Khudayar" "Majid" "Muaddam" "Muhsin" "Mukhtar" "Murad" "Musa" "Muzaffar" 
+	"Muzaffaraddin" "Nasraddin" "Nuraddin" "Nuri" "Radhi" "Rasul" "Sa'ud" "Salahaddin" "Seyfullah" "Sharaf" 
+	"Sirhan" "Taimur" "Tawfiq" "Umaya" "Wahid" "Yahya" "Ya'qub" "Yasar" "Youkhanna" }
+monarch_names = {
+	"Ismat #1" = 18
+	"Gulnar #0" = -1
+	"Gurgen #1" = 18
+	"Nastaran #0" = -1
+	"Noushin #0" = -1
+	"Mas'ud #0" = 1
+	"Yusuf #1" = 0
+	"Mu'izz #1" = 0
+	"Zahir #1" = 0
+	"Isa #2" = 0
+	"Abdul-Wahad #1" = 0
+	"Hamdan #1" = 0
+	"Muhammad #1" = 0
+	"Abdul-Azeem #0" = 0
+	"Abdul-Hamid #0" = 0
+	"Abdul-Lateef #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abdullah #0" = 0
+	"Adhid #0" = 0
+	"Adil #0" = 0
+	"Akab #0" = 0
+	"Ala'i #0" = 0
+	"Ali #0" = 0
+	"Amir #0" = 0
+	"Ashraf #0" = 0
+	"Aziz #0" = 0
+	"Bashar #0" = 0
+	"Boutros #0" = 0
+	"Da'ud #0" = 0
+	"Faisal #0" = 0
+	"Fayiz #0" = 0
+	"Ghazi #0" = 0
+	"Hakam #0" = 0
+	"Hashmaddin #0" = 0
+	"Hussayn #0" = 0
+	"Ibrahim #0" = 0
+	"Imamaddin #0" = 0
+	"Is'mail #0" = 0
+	"Jahan #0" = 0
+	"Jamil #0" = 0
+	"Kamran #0" = 0
+	"Khalid #0" = 0
+	"Khudayar #0" = 0
+	"Majid #0" = 0
+	"Muaddam #0" = 0
+	"Muhsin #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muzaffar #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Nasraddin #0" = 0
+	"Nuraddin #0" = 0
+	"Nuri #0" = 0
+	"Radhi #0" = 0
+	"Rasul #0" = 0
+	"Sa'ud #0" = 0
+	"Salahaddin #0" = 0
+	"Seyfullah #0" = 0
+	"Sharaf #0" = 0
+	"Sirhan #0" = 0
+	"Taimur #0" = 0
+	"Tawfiq #0" = 0
+	"Umaya #0" = 0
+	"Wahid #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Yasar #0" = 0
+	"Youkhanna #0" = 0
+
+
+	"Zuhayra #0" = -1
+	"Sadiya #0" = -1
+}
+

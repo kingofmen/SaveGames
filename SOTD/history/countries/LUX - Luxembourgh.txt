@@ -1,0 +1,23 @@
+# Luxembourg
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+capital = 93
+1430.4.14 = {
+	monarch = {
+		name = "Archambaud"
+		birth_date = 1428.5.2
+		dynasty = "Vuodi"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 93
+	add_treasury = 14
+	add_prestige = 13
+}

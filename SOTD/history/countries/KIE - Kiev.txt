@@ -1,0 +1,23 @@
+# Kiev
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+capital = 280
+1443.10.13 = {
+	monarch = {
+		name = "Faste"
+		birth_date = 1435.8.5
+		dynasty = "Hrothgar"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 280
+	add_treasury = 27
+	add_prestige = 360
+}

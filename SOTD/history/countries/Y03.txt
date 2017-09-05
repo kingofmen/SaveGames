@@ -1,0 +1,38 @@
+# Alania
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = norse
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2197
+1429.10.21 = {
+	monarch = {
+		name = "Borkvard"
+		birth_date = 1419.12.15
+		dynasty = "Hrothgar"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1443.5.23 = {
+	heir = {
+		name = "Alvör"
+		monarch_name = "Alvör"
+		dynasty = "Hrothgar"
+		birth_date = 1443.5.23
+		death_date = 1523.5.23
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2197
+	add_treasury = 9
+	add_prestige = 529
+}

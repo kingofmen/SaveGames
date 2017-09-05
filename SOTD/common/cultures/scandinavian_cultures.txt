@@ -1,0 +1,6 @@
+scandinavian = {
+	norse = {
+		primary = DAN
+		dynasty_names = { "af Munsö" "Väse" "Borg" "Falk" "Kven" "Hárde" "Austmaðr" "Snjalli" "Viss" "Örn" "Sterki" "Auðgi" "Spaki" "Sælendingr" "Trausti" "Þjófi" "Svavarsson" "Yngling" "Hrothgar" "af Doros" "von Britannia" "af Bachanta" "av Island" "af Soldaia" "af Balta" "Vansö" "af Alvesta" "af Undol" "af Kairy" "af Czersk" "af Kocibey" "af Fermoselle" "af Tineo" "Stjarna" "Herse" "Örn" "Örn" "av Herjedalen" "Smjör" "af Loarre" "Stafr" "af Tsikmä" "Kven" "af Ottenby" "Sterki" "af Vendel" "Kven" "Smiðr" "af Arboga" "Smjör" "Hammer" "af Christburg" "Mjóvi" "Snjalli" "Bleik" "Rammi" "af Söderåkra" "Snjalli" "Stafr" "av Agder" "Þyli" "Hjort" "af Vanemane" "af Tuchel" "af Yauchy" "af Skellefteå" "Hávi" "Smjör" "af Perekop" "af Jomsberg" "Skrauti" "Skál" "af Akbulak" "af Nartkala" "af Uspenka" "af Bezhichi" "Skrauti" "af Hoya" "af Nore" }
+	}
+}

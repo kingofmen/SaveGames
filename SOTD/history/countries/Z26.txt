@@ -1,0 +1,23 @@
+# Aquitaine
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+capital = 4111
+1435.12.20 = {
+	monarch = {
+		name = "Geoffroy II"
+		birth_date = 1393.6.10
+		dynasty = "de Poitou"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 4111
+	add_treasury = 10
+	add_prestige = 202
+}

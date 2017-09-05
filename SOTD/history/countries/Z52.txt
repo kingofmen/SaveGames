@@ -1,0 +1,38 @@
+# Burgundy
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = visigothic
+religion = catholic
+clear_scripted_personalities = yes
+capital = 201
+1424.3.2 = {
+	monarch = {
+		name = "Kaspar"
+		birth_date = 1385.1.22
+		dynasty = "von Limpurg"
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1439.6.12 = {
+	heir = {
+		name = "Wimarano"
+		monarch_name = "Wimarano"
+		dynasty = "von Limpurg"
+		birth_date = 1439.6.12
+		death_date = 1519.6.12
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 201
+	add_treasury = 18
+	add_prestige = 210
+}

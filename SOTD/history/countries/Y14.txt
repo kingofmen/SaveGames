@@ -1,0 +1,23 @@
+# Saffari
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = persian
+religion = sunni
+capital = 739
+1440.8.14 = {
+	monarch = {
+		name = "Dariush"
+		birth_date = 1428.9.21
+		dynasty = "Saffari"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 739
+	add_treasury = 58
+	add_prestige = 22
+}

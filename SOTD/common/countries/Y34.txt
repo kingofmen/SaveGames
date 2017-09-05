@@ -1,0 +1,162 @@
+# Coloneia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 195 125 55 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	naval_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Arin" "Razmouhi" "Hasmig" "Vesd" "Keran" "Hranoush" "Dalita" "Artashes" "Vahag" "Arevig" 
+	"Ishkhan" "Shoushanig" "Zarmihr" "Pounig" "Ivane" "Mushel" "Leyli" "Anoush" "Tamar" "Demetrios" 
+	"Umar" "Marwan" "Abu-Hafs" "Salahaddin" "Bagour" "Hovhannes" "Hagop" "Artashir" "Abas" "Abirad" 
+	"Aboughamr" "Aboulgharib" "Aleksandr" "Artavazd" "Arsen" "Arshak" "Ashot" "Athom" "Atrnerseh" "Avag" 
+	"Avedis" "Bagrat" "Bedros" "Boghos" "Davit" "Eshkhan" "Gagik" "Gevorg" "Gosdantin" "Grigor" 
+	"Gurgen" "Hamazasp" "Hethum" "Hovsep" "Kapriel" "Khachik" "Khosrov" "Levon" "Malkhas" "Mamigon" 
+	"Manuel" "Margos" "Melek" "Mihrdat" "Mikayel" "Mleh" "Mushegh" "Mzhezh" "Nerseh" "Oshin" 
+	"Roupen" "Sahag" "Sarkis" "Sevag" "Shahanshah" "Smbat" "Stepanos" "Tachat" "Taniel" "Tatoul" 
+	"Tigran" "Tornik" "Tovmas" "Thoros" "Trdat" "Vache" "Vachagan" "Vagharshak" "Vahan" "Vahram" 
+	"Vakhtank" "Varazdat" "Vartan" "Vassak" "Vrtanes" "Zakare" }
+monarch_names = {
+	"Arin #0" = -1
+	"Razmouhi #0" = -1
+	"Hasmig #0" = -1
+	"Vesd #1" = 18
+	"Keran #0" = -1
+	"Hranoush #0" = -1
+	"Dalita #0" = -1
+	"Artashes #0" = 1
+	"Vahag #0" = 1
+	"Arevig #0" = -1
+	"Ishkhan #0" = 1
+	"Shoushanig #0" = -1
+	"Zarmihr #0" = 1
+	"Pounig #0" = -1
+	"Ivane #0" = 1
+	"Mushel #1" = 18
+	"Leyli #0" = -1
+	"Anoush #0" = -1
+	"Tamar #0" = -1
+	"Demetrios #1" = 0
+	"Umar #1" = 0
+	"Marwan #2" = 0
+	"Abu-Hafs #1" = 0
+	"Salahaddin #1" = 0
+	"Bagour #1" = 0
+	"Hovhannes #1" = 0
+	"Hagop #1" = 0
+	"Artashir #1" = 0
+	"Abas #0" = 0
+	"Abirad #0" = 0
+	"Aboughamr #0" = 0
+	"Aboulgharib #0" = 0
+	"Aleksandr #0" = 0
+	"Artavazd #0" = 0
+	"Arsen #0" = 0
+	"Arshak #0" = 0
+	"Ashot #0" = 0
+	"Athom #0" = 0
+	"Atrnerseh #0" = 0
+	"Avag #0" = 0
+	"Avedis #0" = 0
+	"Bagrat #0" = 0
+	"Bedros #0" = 0
+	"Boghos #0" = 0
+	"Davit #0" = 0
+	"Eshkhan #0" = 0
+	"Gagik #0" = 0
+	"Gevorg #0" = 0
+	"Gosdantin #0" = 0
+	"Grigor #0" = 0
+	"Gurgen #0" = 0
+	"Hamazasp #0" = 0
+	"Hethum #0" = 0
+	"Hovsep #0" = 0
+	"Kapriel #0" = 0
+	"Khachik #0" = 0
+	"Khosrov #0" = 0
+	"Levon #0" = 0
+	"Malkhas #0" = 0
+	"Mamigon #0" = 0
+	"Manuel #0" = 0
+	"Margos #0" = 0
+	"Melek #0" = 0
+	"Mihrdat #0" = 0
+	"Mikayel #0" = 0
+	"Mleh #0" = 0
+	"Mushegh #0" = 0
+	"Mzhezh #0" = 0
+	"Nerseh #0" = 0
+	"Oshin #0" = 0
+	"Roupen #0" = 0
+	"Sahag #0" = 0
+	"Sarkis #0" = 0
+	"Sevag #0" = 0
+	"Shahanshah #0" = 0
+	"Smbat #0" = 0
+	"Stepanos #0" = 0
+	"Tachat #0" = 0
+	"Taniel #0" = 0
+	"Tatoul #0" = 0
+	"Tigran #0" = 0
+	"Tornik #0" = 0
+	"Tovmas #0" = 0
+	"Thoros #0" = 0
+	"Trdat #0" = 0
+	"Vache #0" = 0
+	"Vachagan #0" = 0
+	"Vagharshak #0" = 0
+	"Vahan #0" = 0
+	"Vahram #0" = 0
+	"Vakhtank #0" = 0
+	"Varazdat #0" = 0
+	"Vartan #0" = 0
+	"Vassak #0" = 0
+	"Vrtanes #0" = 0
+	"Zakare #0" = 0
+}
+ship_names = {
+	Aramu Argishtis Ararat Ani Artsakh
+	Dvin
+	Erimena
+	Haik Haldi
+	Ishpuinis
+	Kars
+	Lutipri
+	Musasir Menuas Manzikert
+	Parisos
+	"Rusas II"
+	Siwini Selardi "Sarduri I" "Sarduris II"
+	Vaspurakan
+	Yerevan
+}
+

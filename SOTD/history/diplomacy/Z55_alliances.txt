@@ -1,0 +1,6 @@
+vassal = {
+	first = Z55
+	second = YAR
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}

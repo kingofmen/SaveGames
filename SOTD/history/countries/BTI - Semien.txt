@@ -1,0 +1,26 @@
+# Semien
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1227
+1402.4.27 = {
+	monarch = {
+		name = "Sentiko"
+		birth_date = 1390.3.1
+		dynasty = "Dabatid"
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1227
+	add_treasury = 12
+	add_prestige = 293
+}

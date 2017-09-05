@@ -1,0 +1,33 @@
+# Croatia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = avar
+religion = catholic
+capital = 1828
+1432.11.14 = {
+	monarch = {
+		name = "Okhsun"
+		birth_date = 1431.1.6
+		dynasty = "Borghest"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Bulan"
+		monarch_name = "Bulan"
+		dynasty = "Borghest"
+		birth_date = 1425.1.3
+		death_date = 1505.1.3
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 1828
+	add_treasury = 19
+	add_prestige = 349
+}

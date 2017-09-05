@@ -1,0 +1,111 @@
+# León
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 253 158 51 }
+
+
+
+
+leader_names = {
+
+	"Sibilia" "Sisenanda" "Flamula" "Ava" "Nunno" "Elduara" "Gonçalo" "Monniadomna" "Witiza" "Rekkaredo" 
+	"Petro" "Adelfonso" "Froila" "Aurelio" "Ermenisinda" "Mauregato" "Veremondo" "Airmanagildo" "Ranimiro" "Ordonno" 
+	"Pelagio" "Eldonza" "Patruina" "Leodegundis" "Adelgundis" "Garçi" "Gaton" "Riciberga" "Egilona" "Friedenando" 
+	"Odoario" "Savarico" "Sans" "Gontroda" "Iberia" "Aloito" "Juan" "Monnia" "Elvira" "Suneario" 
+	"Beatriz" "María" "Argilo" "Friednand" "Assur" "Alfonso" "Athanagildo" "Nuño" "Suero" "Diaco" 
+	"Sancho" "Fruela" "Milia" "Alonso" "Þorgil" "Adosinda" "Alfrið" "Menenda" "Astrid" "Bermudo" 
+	"Urraca" "Rodericho" "Liuva" "Fronilde" "Bodil" "Wifredo" "Manrique" "Mencía" "Ermengardis" "Margaret" 
+	"Liuvericho" "Lope" "Winidilda" "Brunechildis" "Gonterote" "Theodoricho" "Suniefredo" "Agila" "Alaricho" "Berengario" 
+	"Fafila" "Gundemar" "Guttier" "Johan" "Lupo" "Monnio" "Oliba" "Silo" "Wimarano" }
+monarch_names = {
+	"Sibilia #0" = -1
+	"Sisenanda #0" = -1
+	"Flamula #0" = -1
+	"Ava #0" = -1
+	"Nunno #0" = 1
+	"Elduara #0" = -1
+	"Gonçalo #1" = 18
+	"Monniadomna #0" = -1
+	"Witiza #1" = 24
+	"Rekkaredo #0" = 1
+	"Petro #0" = 1
+	"Adelfonso #1" = 21
+	"Froila #1" = 24
+	"Aurelio #0" = 1
+	"Ermenisinda #0" = -1
+	"Mauregato #0" = 1
+	"Veremondo #0" = 1
+	"Airmanagildo #0" = 1
+	"Ranimiro #0" = 1
+	"Ordonno #0" = 1
+	"Pelagio #0" = 1
+	"Eldonza #0" = -1
+	"Patruina #0" = -1
+	"Leodegundis #0" = -1
+	"Adelgundis #0" = -1
+	"Garçi #0" = 1
+	"Gaton #0" = 1
+	"Riciberga #0" = -1
+	"Egilona #0" = -1
+	"Friedenando #1" = 21
+	"Odoario #0" = 1
+	"Savarico #0" = 1
+	"Sans #0" = 1
+	"Gontroda #3" = -31
+	"Iberia #0" = -1
+	"Aloito #0" = 1
+	"Juan #0" = 1
+	"Monnia #0" = -1
+	"Elvira #0" = -1
+	"Suneario #0" = 1
+	"Beatriz #0" = -1
+	"María #0" = -1
+	"Argilo #0" = -1
+	"Friednand #0" = 1
+	"Assur #0" = 1
+	"Alfonso #0" = 1
+	"Athanagildo #0" = 1
+	"Nuño #0" = 1
+	"Suero #0" = 1
+	"Diaco #0" = 1
+	"Sancho #0" = 1
+	"Fruela #0" = 1
+	"Milia #0" = -1
+	"Alonso #1" = 18
+	"Þorgil #0" = 1
+	"Adosinda #0" = -1
+	"Alfrið #0" = -1
+	"Menenda #0" = -1
+	"Astrid #0" = -1
+	"Bermudo #0" = 1
+	"Urraca #0" = -1
+	"Rodericho #0" = 1
+	"Liuva #0" = 1
+	"Fronilde #0" = -1
+	"Bodil #0" = -1
+	"Wifredo #0" = 1
+	"Manrique #0" = 1
+	"Mencía #0" = -1
+	"Ermengardis #0" = -1
+	"Margaret #0" = -1
+	"Liuvericho #0" = 1
+	"Lope #0" = 1
+	"Winidilda #0" = -1
+	"Brunechildis #0" = -1
+	"Gonterote #0" = -1
+	"Theodoricho #0" = 1
+	"Suniefredo #0" = 1
+	"Agila #0" = 0
+	"Alaricho #0" = 0
+	"Berengario #0" = 0
+	"Fafila #0" = 0
+	"Gundemar #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Lupo #0" = 0
+	"Monnio #0" = 0
+	"Oliba #0" = 0
+	"Silo #0" = 0
+	"Wimarano #0" = 0
+}
+

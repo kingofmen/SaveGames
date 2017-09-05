@@ -1,0 +1,248 @@
+# Toulouse
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 10 16 243 }
+
+
+
+
+leader_names = {
+
+	"Denise" "Suneario" "Mathilde" "Marguerite" "Hamelin" "Lothaire" "Eustache" "Herleve" "Ide" "Raimbaut" 
+	"Raoul" "Amelie" "Érrard" "Sybille" "Berthe" "Cécile" "Thierry" "Guillaume" "Adalelme" "Gaucelm" 
+	"Kunigunde" "Herbert" "Bernard" "Bernat" "Guilhelm" "Senegunde" "Émenon" "Regelinda" "Arnaut" "Frédéric" 
+	"Péire-Arnaut" "Adhémar" "Blanca" "Fortun" "Benoîte" "Ladron" "Esclarmonde" "Joana" "Guillaumette" "Alvar" 
+	"Ermengarde" "Lúcia" "Artau" "Isabeau" "Adalaïda" "Orson" "Henri" "Guilhèm" "Heloise" "Aurengarde" 
+	"Baudouin" "Guilhem" "Beatritz" "Thibault" "Gilbert" "Marthe" "Payen" "Marie" "Iudith" "Ogier" 
+	"Guiges" "Roubaud" "Uc" "Géraud" "Ermessinde" "Audoïn" "Margot" "Bourgogne" "Aude" "Charlotte" 
+	"Hélie" "Adrien" "Gargamel" "Agathe" "Alaïs" "Maria" "Flòra" "Adèle" "Puelle" "Tiburge" 
+	"Pernelle" "Elduara" "Loup" "Menenda" "Bourguigne" "Euphrosine" "Aléarde" "Monnia" "Pelagio" "Ildégarde" 
+	"Foulques" "Adelinde" "Arnoul" "Iberia" "Wallia" "Theodericho" "Thorismondo" "Euricho" "Alaricho" "Beggo" 
+	"Berengar" "Frédelon" "Raimond" "Robin" "Milo" "Duran" "Alienòr" "Archambaud" "Plaisance" "Acfred" 
+	"Aimeric" "Alberic" "Albert" "Aldebert" "Alias" "Anfòs" "Amalric" "Amaneus" "Ancelmes" "André" 
+	"Archambaut" "Aton" "Aymar" "Aymeric" "Aznar" "Barral" "Bartoumiéu" "Baudoïn" "Beneset" "Bérard" 
+	"Berenguié" "Bermond" "Bernat-Aton" "Bernat-Ezi" "Bertrand" "Blasi" "Borel" "Boson" "Carles" "Clamenç" 
+	"Centolh" "Dàvi" "Dat" "Dodon" "Doumenge" "Ebles" "Emmanuèl" "Enric" "Ermengau" "Estève" 
+	"Filip" "Ferrand" "Florènç" "Folquet" "Francés" "Frederi" "Garcia" "Gaston" "Gausbert" "Gautier" 
+	"Gilbèrt" "Girard" "Girvais" "Godafres" "Gui" "Guichard" "Guigues" "Guiraud" "Guitart" "Ives" 
+	"Jacme" "Jaufret" "Joan" "Jordan" "Jorge" "Josselin" "Julian" "Laurènç" "Leon" "Loïs" 
+	"Loui" "Lop" "Marçau" "Martin" "Matfre" "Matias" "Miquel" "Nicholaus" "Odon" "Otton" 
+	"Pèire" "Péire-Raimond" "Peranudet" "Pol" "Pons" "Raimond-Berenguié" "Rainaut" "Rainer" "Raolf" "Ricard" 
+	"Robèrt" "Rogier" "Sancho" "Savarics" "Simon" "Tièrri" "Tibaud" "Toumas" "Ubald" "Ubert" 
+	"Ugues" "Vézian" "Vicenç" }
+monarch_names = {
+	"Denise #0" = -1
+	"Suneario #0" = 1
+	"Mathilde #0" = -1
+	"Marguerite #0" = -1
+	"Hamelin #0" = 1
+	"Lothaire #0" = 1
+	"Eustache #0" = 1
+	"Herleve #0" = -1
+	"Ide #0" = -1
+	"Raimbaut #0" = 1
+	"Raoul #0" = 1
+	"Amelie #0" = -1
+	"Érrard #1" = 21
+	"Sybille #0" = -1
+	"Berthe #0" = -1
+	"Cécile #0" = -1
+	"Thierry #0" = 1
+	"Guillaume #2" = 21
+	"Adalelme #0" = 1
+	"Gaucelm #0" = 1
+	"Kunigunde #0" = -1
+	"Herbert #0" = 1
+	"Bernard #4" = 27
+	"Bernat #2" = 21
+	"Guilhelm #1" = 18
+	"Senegunde #0" = -1
+	"Émenon #0" = 1
+	"Regelinda #0" = -1
+	"Arnaut #0" = 1
+	"Frédéric #0" = 1
+	"Péire-Arnaut #0" = 1
+	"Adhémar #0" = 1
+	"Blanca #0" = -1
+	"Fortun #0" = 1
+	"Benoîte #0" = -1
+	"Ladron #0" = 1
+	"Esclarmonde #0" = -1
+	"Joana #0" = -1
+	"Guillaumette #0" = -1
+	"Alvar #0" = 1
+	"Ermengarde #0" = -1
+	"Lúcia #0" = -1
+	"Artau #0" = 1
+	"Isabeau #0" = -1
+	"Adalaïda #0" = -1
+	"Orson #0" = 1
+	"Henri #0" = 1
+	"Guilhèm #0" = 1
+	"Heloise #0" = -1
+	"Aurengarde #0" = -1
+	"Baudouin #0" = 1
+	"Guilhem #0" = 1
+	"Beatritz #0" = -1
+	"Thibault #0" = 1
+	"Gilbert #0" = 1
+	"Marthe #0" = -1
+	"Payen #0" = 1
+	"Marie #0" = -1
+	"Iudith #0" = -1
+	"Ogier #0" = 1
+	"Guiges #0" = 1
+	"Roubaud #0" = 1
+	"Uc #0" = 1
+	"Géraud #0" = 1
+	"Ermessinde #0" = -1
+	"Audoïn #0" = 1
+	"Margot #0" = -1
+	"Bourgogne #0" = -1
+	"Aude #0" = -1
+	"Charlotte #0" = -1
+	"Hélie #0" = 1
+	"Adrien #0" = 1
+	"Gargamel #0" = 1
+	"Agathe #0" = -1
+	"Alaïs #0" = -1
+	"Maria #0" = -1
+	"Flòra #0" = -1
+	"Adèle #0" = -1
+	"Puelle #0" = -1
+	"Tiburge #0" = -1
+	"Pernelle #0" = -1
+	"Elduara #0" = -1
+	"Loup #0" = 1
+	"Menenda #0" = -1
+	"Bourguigne #0" = -1
+	"Euphrosine #0" = -1
+	"Aléarde #0" = -1
+	"Monnia #0" = -1
+	"Pelagio #0" = 1
+	"Ildégarde #0" = -1
+	"Foulques #0" = 1
+	"Adelinde #0" = -1
+	"Arnoul #0" = 1
+	"Iberia #1" = -19
+	"Wallia #1" = 0
+	"Theodericho #2" = 0
+	"Thorismondo #1" = 0
+	"Euricho #1" = 0
+	"Alaricho #1" = 0
+	"Beggo #1" = 0
+	"Berengar #1" = 0
+	"Frédelon #1" = 0
+	"Raimond #1" = 0
+	"Robin #1" = 0
+	"Milo #1" = 0
+	"Duran #1" = 0
+	"Alienòr #1" = -1
+	"Archambaud #1" = 0
+	"Plaisance #1" = -1
+	"Acfred #0" = 0
+	"Aimeric #0" = 0
+	"Alberic #0" = 0
+	"Albert #0" = 0
+	"Aldebert #0" = 0
+	"Alias #0" = 0
+	"Anfòs #0" = 0
+	"Amalric #0" = 0
+	"Amaneus #0" = 0
+	"Ancelmes #0" = 0
+	"André #0" = 0
+	"Archambaut #0" = 0
+	"Aton #0" = 0
+	"Aymar #0" = 0
+	"Aymeric #0" = 0
+	"Aznar #0" = 0
+	"Barral #0" = 0
+	"Bartoumiéu #0" = 0
+	"Baudoïn #0" = 0
+	"Beneset #0" = 0
+	"Bérard #0" = 0
+	"Berenguié #0" = 0
+	"Bermond #0" = 0
+	"Bernat-Aton #0" = 0
+	"Bernat-Ezi #0" = 0
+	"Bertrand #0" = 0
+	"Blasi #0" = 0
+	"Borel #0" = 0
+	"Boson #0" = 0
+	"Carles #0" = 0
+	"Clamenç #0" = 0
+	"Centolh #0" = 0
+	"Dàvi #0" = 0
+	"Dat #0" = 0
+	"Dodon #0" = 0
+	"Doumenge #0" = 0
+	"Ebles #0" = 0
+	"Emmanuèl #0" = 0
+	"Enric #0" = 0
+	"Ermengau #0" = 0
+	"Estève #0" = 0
+	"Filip #0" = 0
+	"Ferrand #0" = 0
+	"Florènç #0" = 0
+	"Folquet #0" = 0
+	"Francés #0" = 0
+	"Frederi #0" = 0
+	"Garcia #0" = 0
+	"Gaston #0" = 0
+	"Gausbert #0" = 0
+	"Gautier #0" = 0
+	"Gilbèrt #0" = 0
+	"Girard #0" = 0
+	"Girvais #0" = 0
+	"Godafres #0" = 0
+	"Gui #0" = 0
+	"Guichard #0" = 0
+	"Guigues #0" = 0
+	"Guiraud #0" = 0
+	"Guitart #0" = 0
+	"Ives #0" = 0
+	"Jacme #0" = 0
+	"Jaufret #0" = 0
+	"Joan #0" = 0
+	"Jordan #0" = 0
+	"Jorge #0" = 0
+	"Josselin #0" = 0
+	"Julian #0" = 0
+	"Laurènç #0" = 0
+	"Leon #0" = 0
+	"Loïs #0" = 0
+	"Loui #0" = 0
+	"Lop #0" = 0
+	"Marçau #0" = 0
+	"Martin #0" = 0
+	"Matfre #0" = 0
+	"Matias #0" = 0
+	"Miquel #0" = 0
+	"Nicholaus #0" = 0
+	"Odon #0" = 0
+	"Otton #0" = 0
+	"Pèire #0" = 0
+	"Péire-Raimond #0" = 0
+	"Peranudet #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Raimond-Berenguié #0" = 0
+	"Rainaut #0" = 0
+	"Rainer #0" = 0
+	"Raolf #0" = 0
+	"Ricard #0" = 0
+	"Robèrt #0" = 0
+	"Rogier #0" = 0
+	"Sancho #0" = 0
+	"Savarics #0" = 0
+	"Simon #0" = 0
+	"Tièrri #0" = 0
+	"Tibaud #0" = 0
+	"Toumas #0" = 0
+	"Ubald #0" = 0
+	"Ubert #0" = 0
+	"Ugues #0" = 0
+	"Vézian #0" = 0
+	"Vicenç #0" = 0
+}
+

@@ -1,0 +1,23 @@
+# Makuria
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = sunni
+capital = 1228
+1422.7.13 = {
+	monarch = {
+		name = "Lazaros II"
+		birth_date = 1393.3.11
+		dynasty = " Napata"
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+1444.11.11 = {
+	capital = 1228
+	add_treasury = 36
+	add_prestige = -18
+}

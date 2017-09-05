@@ -1,0 +1,25 @@
+# Pala
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 558
+1440.3.17 = {
+	monarch = {
+		name = "Parikshitnayaran II"
+		birth_date = 1432.10.19
+		dynasty = "Pala"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 558
+	add_treasury = 9
+	add_prestige = 170
+}

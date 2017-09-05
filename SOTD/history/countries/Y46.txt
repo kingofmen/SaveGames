@@ -1,0 +1,25 @@
+# Pandya Nadu
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = nubian
+religion = ibadi
+clear_scripted_personalities = yes
+capital = 2101
+1443.1.22 = {
+	monarch = {
+		name = "Iôannou"
+		birth_date = 1404.8.19
+		dynasty = "Makariosid"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2101
+	add_treasury = 18
+	add_prestige = 34
+}

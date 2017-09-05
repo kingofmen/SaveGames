@@ -1,0 +1,26 @@
+oghuz = {
+	pecheneg = {
+		primary = KAZ
+		dynasty_names = { "Jabdertim" }
+	}
+	cuman = {
+		primary = KAZ
+		dynasty_names = { "Kolbasz" "Kubasarid" "Eldeçyukid" "Kobyakid" }
+	}
+	bolghar = {
+		primary = KAZ
+		dynasty_names = { "Dulo" "Baskatir" }
+	}
+	avar = {
+		primary = KAZ
+		dynasty_names = { "Akhasir" "Tsumadal" "Tsuntab" "Borghest" "Tatrid" "Onegavon" "Tervelid" "Tähtaman" "Kanivid" "Almi" "Sevarid" "Bezmerid" "Spasid" "Bastu" "Boyan" "Çatn" "Umorid" "Kragujevacid" "Zaghouan" "Sabin" "Okorsid" "Tobrukid" "Sollumid" "Bayan" "Sarkhan" "Alpid" "Kano" "Samsamid" }
+	}
+	khazar = {
+		primary = KAZ
+		dynasty_names = { "Bastu" }
+	}
+	karluk = {
+		primary = UZB
+		dynasty_names = { "Sevençid" }
+	}
+}

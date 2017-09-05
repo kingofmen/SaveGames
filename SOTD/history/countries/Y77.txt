@@ -1,0 +1,23 @@
+# Kimak
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cuman
+religion = norse_pagan_reformed
+capital = 2354
+1440.8.18 = {
+	monarch = {
+		name = "Shindyay"
+		birth_date = 1437.1.23
+		dynasty = "Dulo"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2354
+	add_treasury = 12
+	add_prestige = 188
+}

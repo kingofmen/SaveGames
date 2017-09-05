@@ -1,0 +1,33 @@
+# as-Sa'di
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = sunni
+capital = 365
+1443.12.14 = {
+	monarch = {
+		name = "Milad"
+		birth_date = 1435.11.10
+		dynasty = "as-Sa'di"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Ablarion"
+		monarch_name = "Ablarion"
+		dynasty = "as-Sa'di"
+		birth_date = 1417.10.17
+		death_date = 1497.10.17
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 365
+	add_treasury = 1
+	add_prestige = 33
+}

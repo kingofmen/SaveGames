@@ -1,0 +1,35 @@
+# Dauphiné
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 203
+1442.8.28 = {
+	monarch = {
+		name = "Arnold II"
+		birth_date = 1418.6.17
+		dynasty = "de Forez"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Guntram"
+		monarch_name = "Guntram"
+		dynasty = "de Forez"
+		birth_date = 1437.11.28
+		death_date = 1517.11.28
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 203
+	add_treasury = 4
+	add_prestige = 60
+}

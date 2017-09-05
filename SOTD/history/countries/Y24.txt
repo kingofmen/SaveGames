@@ -1,0 +1,23 @@
+# Akbarid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+capital = 2217
+1398.7.12 = {
+	monarch = {
+		name = "Rostam"
+		birth_date = 1383.12.12
+		dynasty = "Akbarid"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2217
+	add_treasury = 35
+	add_prestige = 297
+}

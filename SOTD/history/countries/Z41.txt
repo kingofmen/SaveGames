@@ -1,0 +1,23 @@
+# Adrianopolis
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+capital = 159
+1443.8.12 = {
+	monarch = {
+		name = "Petros"
+		birth_date = 1430.1.2
+		dynasty = "Lazuli"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 159
+	add_treasury = 19
+	add_prestige = 422
+}

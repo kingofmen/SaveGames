@@ -1,0 +1,147 @@
+# Talakad Ganga
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 255 70 160 }
+
+
+
+
+leader_names = {
+
+	"Bhavanaga" "Chandaladevi" "Mallikarjuna" "Lakshmi" "Singhana" "Bhuvikrama" "Revakanimmadi" "Jagadhekamalla" "Bukka" "Chinnambike" 
+	"Govinda" "Chandrabbalabbe" "Praudharaya" "Harihara" "Bhima" "Tailapa" "Gangambika" "Ramaraya" "Jogama" "Thirumalambike" 
+	"Konganivarman" "Madhava" "Harivarman" "Vishnugopa" "Avinita" "Durvinita" "Mushkara" "Polavira" "Srivikrama" "Bhuvikarma" 
+	"Shivamara" "Sripurusha" "Rachamala" "Ereganga" "Butuga" "Obayamma" "Ramachandra" "Vishnuvardhana" "Chavundaraya" "Ambuda" 
+	"Virupaksha" "Mallugi" "Akkadevi" "Bijjama" "Bijjabbe" "Anekonda" "Vijamba" "Kundakadevi" "Purandaradasa" "Shantaladevi" 
+	"Padmashri" "Kiriyasaga" "Pertal" "Mailaladevi" "Hoysaladevi" "Mahadevi" "Permadi" "Chandena" "Sankama" "Vinayaditya" 
+	"Venkatapathi" "Adikavi" "Rudramadevi" "Merada" "Sovideva" "Achugi" "Ahavamalla" "Amoghavarsha" "Asaga" "Ayanna" 
+	"Dantidurga" "Dashavarman" "Dhruva" "Durgasimha" "Ereyanga" "Gangaraja" "Gajankusha" "Gobburi" "Hakka" "Indra" 
+	"Jagaraya" "Jagattunga" "Jayasimha" "Kambarasa" "Kannama" "Karka" "Khottiga" "Kirtivarman" "Krishna" "Madhura" 
+	"Mangalesi" "Marasimha" "Marulaganga" "Narasanayaka" "Narasimha" "Neetimarga" "Nripakama" "Permanadi" "Pulakesi" "Rachamalla" 
+	"Ramadeva" "Satyasraya" "Sharva" "Somesvara" "Sripadaraya" "Sriranga" "Thimma" "Tirumalaraya" "Uchita" "Venkatadri" 
+	"Vikramaditya" "Vijayaditya" "Viraballala" "Viravijaya" "Yachama" "Yachamanedu" "Achyutadeva" "Krishnadevaraya" "Sadashiva" "Vendakadri" 
+	"Viranarasimha" }
+monarch_names = {
+	"Bhavanaga #0" = -1
+	"Chandaladevi #0" = -1
+	"Mallikarjuna #0" = 1
+	"Lakshmi #0" = -1
+	"Singhana #0" = 1
+	"Bhuvikrama #0" = 1
+	"Revakanimmadi #0" = -1
+	"Jagadhekamalla #0" = 1
+	"Bukka #0" = 1
+	"Chinnambike #0" = -1
+	"Govinda #0" = 1
+	"Chandrabbalabbe #0" = -1
+	"Praudharaya #0" = 1
+	"Harihara #4" = 18
+	"Bhima #0" = 1
+	"Tailapa #0" = 1
+	"Gangambika #0" = -1
+	"Ramaraya #0" = 1
+	"Jogama #0" = 1
+	"Thirumalambike #0" = -1
+	"Konganivarman #0" = 1
+	"Madhava #0" = 1
+	"Harivarman #0" = 1
+	"Vishnugopa #0" = 1
+	"Avinita #0" = 1
+	"Durvinita #0" = 1
+	"Mushkara #0" = 1
+	"Polavira #0" = 1
+	"Srivikrama #0" = 1
+	"Bhuvikarma #0" = 1
+	"Shivamara #0" = 1
+	"Sripurusha #0" = 1
+	"Rachamala #0" = 1
+	"Ereganga #0" = 1
+	"Butuga #3" = 18
+	"Obayamma #0" = -1
+	"Ramachandra #0" = 1
+	"Vishnuvardhana #0" = 1
+	"Chavundaraya #0" = 1
+	"Ambuda #0" = -1
+	"Virupaksha #0" = 1
+	"Mallugi #1" = 36
+	"Akkadevi #0" = -1
+	"Bijjama #0" = 1
+	"Bijjabbe #0" = -1
+	"Anekonda #0" = 1
+	"Vijamba #0" = -1
+	"Kundakadevi #0" = -1
+	"Purandaradasa #0" = 1
+	"Shantaladevi #0" = -1
+	"Padmashri #0" = -1
+	"Kiriyasaga #0" = 1
+	"Pertal #0" = -1
+	"Mailaladevi #0" = -1
+	"Hoysaladevi #0" = -1
+	"Mahadevi #0" = -1
+	"Permadi #0" = 1
+	"Chandena #0" = -1
+	"Sankama #0" = 1
+	"Vinayaditya #0" = 1
+	"Venkatapathi #0" = 1
+	"Adikavi #0" = 1
+	"Rudramadevi #0" = -1
+	"Merada #1" = 0
+	"Sovideva #1" = 0
+	"Achugi #0" = 0
+	"Ahavamalla #0" = 0
+	"Amoghavarsha #0" = 0
+	"Asaga #0" = 0
+	"Ayanna #0" = 0
+	"Dantidurga #0" = 0
+	"Dashavarman #0" = 0
+	"Dhruva #0" = 0
+	"Durgasimha #0" = 0
+	"Ereyanga #0" = 0
+	"Gangaraja #0" = 0
+	"Gajankusha #0" = 0
+	"Gobburi #0" = 0
+	"Hakka #0" = 0
+	"Indra #0" = 0
+	"Jagaraya #0" = 0
+	"Jagattunga #0" = 0
+	"Jayasimha #0" = 0
+	"Kambarasa #0" = 0
+	"Kannama #0" = 0
+	"Karka #0" = 0
+	"Khottiga #0" = 0
+	"Kirtivarman #0" = 0
+	"Krishna #0" = 0
+	"Madhura #0" = 0
+	"Mangalesi #0" = 0
+	"Marasimha #0" = 0
+	"Marulaganga #0" = 0
+	"Narasanayaka #0" = 0
+	"Narasimha #0" = 0
+	"Neetimarga #0" = 0
+	"Nripakama #0" = 0
+	"Permanadi #0" = 0
+	"Pulakesi #0" = 0
+	"Rachamalla #0" = 0
+	"Ramadeva #0" = 0
+	"Satyasraya #0" = 0
+	"Sharva #0" = 0
+	"Somesvara #0" = 0
+	"Sripadaraya #0" = 0
+	"Sriranga #0" = 0
+	"Thimma #0" = 0
+	"Tirumalaraya #0" = 0
+	"Uchita #0" = 0
+	"Venkatadri #0" = 0
+	"Vikramaditya #0" = 0
+	"Vijayaditya #0" = 0
+	"Viraballala #0" = 0
+	"Viravijaya #0" = 0
+	"Yachama #0" = 0
+	"Yachamanedu #0" = 0
+	"Achyutadeva #0" = 0
+	"Krishnadevaraya #0" = 0
+	"Sadashiva #0" = 0
+	"Vendakadri #0" = 0
+	"Viranarasimha #0" = 0
+}
+

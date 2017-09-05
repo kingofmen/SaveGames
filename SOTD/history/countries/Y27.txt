@@ -1,0 +1,35 @@
+# Saffarid
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+capital = 2233
+1404.4.3 = {
+	monarch = {
+		name = "Allahyar"
+		birth_date = 1401.8.14
+		dynasty = "Saffarid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1433.9.1 = {
+	heir = {
+		name = "Ardeshir"
+		monarch_name = "Ardeshir"
+		dynasty = "Saffarid"
+		birth_date = 1433.9.1
+		death_date = 1513.9.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 2233
+	add_treasury = 28
+	add_prestige = 397
+}

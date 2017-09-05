@@ -1,0 +1,23 @@
+# Nyitra
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = czech
+religion = catholic
+capital = 1772
+1437.9.21 = {
+	monarch = {
+		name = "Rostislav"
+		birth_date = 1424.2.4
+		dynasty = "Jankovský z Vlašimi"
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 1772
+	add_treasury = 19
+	add_prestige = 67
+}

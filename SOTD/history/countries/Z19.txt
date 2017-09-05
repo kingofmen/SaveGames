@@ -1,0 +1,35 @@
+# Sussex
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = catholic
+clear_scripted_personalities = yes
+capital = 235
+1437.1.21 = {
+	monarch = {
+		name = "Gyrth"
+		birth_date = 1391.11.11
+		dynasty = "of Wessex"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	heir = {
+		name = "Eadwine"
+		monarch_name = "Eadwine"
+		dynasty = "of Wessex"
+		birth_date = 1394.10.2
+		death_date = 1474.10.2
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 235
+	add_treasury = 19
+	add_prestige = 11
+}

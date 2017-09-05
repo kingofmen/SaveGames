@@ -1,0 +1,23 @@
+# Novgorod
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+capital = 1961
+1442.1.19 = {
+	monarch = {
+		name = "Paksyut"
+		birth_date = 1439.4.27
+		dynasty = "Rurikid"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1961
+	add_treasury = 18
+	add_prestige = 93
+}

@@ -1,0 +1,25 @@
+# Gujarat
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 521
+1434.5.2 = {
+	monarch = {
+		name = "Vidurathpala"
+		birth_date = 1407.5.11
+		dynasty = "Pratihara"
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 521
+	add_treasury = 9
+	add_prestige = 477
+}

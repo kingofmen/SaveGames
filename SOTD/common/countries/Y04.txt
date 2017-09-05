@@ -1,0 +1,96 @@
+# Azov
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 218 179 130 }
+
+
+
+
+leader_names = {
+
+	"Maer" "Borkvard" "Kolbjörn" "Öysteinn" "Niklas" "Irbis" "Khalga" "Çorpan" "Simsam" "Bulçan" 
+	"Täbär" "Bälgiçi" "Yilig" "Mänäs" "Tuvan" "Tarkhan" "Zachariah" "Baldr" "Tatra" "Tuzniq" 
+	"Pagan" "Jorn" "Khudbard" "Béla" "Asparukh" "Ornag" "Jedvard" "Eirikr" "Alp" "Araslan" 
+	"Bagha" "Baghatur" "Barjik" "Barsbek" "Bastu" "Bashtwa" "Bihor" "Böri" "Bugha" "Bulan" 
+	"Busir" "Buzer" "Çat" "Çat'n" "Ilik" "Iltäbär" "Itakh" "Kamaj" "Karadakh" "Kayghalagh" 
+	"Khatir" "Khuterkin" "Kibar" "Kisa" "Kundaçiq" "Kundaç" "Mänär" "Mënümarót" "Ötemis" "Papaçyz" 
+	"Samsam" "Sartäç" "Tabghaç" "Tarmaç" "Vakrim" "Yabghu" "Yavantey" "Yençepi" "Yerneslu" "Yeçtirek" }
+monarch_names = {
+	"Maer #1" = -19
+	"Borkvard #1" = 18
+	"Kolbjörn #0" = 1
+	"Öysteinn #0" = 1
+	"Niklas #1" = 18
+	"Irbis #1" = 0
+	"Khalga #1" = 0
+	"Çorpan #1" = 0
+	"Simsam #1" = 0
+	"Bulçan #1" = 0
+	"Täbär #1" = 0
+	"Bälgiçi #1" = 0
+	"Yilig #1" = 0
+	"Mänäs #1" = 0
+	"Tuvan #1" = 0
+	"Tarkhan #1" = 0
+	"Zachariah #1" = 0
+	"Baldr #1" = 0
+	"Tatra #1" = 0
+	"Tuzniq #1" = 0
+	"Pagan #1" = 0
+	"Jorn #1" = 0
+	"Khudbard #1" = 0
+	"Béla #1" = 0
+	"Asparukh #1" = 0
+	"Ornag #1" = 0
+	"Jedvard #1" = 0
+	"Eirikr #1" = 0
+	"Alp #0" = 0
+	"Araslan #0" = 0
+	"Bagha #0" = 0
+	"Baghatur #0" = 0
+	"Barjik #0" = 0
+	"Barsbek #0" = 0
+	"Bastu #0" = 0
+	"Bashtwa #0" = 0
+	"Bihor #0" = 0
+	"Böri #0" = 0
+	"Bugha #0" = 0
+	"Bulan #0" = 0
+	"Busir #0" = 0
+	"Buzer #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Ilik #0" = 0
+	"Iltäbär #0" = 0
+	"Itakh #0" = 0
+	"Kamaj #0" = 0
+	"Karadakh #0" = 0
+	"Kayghalagh #0" = 0
+	"Khatir #0" = 0
+	"Khuterkin #0" = 0
+	"Kibar #0" = 0
+	"Kisa #0" = 0
+	"Kundaçiq #0" = 0
+	"Kundaç #0" = 0
+	"Mänär #0" = 0
+	"Mënümarót #0" = 0
+	"Ötemis #0" = 0
+	"Papaçyz #0" = 0
+	"Samsam #0" = 0
+	"Sartäç #0" = 0
+	"Tabghaç #0" = 0
+	"Tarmaç #0" = 0
+	"Vakrim #0" = 0
+	"Yabghu #0" = 0
+	"Yavantey #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+
+
+	"Rikissa #0" = -1
+	"Edla #0" = -1
+	"Birgitta #0" = -1
+	"Ingrid #0" = -1
+}
+

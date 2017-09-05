@@ -1,0 +1,24 @@
+# Bryansk
+government = administrative_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+capital = 2424
+1432.1.22 = {
+	monarch = {
+		name = "Praskovya"
+		birth_date = 1430.5.17
+		dynasty = "Dregovich"
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2424
+	add_treasury = 28
+	add_prestige = 136
+}

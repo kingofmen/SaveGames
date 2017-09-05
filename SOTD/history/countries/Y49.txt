@@ -1,0 +1,23 @@
+# Galilee
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = ibadi
+capital = 2315
+1442.8.2 = {
+	monarch = {
+		name = "Mena"
+		birth_date = 1432.12.18
+		dynasty = "Hedareb"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2315
+	add_treasury = 14
+	add_prestige = 198
+}

@@ -1,0 +1,33 @@
+# Navarra
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+capital = 83
+1443.12.23 = {
+	monarch = {
+		name = "Munio"
+		birth_date = 1437.4.17
+		dynasty = "von Britannia"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	heir = {
+		name = "Manrique"
+		monarch_name = "Manrique"
+		dynasty = "von Britannia"
+		birth_date = 1441.6.17
+		death_date = 1521.6.17
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 83
+	add_treasury = 14
+	add_prestige = 255
+}

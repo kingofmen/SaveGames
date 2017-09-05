@@ -1,0 +1,118 @@
+# Cilicia
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 214 140 190 }
+
+
+
+
+leader_names = {
+
+	"Meghranoush" "Minoo" "Adhid" "Hasti" "Niki" "Tovmas" "Mara" "Keran" "Avedis" "Golbahar" 
+	"Nane" "Akab" "Aziz" "Abas" "Vesd" "Anoush" "Bedros" "Eliz" "Tatoul" "Keghanoush" 
+	"Maria" "Mushel" "Margarid" "Arda" "Satenik" "Youkhanna" "Vrtanes" "Salahaddin" "Srpouhi" "Kapriel" 
+	"Tachat" "Trdat" "Kamran" "Eulalia" "Sirvart" "Amir" "Gevorg" "Sulayman" "Ishaq" "Bardu" 
+	"Rustum" "Damyanah" "Muhsin" "Murad" "Kallistos" "Abdul-Azeem" "Abdul-Hamid" "Abdul-Lateef" "Abdul-Razzaq" "Abdul-Wahad" 
+	"Adil" "Ala'i" "Ashraf" "Bashar" "Boutros" "Da'ud" "Faisal" "Fayiz" "Ghazi" "Hakam" 
+	"Hamdan" "Hashmaddin" "Ibrahim" "Imamaddin" "Isa" "Is'mail" "Ismat" "Jahan" "Jamil" "Khalid" 
+	"Khudayar" "Majid" "Mas'ud" "Muaddam" "Mukhtar" "Musa" "Muzaffar" "Muzaffaraddin" "Nasraddin" "Nuraddin" 
+	"Nuri" "Radhi" "Rasul" "Sa'ud" "Seyfullah" "Sharaf" "Sirhan" "Taimur" "Tawfiq" "Umaya" 
+	"Wahid" "Yahya" "Ya'qub" "Yasar" "Zahir" }
+monarch_names = {
+	"Meghranoush #0" = -1
+	"Minoo #0" = -1
+	"Adhid #0" = 1
+	"Hasti #0" = -1
+	"Niki #0" = -1
+	"Tovmas #0" = 1
+	"Mara #0" = -1
+	"Keran #0" = -1
+	"Avedis #1" = 21
+	"Golbahar #0" = -1
+	"Nane #0" = -1
+	"Akab #0" = 1
+	"Aziz #0" = 1
+	"Abas #0" = 1
+	"Vesd #0" = 1
+	"Anoush #0" = -1
+	"Bedros #1" = 21
+	"Eliz #0" = -1
+	"Tatoul #0" = 1
+	"Keghanoush #0" = -1
+	"Maria #0" = -1
+	"Mushel #1" = 21
+	"Margarid #0" = -1
+	"Arda #0" = -1
+	"Satenik #0" = -1
+	"Youkhanna #0" = 1
+	"Vrtanes #0" = 1
+	"Salahaddin #0" = 1
+	"Srpouhi #0" = -1
+	"Kapriel #1" = 18
+	"Tachat #0" = 1
+	"Trdat #0" = 1
+	"Kamran #0" = 1
+	"Eulalia #0" = -1
+	"Sirvart #0" = -1
+	"Amir #0" = 1
+	"Gevorg #0" = 1
+	"Sulayman #1" = 0
+	"Ishaq #1" = 0
+	"Bardu #1" = 0
+	"Rustum #1" = 0
+	"Damyanah #1" = 0
+	"Muhsin #3" = 0
+	"Murad #1" = 0
+	"Kallistos #1" = 0
+	"Abdul-Azeem #0" = 0
+	"Abdul-Hamid #0" = 0
+	"Abdul-Lateef #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abdul-Wahad #0" = 0
+	"Adil #0" = 0
+	"Ala'i #0" = 0
+	"Ashraf #0" = 0
+	"Bashar #0" = 0
+	"Boutros #0" = 0
+	"Da'ud #0" = 0
+	"Faisal #0" = 0
+	"Fayiz #0" = 0
+	"Ghazi #0" = 0
+	"Hakam #0" = 0
+	"Hamdan #0" = 0
+	"Hashmaddin #0" = 0
+	"Ibrahim #0" = 0
+	"Imamaddin #0" = 0
+	"Isa #0" = 0
+	"Is'mail #0" = 0
+	"Ismat #0" = 0
+	"Jahan #0" = 0
+	"Jamil #0" = 0
+	"Khalid #0" = 0
+	"Khudayar #0" = 0
+	"Majid #0" = 0
+	"Mas'ud #0" = 0
+	"Muaddam #0" = 0
+	"Mukhtar #0" = 0
+	"Musa #0" = 0
+	"Muzaffar #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Nasraddin #0" = 0
+	"Nuraddin #0" = 0
+	"Nuri #0" = 0
+	"Radhi #0" = 0
+	"Rasul #0" = 0
+	"Sa'ud #0" = 0
+	"Seyfullah #0" = 0
+	"Sharaf #0" = 0
+	"Sirhan #0" = 0
+	"Taimur #0" = 0
+	"Tawfiq #0" = 0
+	"Umaya #0" = 0
+	"Wahid #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Yasar #0" = 0
+	"Zahir #0" = 0
+}
+

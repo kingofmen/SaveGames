@@ -1,0 +1,122 @@
+# Perm
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 237 211 140 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Auli" "Mandak" "Oshama" "Yapti" "Laptsui" "Kontäw" "Kako" "Atpälha" "Syudbya" "Num" 
+	"Alik" "Noumea" "Yadne" "Sarak" "Pudak" "Samatu" "Kat" "Galya" "Yavlad" "Parava" 
+	"Poshayka" "Khatyako" "Kolik" "Pekshayka" "Shoksha" "Kharuchi" "Nga" "Dobrinya" "Senda" "Xëryuchi" 
+	"Ngënoh" "Utyayka" "Tadane" "Tolik" "Parush" "Tuulikki" "Nyalku" "Wayngachi" "Tada" "Kujku" 
+	"Syryava" "Syeju" "Noroava" "Sochava" "Ilme" "Tatva" "Kichay" "Vergava" "Yar" "Chindyapa" 
+	"Anava" "Ngeva" "Hasaba" "Inzhay" "Nyal'ka" "Yurak" "Liyava" "Sangasa" "Yalgava" "Nydog" 
+	"Irter" "Nabtiko" "Nenyts" "Panay" "Salinder" "Sirtya" "Somatu" "Vesei" }
+monarch_names = {
+	"Auli #0" = -1
+	"Mandak #0" = 1
+	"Oshama #0" = -1
+	"Yapti #0" = 1
+	"Laptsui #0" = -1
+	"Kontäw #0" = -1
+	"Kako #0" = 1
+	"Atpälha #0" = -1
+	"Syudbya #0" = 1
+	"Num #0" = 1
+	"Alik #0" = 1
+	"Noumea #0" = 1
+	"Yadne #0" = 1
+	"Sarak #0" = 1
+	"Pudak #0" = 1
+	"Samatu #0" = 1
+	"Kat #0" = -1
+	"Galya #0" = -1
+	"Yavlad #0" = 1
+	"Parava #0" = -1
+	"Poshayka #0" = -1
+	"Khatyako #0" = -1
+	"Kolik #0" = 1
+	"Pekshayka #0" = -1
+	"Shoksha #0" = 1
+	"Kharuchi #0" = 1
+	"Nga #0" = 1
+	"Dobrinya #0" = 1
+	"Senda #0" = -1
+	"Xëryuchi #0" = 1
+	"Ngënoh #0" = 1
+	"Utyayka #0" = -1
+	"Tadane #0" = -1
+	"Tolik #0" = 1
+	"Parush #0" = 1
+	"Tuulikki #0" = -1
+	"Nyalku #0" = 1
+	"Wayngachi #0" = 1
+	"Tada #0" = -1
+	"Kujku #0" = -1
+	"Syryava #0" = -1
+	"Syeju #0" = -1
+	"Noroava #0" = -1
+	"Sochava #0" = -1
+	"Ilme #0" = -1
+	"Tatva #0" = 1
+	"Kichay #0" = 1
+	"Vergava #0" = -1
+	"Yar #0" = 1
+	"Chindyapa #0" = -1
+	"Anava #0" = -1
+	"Ngeva #0" = -1
+	"Hasaba #0" = 1
+	"Inzhay #0" = 1
+	"Nyal'ka #0" = -1
+	"Yurak #0" = 1
+	"Liyava #0" = -1
+	"Sangasa #0" = -1
+	"Yalgava #0" = -1
+	"Nydog #0" = 1
+	"Irter #0" = 1
+	"Nabtiko #0" = 0
+	"Nenyts #0" = 0
+	"Panay #0" = 0
+	"Salinder #0" = 0
+	"Sirtya #0" = 0
+	"Somatu #0" = 0
+	"Vesei #0" = 0
+}
+ship_names = {
+	Cherdyn Pelym Kudym-Osha Shudeg
+	Voleg Rateg Koleg Uzheg
+	Baseg Yus Pokcha Vychegda Sysola
+	Iskor Kama Vishera Kolva Yazva Uros Vilgort
+}
+

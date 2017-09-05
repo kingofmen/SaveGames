@@ -1,0 +1,96 @@
+# Jülich
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 100 100 141 }
+
+
+
+
+leader_names = {
+
+	"Petro" "Assur" "Menenda" "Riciberga" "Gonterote" "Eneko" "Assona" "Ximena" "Oneka" "Nunila" 
+	"Lope" "Fortun" "Gartzia" "Antso" "Aines" "Berengaria" "Belasko" "Elbira" "Aznar" "Oria" 
+	"Joana" "Antsa" "Maior" "Belaskita" "Alvar" "Teresa" "Herramel" "Piarres" "Munia" "Mentzia" 
+	"Bermudo" "Konstantzia" "Froila" "Theodoricho" "Gonçalo" "Suneario" "Oliba" "Adelgundis" "Heregyth" "Ermengardis" 
+	"Winidilda" "Nunno" "Monniadomna" "Adelfonso" "Agila" "Airmanagildo" "Alaricho" "Aloito" "Athanagildo" "Berengario" 
+	"Diaco" "Fafila" "Friedenando" "Friednand" "Garçi" "Gundemar" "Guttier" "Johan" "Liuva" "Liuvericho" 
+	"Lupo" "Mauregato" "Monnio" "Ordonno" "Pelagio" "Ranimiro" "Rekkaredo" "Rodericho" "Sans" "Silo" 
+	"Suniefredo" "Veremondo" "Wifredo" "Wimarano" "Witiza" }
+monarch_names = {
+	"Petro #0" = 1
+	"Assur #0" = 1
+	"Menenda #0" = -1
+	"Riciberga #0" = -1
+	"Gonterote #0" = -1
+	"Eneko #0" = 1
+	"Assona #0" = -1
+	"Ximena #0" = -1
+	"Oneka #0" = -1
+	"Nunila #0" = -1
+	"Lope #0" = 1
+	"Fortun #0" = 1
+	"Gartzia #0" = 1
+	"Antso #0" = 1
+	"Aines #0" = -1
+	"Berengaria #0" = -1
+	"Belasko #0" = 1
+	"Elbira #0" = -1
+	"Aznar #0" = 1
+	"Oria #0" = -1
+	"Joana #0" = -1
+	"Antsa #0" = -1
+	"Maior #0" = -1
+	"Belaskita #0" = -1
+	"Alvar #0" = 1
+	"Teresa #0" = -1
+	"Herramel #0" = 1
+	"Piarres #0" = 1
+	"Munia #0" = -1
+	"Mentzia #0" = -1
+	"Bermudo #0" = 1
+	"Konstantzia #0" = -1
+	"Froila #0" = 1
+	"Theodoricho #0" = 1
+	"Gonçalo #0" = 1
+	"Suneario #0" = 1
+	"Oliba #0" = 1
+	"Adelgundis #0" = -1
+	"Heregyth #0" = -1
+	"Ermengardis #0" = -1
+	"Winidilda #0" = -1
+	"Nunno #0" = 1
+	"Monniadomna #0" = -1
+	"Adelfonso #0" = 0
+	"Agila #0" = 0
+	"Airmanagildo #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Athanagildo #0" = 0
+	"Berengario #0" = 0
+	"Diaco #0" = 0
+	"Fafila #0" = 0
+	"Friedenando #0" = 0
+	"Friednand #0" = 0
+	"Garçi #0" = 0
+	"Gundemar #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Lupo #0" = 0
+	"Mauregato #0" = 0
+	"Monnio #0" = 0
+	"Ordonno #0" = 0
+	"Pelagio #0" = 0
+	"Ranimiro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suniefredo #0" = 0
+	"Veremondo #0" = 0
+	"Wifredo #0" = 0
+	"Wimarano #0" = 0
+	"Witiza #0" = 0
+}
+

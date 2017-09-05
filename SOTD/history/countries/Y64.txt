@@ -1,0 +1,25 @@
+# Mali
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1124
+1434.3.23 = {
+	monarch = {
+		name = "Morobani"
+		birth_date = 1428.6.6
+		dynasty = "Cisse"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1124
+	add_treasury = 41
+	add_prestige = 139
+}

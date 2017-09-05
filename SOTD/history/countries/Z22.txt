@@ -1,0 +1,26 @@
+# East Saarland
+government = oligarchic_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = finnish
+religion = messalian
+clear_scripted_personalities = yes
+capital = 309
+1432.9.10 = {
+	monarch = {
+		name = "Uoti"
+		birth_date = 1400.3.17
+		dynasty = "Tuure"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 309
+	add_treasury = 68
+	add_prestige = 83
+}

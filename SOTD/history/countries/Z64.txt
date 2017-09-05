@@ -1,0 +1,35 @@
+# Capua
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = lombard
+religion = catholic
+capital = 121
+1421.1.4 = {
+	monarch = {
+		name = "Manso III"
+		birth_date = 1373.5.9
+		dynasty = "Lotharling"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1442.9.25 = {
+	heir = {
+		name = "Hermenfred"
+		monarch_name = "Hermenfred"
+		dynasty = "Lotharling"
+		birth_date = 1442.9.25
+		death_date = 1522.9.25
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 121
+	add_treasury = 18
+	add_prestige = 148
+}

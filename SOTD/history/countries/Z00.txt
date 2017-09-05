@@ -1,0 +1,26 @@
+# Éire
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = irish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 373
+1435.12.22 = {
+	monarch = {
+		name = "Eithne"
+		birth_date = 1407.3.4
+		dynasty = "Craig"
+		female = yes
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 373
+	add_treasury = 43
+	add_prestige = 192
+}

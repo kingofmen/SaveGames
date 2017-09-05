@@ -1,0 +1,23 @@
+# Jaskarn
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = jain
+capital = 2093
+1437.11.16 = {
+	monarch = {
+		name = "Gopal II"
+		birth_date = 1406.5.14
+		dynasty = "Jaskarn"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 2093
+	add_treasury = 7
+	add_prestige = 68
+}

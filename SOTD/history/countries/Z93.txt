@@ -1,0 +1,23 @@
+# Pereyaslavl
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+capital = 290
+1410.1.28 = {
+	monarch = {
+		name = "Yemelyan"
+		birth_date = 1398.5.13
+		dynasty = "Radimich"
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 290
+	add_treasury = 8
+	add_prestige = 182
+}

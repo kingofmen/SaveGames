@@ -1,0 +1,35 @@
+# Bjarmia
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = norse_pagan_reformed
+capital = 313
+1419.6.17 = {
+	monarch = {
+		name = "Mandak"
+		birth_date = 1388.11.9
+		dynasty = "Sarakid"
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}
+1439.6.2 = {
+	heir = {
+		name = "Yapti"
+		monarch_name = "Yapti"
+		dynasty = "Sarakid"
+		birth_date = 1439.6.2
+		death_date = 1519.6.2
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 313
+	add_treasury = 12
+	add_prestige = 85
+}

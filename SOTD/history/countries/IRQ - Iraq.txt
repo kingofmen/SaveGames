@@ -1,0 +1,23 @@
+# Mesopotamia
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = armenian
+religion = sunni
+capital = 418
+1441.4.11 = {
+	monarch = {
+		name = "Tatoul"
+		birth_date = 1435.1.21
+		dynasty = "Yazidid"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 418
+	add_treasury = 47
+	add_prestige = 79
+}

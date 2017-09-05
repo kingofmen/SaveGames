@@ -1,0 +1,38 @@
+# Kent
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = catholic
+clear_scripted_personalities = yes
+capital = 235
+1413.3.4 = {
+	monarch = {
+		name = "Fortun II"
+		birth_date = 1400.5.6
+		dynasty = "von Britannia"
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1418.10.17 = {
+	heir = {
+		name = "Wulfstan"
+		monarch_name = "Wulfstan"
+		dynasty = "von Britannia"
+		birth_date = 1418.10.17
+		death_date = 1498.10.17
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 235
+	add_treasury = 13
+	add_prestige = 342
+}

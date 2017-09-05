@@ -1,0 +1,26 @@
+# Mordva
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
+clear_scripted_personalities = yes
+capital = 303
+1427.1.17 = {
+	monarch = {
+		name = "Syrka"
+		birth_date = 1426.8.4
+		dynasty = "Saksid"
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 303
+	add_treasury = 22
+	add_prestige = 40
+}

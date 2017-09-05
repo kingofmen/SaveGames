@@ -1,0 +1,23 @@
+# Mezwarid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+capital = 2458
+1442.8.1 = {
+	monarch = {
+		name = "Sisso"
+		birth_date = 1435.6.10
+		dynasty = "Mezwarid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2458
+	add_treasury = 19
+	add_prestige = 38
+}

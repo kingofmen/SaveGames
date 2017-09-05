@@ -1,0 +1,25 @@
+# Savoy
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = normand
+religion = catholic
+clear_scripted_personalities = yes
+capital = 241
+1414.8.24 = {
+	monarch = {
+		name = "William"
+		birth_date = 1406.11.8
+		dynasty = "von Britannia"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 241
+	add_treasury = 22
+	add_prestige = 434
+}

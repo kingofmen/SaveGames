@@ -1,0 +1,204 @@
+# Pskov
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 140 130 62 }
+
+
+
+
+leader_names = {
+
+	"Þorsteinn" "Arnbjörn" "Helena" "Holmfrid" "Ingibjörg" "Ylva" "Dag" "Ingrid" "Kraka" "Cecilia" 
+	"Kettilmund" "Bo" "Freyr" "Kiur" "Ingjald" "Inga" "Birger" "Vigdis" "Maer" "Tryggve" 
+	"Þyra" "Guðrun" "Fredrik" "Yrsa" "Þorbrandr" "Hrolfr" "Gunnhildr" "Guðmundr" "Arni" "Geirr" 
+	"Beata" "Asta" "Aleta" "Sigrid" "Rögnvaldr" "Sif" "Sveinn" "Þora" "Maria" "Asa" 
+	"Georg" "Aare" "Agul" "Ahas" "Aho" "Ahti" "Ahvo" "Alar" "Alo" "Alur" 
+	"Aopelg" "Aotõiv" "Arp" "Arvet" "Arvo" "Atko" "Aul" "Aulemb" "Eeri" "Elmar" 
+	"Hain" "Haljas" "Heameel" "Heatõiv" "Hoovatõiv" "Hurmas" "Hurmetõiv" "Hõimulemb" "Hüvalemb" "Hüvameel" 
+	"Hüvatõiv" "Igalemb" "Igapäiv" "Ihalemb" "Ihameel" "Ihar" "Ihatõiv" "Ihavald" "Illimar" "Ilmalemb" 
+	"Ilmar" "Ilvelemb" "Jaolemb" "Kaalep" "Kaarel" "Kaaren" "Kahar" "Kahru" "Kahrulemb" "Kahus" 
+	"Kaido" "Kalev" "Kalju" "Kaljuvald" "Kalle" "Kaomeel" "Karuvald" "Kaugemeel" "Kaupo" "Kaur" 
+	"Kiurupelg" "Koit" "Kosk" "Kudres" "Küllelemb" "Leetõiv" "Lembit" "Leppetõiv" "Lible" "Lättelemb" 
+	"Manivald" "Mart" "Maru" "Mati" "Mats" "Meelis" "Mehis" "Meigo" "Neeme" "Niglas" 
+	"Ohetõiv" "Ohevald" "Olev" "Onni" "Otelemb" "Ott" "Pihl" "Piho" "Pikne" "Päevalemb" 
+	"Pärt" "Raak" "Raho" "Rahuleid" "Sulev" "Susi" "Sutemeel" "Sutepelg" "Tambet" "Tarva" 
+	"Tarvet" "Tasulemb" "Toivo" "Toom" "Tunne" "Tutkas" "Tuul" "Tõeleid" "Tõiv" "Tõivulemb" 
+	"Tõll" "Tõnn" "Uku" "Urmas" "Uru" "Valdur" "Vambola" "Vandemeel" "Varjelemb" "Veli" 
+	"Vello" "Venno" "Vesse" "Vihavald" "Vililemb" "Vilimeel" "Vilitõiv" "Vilivald" "Vootele" "Väino" 
+	"Värvo" "Õigemeel" "Ülo" }
+monarch_names = {
+	"Þorsteinn #0" = 1
+	"Arnbjörn #0" = 1
+	"Helena #0" = -1
+	"Holmfrid #0" = -1
+	"Ingibjörg #0" = -1
+	"Ylva #0" = -1
+	"Dag #1" = 18
+	"Ingrid #0" = -1
+	"Kraka #0" = -1
+	"Cecilia #0" = -1
+	"Kettilmund #1" = 18
+	"Bo #0" = 1
+	"Freyr #0" = 1
+	"Kiur #0" = 1
+	"Ingjald #0" = 1
+	"Inga #0" = -1
+	"Birger #1" = 18
+	"Vigdis #0" = -1
+	"Maer #0" = -1
+	"Tryggve #0" = 1
+	"Þyra #0" = -1
+	"Guðrun #0" = -1
+	"Fredrik #0" = 1
+	"Yrsa #0" = -1
+	"Þorbrandr #2" = 21
+	"Hrolfr #0" = 1
+	"Gunnhildr #0" = -1
+	"Guðmundr #0" = 1
+	"Arni #0" = 1
+	"Geirr #0" = 1
+	"Beata #0" = -1
+	"Asta #0" = -1
+	"Aleta #0" = -1
+	"Sigrid #0" = -1
+	"Rögnvaldr #0" = 1
+	"Sif #0" = -1
+	"Sveinn #0" = 1
+	"Þora #0" = -1
+	"Maria #0" = -1
+	"Asa #0" = -1
+	"Georg #0" = 1
+	"Aare #0" = 0
+	"Agul #0" = 0
+	"Ahas #0" = 0
+	"Aho #0" = 0
+	"Ahti #0" = 0
+	"Ahvo #0" = 0
+	"Alar #0" = 0
+	"Alo #0" = 0
+	"Alur #0" = 0
+	"Aopelg #0" = 0
+	"Aotõiv #0" = 0
+	"Arp #0" = 0
+	"Arvet #0" = 0
+	"Arvo #0" = 0
+	"Atko #0" = 0
+	"Aul #0" = 0
+	"Aulemb #0" = 0
+	"Eeri #0" = 0
+	"Elmar #0" = 0
+	"Hain #0" = 0
+	"Haljas #0" = 0
+	"Heameel #0" = 0
+	"Heatõiv #0" = 0
+	"Hoovatõiv #0" = 0
+	"Hurmas #0" = 0
+	"Hurmetõiv #0" = 0
+	"Hõimulemb #0" = 0
+	"Hüvalemb #0" = 0
+	"Hüvameel #0" = 0
+	"Hüvatõiv #0" = 0
+	"Igalemb #0" = 0
+	"Igapäiv #0" = 0
+	"Ihalemb #0" = 0
+	"Ihameel #0" = 0
+	"Ihar #0" = 0
+	"Ihatõiv #0" = 0
+	"Ihavald #0" = 0
+	"Illimar #0" = 0
+	"Ilmalemb #0" = 0
+	"Ilmar #0" = 0
+	"Ilvelemb #0" = 0
+	"Jaolemb #0" = 0
+	"Kaalep #0" = 0
+	"Kaarel #0" = 0
+	"Kaaren #0" = 0
+	"Kahar #0" = 0
+	"Kahru #0" = 0
+	"Kahrulemb #0" = 0
+	"Kahus #0" = 0
+	"Kaido #0" = 0
+	"Kalev #0" = 0
+	"Kalju #0" = 0
+	"Kaljuvald #0" = 0
+	"Kalle #0" = 0
+	"Kaomeel #0" = 0
+	"Karuvald #0" = 0
+	"Kaugemeel #0" = 0
+	"Kaupo #0" = 0
+	"Kaur #0" = 0
+	"Kiurupelg #0" = 0
+	"Koit #0" = 0
+	"Kosk #0" = 0
+	"Kudres #0" = 0
+	"Küllelemb #0" = 0
+	"Leetõiv #0" = 0
+	"Lembit #0" = 0
+	"Leppetõiv #0" = 0
+	"Lible #0" = 0
+	"Lättelemb #0" = 0
+	"Manivald #0" = 0
+	"Mart #0" = 0
+	"Maru #0" = 0
+	"Mati #0" = 0
+	"Mats #0" = 0
+	"Meelis #0" = 0
+	"Mehis #0" = 0
+	"Meigo #0" = 0
+	"Neeme #0" = 0
+	"Niglas #0" = 0
+	"Ohetõiv #0" = 0
+	"Ohevald #0" = 0
+	"Olev #0" = 0
+	"Onni #0" = 0
+	"Otelemb #0" = 0
+	"Ott #0" = 0
+	"Pihl #0" = 0
+	"Piho #0" = 0
+	"Pikne #0" = 0
+	"Päevalemb #0" = 0
+	"Pärt #0" = 0
+	"Raak #0" = 0
+	"Raho #0" = 0
+	"Rahuleid #0" = 0
+	"Sulev #0" = 0
+	"Susi #0" = 0
+	"Sutemeel #0" = 0
+	"Sutepelg #0" = 0
+	"Tambet #0" = 0
+	"Tarva #0" = 0
+	"Tarvet #0" = 0
+	"Tasulemb #0" = 0
+	"Toivo #0" = 0
+	"Toom #0" = 0
+	"Tunne #0" = 0
+	"Tutkas #0" = 0
+	"Tuul #0" = 0
+	"Tõeleid #0" = 0
+	"Tõiv #0" = 0
+	"Tõivulemb #0" = 0
+	"Tõll #0" = 0
+	"Tõnn #0" = 0
+	"Uku #0" = 0
+	"Urmas #0" = 0
+	"Uru #0" = 0
+	"Valdur #0" = 0
+	"Vambola #0" = 0
+	"Vandemeel #0" = 0
+	"Varjelemb #0" = 0
+	"Veli #0" = 0
+	"Vello #0" = 0
+	"Venno #0" = 0
+	"Vesse #0" = 0
+	"Vihavald #0" = 0
+	"Vililemb #0" = 0
+	"Vilimeel #0" = 0
+	"Vilitõiv #0" = 0
+	"Vilivald #0" = 0
+	"Vootele #0" = 0
+	"Väino #0" = 0
+	"Värvo #0" = 0
+	"Õigemeel #0" = 0
+	"Ülo #0" = 0
+}
+

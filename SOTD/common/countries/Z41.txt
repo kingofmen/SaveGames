@@ -1,0 +1,334 @@
+# Adrianopolis
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 213 74 165 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Aikaterine" "Basilliael" "Romane" "Demetra" "Ioulia" "Damiane" "Samir" "Alexandra" "Iva" "Basileios" 
+	"Gregyr" "Kaleid" "Germanos" "Zachyr" "Euniael" "Ermengard" "Yekaterina" "Anthimos" "Konstantia" "Markiael" 
+	"Kentigerna" "Isaias" "Petros" "Manuel" "Aibiael" "Athanasios" "Maximos" "Theophano" "Romanos" "Fingola" 
+	"Germanis" "Maurikios" "Hartmann" "Apollonia" "Aigidia" "Theodir" "Maria" "Martha" "Raphail" "Helene" 
+	"Dionysiael" "Melissiael" "Kale" "Theoktistos" "Kossiael" "Ainus" "Dale" "Ea" "Vala" "Quenta" 
+	"Akaliael" "Bethiael" "Akalyr" "Agnatius" "Rubiael" "Saphir" "Sapphiael" "Emeriael" "Granityr" "Feanyr" 
+	"Thornyr" "Kryssiael" "Mencius" "Lapissiael" "Diamonde" "Tulnir" "Kosniael" "Rubyr" "Oppius" "Amethyste" 
+	"Topir" "Belik" "Zelnir" "Isair" "Traianyr" "Tabusir" "Iriael" "Zenobiael" "Sabir" "Antir" 
+	"Konstantine" "Zelik" "Anastasiael" "Raenir" "Akakios" "Euphemiael" "Melir" "Sabanik" "Eudokiael" "Philippiael" 
+	"Philippa" "Simoniael" "Apollonios" "Kyriael" "Prokon" "Zenon" "Sophia" "Theodyr" "Konstantyr" "Isaiasir" 
+	"Anthousa" "Maximir" "Makarios" "Iouliana" "Belisarios" "Konin" "Nikon" "Laurentios" "Theonir" "Eusebios" 
+	"Daenor" "Ioanniael" "Soriael" "Melissa" "Theocharistos" "Philiael" "Hieron" "Melkiael" "Agne" "Nonna" 
+	"Evanthiael" "Raenon" "Evangelos" "Faeniael" "Gabriel" "Romanon" "Aikateriael" "Pamphilios" "Simonis" "Alexandron" 
+	"Gennadios" "Friedrica" "Heliael" "Kyra" "Euphrosyne" "Apolloniael" "Eulaliael" "Basillike" "Basil" "Serapion" 
+	"Alexeia" "Pelanir" "Pavlos" "Raenos" "Theodoros" "Dragomir" "Niketas" "Theognosia" "Rhodanthiael" "Chrysanthos" 
+	"Antoniael" "Nikoletta" "Eireniael" "Nikiael" "Stephanos" "Ioannir" "Pantoleon" "Engiael" "Romyliael" "Thietmar" 
+	"Markia" "Damiael" "Eugeniael" "Stephaniael" "Garyphallia" "Pamphilir" "Laliael" "Demetrios" "Barbariael" "Staurakios" 
+	"Emich" "Nikolettiael" "Eudokia" "Antonia" "Romiael" "Anthe" "Theophanes" "Irmiael" "Antipatra" "Agathe" 
+	"Symin" "Philir" "Bosporir" "Theoktiste" "Anthir" "Helir" "Eudoxiael" "Dietir" "Eusebia" "Nuala" 
+	"Isidoros" "Kosmas" "Pamphir" "Praxida" "Alexir" "Arsenir" "Ulfr" "Stephania" "Chrysogone" "Bardas" 
+	"Nikolaos" "Nikephoros" "Pyrros" "Matthaios" "Hierotheos" "Aleksii" "Balin" "Bernardin" "Bertalan" "Bogoris" 
+	"Boril" "Bozidar" "Braslav" "Dan" "Dionisii" "Dominik" "Dragoman" "Dragshan" "Drzislav" "Evtimii" 
+	"Frujin" "German" "Grgur" "Hranimir" "Ioakim" "Ivan" "Jerolim" "Kalojan" "Kocelj" "Kozma" 
+	"Kresimir" "Kulin" "Ljubomir" "Ljutomisl" "Marko" "Mihail" "Mikica" "Miroslav" "Momchil" "Nikola" 
+	"Ognen" "Petar" "Prijezda" "Radislav" "Radu" "Sava" "Sermon" "Slavac" "Soimir" "Stracimir" 
+	"Svetislav" "Tomislav" "Trpimir" "Vasilii" "Viseslav" "Vladislav" "Vojnomir" "Zdeslav" }
+monarch_names = {
+	"Aikaterine #0" = -1
+	"Basilliael #0" = -1
+	"Romane #0" = -1
+	"Demetra #0" = -1
+	"Ioulia #0" = -1
+	"Damiane #0" = -1
+	"Samir #0" = 1
+	"Alexandra #0" = -1
+	"Iva #0" = -1
+	"Basileios #1" = 21
+	"Gregyr #0" = 1
+	"Kaleid #0" = 1
+	"Germanos #0" = 1
+	"Zachyr #0" = 1
+	"Euniael #0" = -1
+	"Ermengard #0" = -1
+	"Yekaterina #0" = -1
+	"Anthimos #0" = 1
+	"Konstantia #0" = -1
+	"Markiael #0" = -1
+	"Kentigerna #0" = -1
+	"Isaias #0" = 1
+	"Petros #1" = 27
+	"Manuel #0" = 1
+	"Aibiael #0" = -1
+	"Athanasios #0" = 1
+	"Maximos #0" = 1
+	"Theophano #0" = -1
+	"Romanos #0" = 1
+	"Fingola #0" = -1
+	"Germanis #0" = 1
+	"Maurikios #0" = 1
+	"Hartmann #0" = 1
+	"Apollonia #0" = -1
+	"Aigidia #0" = -1
+	"Theodir #0" = 1
+	"Maria #0" = -1
+	"Martha #0" = -1
+	"Raphail #0" = 1
+	"Helene #0" = -1
+	"Dionysiael #0" = -1
+	"Melissiael #0" = -1
+	"Kale #0" = -1
+	"Theoktistos #0" = 1
+	"Kossiael #0" = -1
+	"Ainus #0" = 1
+	"Dale #0" = 1
+	"Ea #0" = -1
+	"Vala #0" = -1
+	"Quenta #0" = -1
+	"Akaliael #0" = -1
+	"Bethiael #0" = -1
+	"Akalyr #0" = 1
+	"Agnatius #0" = 1
+	"Rubiael #0" = -1
+	"Saphir #0" = 1
+	"Sapphiael #0" = -1
+	"Emeriael #0" = -1
+	"Granityr #0" = 1
+	"Feanyr #0" = 1
+	"Thornyr #0" = 1
+	"Kryssiael #0" = -1
+	"Mencius #0" = 1
+	"Lapissiael #0" = -1
+	"Diamonde #0" = 1
+	"Tulnir #0" = 1
+	"Kosniael #0" = -1
+	"Rubyr #0" = 1
+	"Oppius #0" = 1
+	"Amethyste #0" = 1
+	"Topir #0" = 1
+	"Belik #0" = 1
+	"Zelnir #0" = 1
+	"Isair #0" = 1
+	"Traianyr #0" = 1
+	"Tabusir #0" = 1
+	"Iriael #0" = -1
+	"Zenobiael #0" = -1
+	"Sabir #0" = 1
+	"Antir #0" = 1
+	"Konstantine #0" = -1
+	"Zelik #0" = 1
+	"Anastasiael #0" = -1
+	"Raenir #0" = 1
+	"Akakios #0" = 1
+	"Euphemiael #0" = -1
+	"Melir #1" = 24
+	"Sabanik #0" = 1
+	"Eudokiael #0" = -1
+	"Philippiael #0" = -1
+	"Philippa #0" = -1
+	"Simoniael #0" = -1
+	"Apollonios #0" = 1
+	"Kyriael #0" = -1
+	"Prokon #0" = 1
+	"Zenon #0" = 1
+	"Sophia #0" = -1
+	"Theodyr #0" = 1
+	"Konstantyr #0" = 1
+	"Isaiasir #0" = 1
+	"Anthousa #0" = -1
+	"Maximir #0" = 1
+	"Makarios #1" = 21
+	"Iouliana #0" = -1
+	"Belisarios #0" = 1
+	"Konin #1" = 18
+	"Nikon #0" = 1
+	"Laurentios #0" = 1
+	"Theonir #0" = 1
+	"Eusebios #0" = 1
+	"Daenor #0" = 1
+	"Ioanniael #0" = -1
+	"Soriael #0" = -1
+	"Melissa #0" = -1
+	"Theocharistos #0" = 1
+	"Philiael #0" = -1
+	"Hieron #0" = 1
+	"Melkiael #0" = -1
+	"Agne #0" = -1
+	"Nonna #0" = -1
+	"Evanthiael #0" = -1
+	"Raenon #0" = 1
+	"Evangelos #0" = 1
+	"Faeniael #0" = -1
+	"Gabriel #0" = 1
+	"Romanon #0" = 1
+	"Aikateriael #0" = -1
+	"Pamphilios #0" = 1
+	"Simonis #0" = -1
+	"Alexandron #0" = 1
+	"Gennadios #0" = 1
+	"Friedrica #0" = -1
+	"Heliael #0" = -1
+	"Kyra #0" = -1
+	"Euphrosyne #0" = -1
+	"Apolloniael #0" = -1
+	"Eulaliael #0" = -1
+	"Basillike #0" = -1
+	"Basil #0" = 1
+	"Serapion #0" = 1
+	"Alexeia #0" = -1
+	"Pelanir #0" = 1
+	"Pavlos #1" = 18
+	"Raenos #0" = 1
+	"Theodoros #2" = 21
+	"Dragomir #0" = 1
+	"Niketas #0" = 1
+	"Theognosia #0" = -1
+	"Rhodanthiael #0" = -1
+	"Chrysanthos #0" = 1
+	"Antoniael #0" = -1
+	"Nikoletta #0" = -1
+	"Eireniael #0" = -1
+	"Nikiael #0" = -1
+	"Stephanos #0" = 1
+	"Ioannir #0" = 1
+	"Pantoleon #0" = 1
+	"Engiael #0" = -1
+	"Romyliael #0" = -1
+	"Thietmar #0" = 1
+	"Markia #0" = -1
+	"Damiael #0" = -1
+	"Eugeniael #0" = -1
+	"Stephaniael #0" = -1
+	"Garyphallia #0" = -1
+	"Pamphilir #0" = 1
+	"Laliael #0" = -1
+	"Demetrios #0" = 1
+	"Barbariael #0" = -1
+	"Staurakios #0" = 1
+	"Emich #0" = 1
+	"Nikolettiael #0" = -1
+	"Eudokia #0" = -1
+	"Antonia #0" = -1
+	"Romiael #0" = -1
+	"Anthe #0" = -1
+	"Theophanes #1" = 18
+	"Irmiael #0" = -1
+	"Antipatra #0" = -1
+	"Agathe #0" = -1
+	"Symin #0" = 1
+	"Philir #0" = 1
+	"Bosporir #0" = 1
+	"Theoktiste #0" = -1
+	"Anthir #0" = 1
+	"Helir #0" = 1
+	"Eudoxiael #0" = -1
+	"Dietir #0" = 1
+	"Eusebia #0" = -1
+	"Nuala #0" = -1
+	"Isidoros #0" = 1
+	"Kosmas #0" = 1
+	"Pamphir #0" = 1
+	"Praxida #0" = -1
+	"Alexir #0" = 1
+	"Arsenir #0" = 1
+	"Ulfr #0" = 1
+	"Stephania #0" = -1
+	"Chrysogone #0" = -1
+	"Bardas #1" = 18
+	"Nikolaos #0" = 1
+	"Nikephoros #1" = 0
+	"Pyrros #1" = 0
+	"Matthaios #1" = 0
+	"Hierotheos #1" = 0
+	"Aleksii #0" = 0
+	"Balin #0" = 0
+	"Bernardin #0" = 0
+	"Bertalan #0" = 0
+	"Bogoris #0" = 0
+	"Boril #0" = 0
+	"Bozidar #0" = 0
+	"Braslav #0" = 0
+	"Dan #0" = 0
+	"Dionisii #0" = 0
+	"Dominik #0" = 0
+	"Dragoman #0" = 0
+	"Dragshan #0" = 0
+	"Drzislav #0" = 0
+	"Evtimii #0" = 0
+	"Frujin #0" = 0
+	"German #0" = 0
+	"Grgur #0" = 0
+	"Hranimir #0" = 0
+	"Ioakim #0" = 0
+	"Ivan #0" = 0
+	"Jerolim #0" = 0
+	"Kalojan #0" = 0
+	"Kocelj #0" = 0
+	"Kozma #0" = 0
+	"Kresimir #0" = 0
+	"Kulin #0" = 0
+	"Ljubomir #0" = 0
+	"Ljutomisl #0" = 0
+	"Marko #0" = 0
+	"Mihail #0" = 0
+	"Mikica #0" = 0
+	"Miroslav #0" = 0
+	"Momchil #0" = 0
+	"Nikola #0" = 0
+	"Ognen #0" = 0
+	"Petar #0" = 0
+	"Prijezda #0" = 0
+	"Radislav #0" = 0
+	"Radu #0" = 0
+	"Sava #0" = 0
+	"Sermon #0" = 0
+	"Slavac #0" = 0
+	"Soimir #0" = 0
+	"Stracimir #0" = 0
+	"Svetislav #0" = 0
+	"Tomislav #0" = 0
+	"Trpimir #0" = 0
+	"Vasilii #0" = 0
+	"Viseslav #0" = 0
+	"Vladislav #0" = 0
+	"Vojnomir #0" = 0
+	"Zdeslav #0" = 0
+}
+ship_names = {
+	Hydra
+	Lesbos Limnos
+	Mikonios
+	Pezopoulos
+	Salamis Samos Simitzopoulos
+	Themistoklis
+	Votsis
+}
+

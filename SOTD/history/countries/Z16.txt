@@ -1,0 +1,35 @@
+# Deheubarth
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = welsh
+religion = catholic
+clear_scripted_personalities = yes
+capital = 241
+1422.9.14 = {
+	monarch = {
+		name = "Gwydolin"
+		birth_date = 1366.12.2
+		dynasty = "Morgannwg"
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+	heir = {
+		name = "Ceneu"
+		monarch_name = "Ceneu"
+		dynasty = "Morgannwg"
+		birth_date = 1395.6.25
+		death_date = 1475.6.25
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 241
+	add_treasury = 13
+	add_prestige = 187
+}

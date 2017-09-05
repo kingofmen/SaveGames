@@ -1,0 +1,23 @@
+# Kachari
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = assamese
+religion = hinduism
+capital = 566
+1443.10.12 = {
+	monarch = {
+		name = "Harshapala"
+		birth_date = 1428.7.6
+		dynasty = "Kachari"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 566
+	add_treasury = 31
+	add_prestige = 174
+}

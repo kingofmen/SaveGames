@@ -1,0 +1,35 @@
+# Sevençid
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = karluk
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 459
+1443.2.17 = {
+	monarch = {
+		name = "Kotyan"
+		birth_date = 1440.12.24
+		dynasty = "Sevençid"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	heir = {
+		name = "Kubasar"
+		monarch_name = "Kubasar"
+		dynasty = "Sevençid"
+		birth_date = 1416.4.26
+		death_date = 1496.4.26
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 459
+	add_treasury = 17
+	add_prestige = 46
+}

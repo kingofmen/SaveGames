@@ -1,0 +1,37 @@
+# Kotivarsa
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2044
+1431.11.26 = {
+	monarch = {
+		name = "Bhimsingha"
+		birth_date = 1409.9.2
+		dynasty = "Ajatashatru"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1432.2.13 = {
+	heir = {
+		name = "Lakshminarayan"
+		monarch_name = "Lakshminarayan"
+		dynasty = "Ajatashatru"
+		birth_date = 1432.2.13
+		death_date = 1512.2.13
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2044
+	add_treasury = -6
+	add_prestige = 85
+}

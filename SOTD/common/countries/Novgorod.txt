@@ -1,0 +1,231 @@
+# Novgorod
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 107 164 64 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	religious_ideas
+	administrative_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Eskild" "Sanal'ka" "Shukshtoroyka" "Sochava" "Pekshayka" "Vechkas" "Malyaka" "Asrava" "Siyamka" "Paksyay" 
+	"Gerðr" "Kubrat" "Unzhutka" "Maer" "Karin" "Ruslan" "Sigurðr" "Arni" "Shoksha" "Azyren" 
+	"Erziya" "Svanhildr" "Mel'shay" "Velmayka" "Toyaksha" "Vergava" "Yaropolk" "Tutyra" "Kunava" "Paksyut" 
+	"Varmanpaz" "Tyueykezhut" "Nulzyava" "Naruchad" "Andyamo" "Helgi" "Iliana" "Viacheslav" "Sverker" "Vladimir" 
+	"Hysing" "Yelisey" "Liyava" "Alexandra" "Aleta" "Feodora" "Anlaufr" "Jedvard" "Zabava" "Skuld" 
+	"Yeremey" "Astrid" "Ottarr" "Syryava" "Rögnvaldr" "Malfrida" "Chenksa" "Dan" "Sumarliði" "Olota" 
+	"Nuyanza" "Chinzhay" "Atyamas" "Hafrid" "Totil" "Tikshayka" "Nyal'ka" "Linda" "Uchva" "Ruzava" 
+	"Åke" "Noroava" "Meltsayka" "Alfrið" "Putyayka" "Pivtsay" "Moksha" "Varaka" "Kezhevat" "Kolbjörn" 
+	"Holmfrid" "Malyy" "Puresh" "Bersi" "Chipaz" "Guðrun" "Chindyayka" "Tylze" "Suoma" "Chechama" 
+	"Kettilmund" "Ravzhava" "Sinyava" "Tyushten" "Kanyava" "Orunza" "Tyushtya" "Hjalmar" "Alexandr" "Sigrid" 
+	"Alvör" "Elisabet" "Rodislav" "Milic" "Þordr" "Gunnhildr" "Elin" "Svatopluk" "Afanasiy" "Alexei" 
+	"Andrei" "Boris" "Briachislav" "Daniil" "Davyd" "Demid" "Dmitriy" "Dobrynia" "Fedot" "Feodor" 
+	"Gavriil" "Gleb" "Grigoriy" "Iakov" "Igor" "Iliya" "Ingvar" "Ivan" "Iziaslav" "Kirill" 
+	"Konstantin" "Koz'ma" "Lev" "Matfei" "Mikhail" "Mitrofan" "Mstislav" "Nikita" "Oleg" "Pavel" 
+	"Putiata" "Radoslav" "Rogvolod" "Roman" "Rostislav" "Stanislav" "Stepan" "Sudislav" "Svetozar" "Sviatopolk" 
+	"Sviatoslav" "Terentiy" "Trifon" "Vasiliy" "Vasilko" "Vladislav" "Voislav" "Volodar" "Vseslav" "Vsevolod" 
+	"Vyshata" "Vysheslav" "Yaroslav" "Yefimiy" "Yemelyan" "Yevstafiy" "Yuriy" }
+monarch_names = {
+	"Eskild #0" = 1
+	"Sanal'ka #0" = -1
+	"Shukshtoroyka #0" = -1
+	"Sochava #0" = -1
+	"Pekshayka #0" = -1
+	"Vechkas #2" = 30
+	"Malyaka #0" = 1
+	"Asrava #0" = -1
+	"Siyamka #0" = -1
+	"Paksyay #0" = 1
+	"Gerðr #0" = -1
+	"Kubrat #0" = 1
+	"Unzhutka #0" = -1
+	"Maer #0" = -1
+	"Karin #0" = -1
+	"Ruslan #0" = 1
+	"Sigurðr #0" = 1
+	"Arni #0" = 1
+	"Shoksha #0" = 1
+	"Azyren #0" = 1
+	"Erziya #0" = 1
+	"Svanhildr #0" = -1
+	"Mel'shay #0" = -1
+	"Velmayka #0" = 1
+	"Toyaksha #0" = -1
+	"Vergava #0" = -1
+	"Yaropolk #0" = 1
+	"Tutyra #0" = 1
+	"Kunava #0" = -1
+	"Paksyut #1" = 18
+	"Varmanpaz #0" = 1
+	"Tyueykezhut #1" = 24
+	"Nulzyava #0" = -1
+	"Naruchad #0" = 1
+	"Andyamo #1" = 18
+	"Helgi #0" = 1
+	"Iliana #0" = -1
+	"Viacheslav #0" = 1
+	"Sverker #1" = 21
+	"Vladimir #1" = 18
+	"Hysing #0" = 1
+	"Yelisey #1" = 18
+	"Liyava #0" = -1
+	"Alexandra #0" = -1
+	"Aleta #0" = -1
+	"Feodora #0" = -1
+	"Anlaufr #1" = 18
+	"Jedvard #0" = 1
+	"Zabava #0" = -1
+	"Skuld #0" = -1
+	"Yeremey #0" = 1
+	"Astrid #0" = -1
+	"Ottarr #0" = 1
+	"Syryava #0" = -1
+	"Rögnvaldr #1" = 21
+	"Malfrida #0" = -1
+	"Chenksa #0" = -1
+	"Dan #0" = 1
+	"Sumarliði #0" = 1
+	"Olota #0" = -1
+	"Nuyanza #0" = 1
+	"Chinzhay #0" = -1
+	"Atyamas #0" = 1
+	"Hafrid #0" = -1
+	"Totil #0" = 1
+	"Tikshayka #0" = 1
+	"Nyal'ka #0" = -1
+	"Linda #0" = -1
+	"Uchva #0" = 1
+	"Ruzava #0" = -1
+	"Åke #0" = 1
+	"Noroava #0" = -1
+	"Meltsayka #0" = 1
+	"Alfrið #0" = -1
+	"Putyayka #0" = -1
+	"Pivtsay #0" = 1
+	"Moksha #0" = 1
+	"Varaka #0" = 1
+	"Kezhevat #0" = 1
+	"Kolbjörn #0" = 1
+	"Holmfrid #0" = -1
+	"Malyy #0" = 1
+	"Puresh #0" = 1
+	"Bersi #0" = 1
+	"Chipaz #0" = 1
+	"Guðrun #0" = -1
+	"Chindyayka #0" = -1
+	"Tylze #0" = 1
+	"Suoma #0" = -1
+	"Chechama #0" = -1
+	"Kettilmund #0" = 1
+	"Ravzhava #0" = -1
+	"Sinyava #0" = -1
+	"Tyushten #0" = 1
+	"Kanyava #0" = -1
+	"Orunza #0" = 1
+	"Tyushtya #0" = 1
+	"Hjalmar #0" = 1
+	"Alexandr #0" = 1
+	"Sigrid #0" = -1
+	"Alvör #0" = -1
+	"Elisabet #0" = -1
+	"Rodislav #1" = 0
+	"Milic #1" = 0
+	"Þordr #1" = 0
+	"Gunnhildr #1" = -1
+	"Elin #1" = -1
+	"Svatopluk #1" = 0
+	"Afanasiy #0" = 0
+	"Alexei #0" = 0
+	"Andrei #0" = 0
+	"Boris #0" = 0
+	"Briachislav #0" = 0
+	"Daniil #0" = 0
+	"Davyd #0" = 0
+	"Demid #0" = 0
+	"Dmitriy #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Feodor #0" = 0
+	"Gavriil #0" = 0
+	"Gleb #0" = 0
+	"Grigoriy #0" = 0
+	"Iakov #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Ingvar #0" = 0
+	"Ivan #0" = 0
+	"Iziaslav #0" = 0
+	"Kirill #0" = 0
+	"Konstantin #0" = 0
+	"Koz'ma #0" = 0
+	"Lev #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Mitrofan #0" = 0
+	"Mstislav #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Putiata #0" = 0
+	"Radoslav #0" = 0
+	"Rogvolod #0" = 0
+	"Roman #0" = 0
+	"Rostislav #0" = 0
+	"Stanislav #0" = 0
+	"Stepan #0" = 0
+	"Sudislav #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Vasiliy #0" = 0
+	"Vasilko #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Volodar #0" = 0
+	"Vseslav #0" = 0
+	"Vsevolod #0" = 0
+	"Vyshata #0" = 0
+	"Vysheslav #0" = 0
+	"Yaroslav #0" = 0
+	"Yefimiy #0" = 0
+	"Yemelyan #0" = 0
+	"Yevstafiy #0" = 0
+	"Yuriy #0" = 0
+}
+ship_names = {
+	"Staraya Russa" Ladoga Torzhok Oreshek
+	"Alexander Nevsky" Pestrovo Valdai Kholm
+	Borovichi Luga Msta "Ozero I'lmen" Lovat
+	Polist Redja Pola Visera Volchov Selon Polomet
+}
+

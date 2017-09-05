@@ -1,0 +1,25 @@
+# Lazuli
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 151
+1442.11.7 = {
+	monarch = {
+		name = "Athanasios"
+		birth_date = 1406.5.23
+		dynasty = "Lazuli"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 151
+	add_treasury = 59
+	add_prestige = 541
+}

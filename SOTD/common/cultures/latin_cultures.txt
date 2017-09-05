@@ -1,0 +1,10 @@
+latin = {
+	italian = {
+		primary = ITA
+		dynasty_names = { "Dandolo" "di Saluzzo" "de Busca" "Visconti" "Ordelaffo" "di Bergamo" "d'Asti" "Bonifazi" "Tusculani" "di Molise" "de Larsa" "Guideschi" "Ariosti" "Pepoli" "di Guidoti" "Boccadelli" "Botticelli" "Caccianemici" "di Cosseria" "di Montelongo" "Enganna" "Monticelli" "Pirovano" "di Stazone" "Hucbaldi" "di Ravenna" "Boyardee" "di Rapallo" "di Cremona" "di Acenzera" "di Bani Waled" "di M'Saken" "di Aargau" "di Sanluri" "di Portevecchio" "dalle Carceri" "di Nursia" "di Tusculum" "di Savigliano" "di Strongoli" "di Sanluri" "Supponidi" "di Gratteri" "di Siedlce" "di Ostroleka" "di Tursi" }
+	}
+	roman = {
+		primary = ITA
+		dynasty_names = { }
+	}
+}

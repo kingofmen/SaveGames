@@ -1,0 +1,25 @@
+# Gauda
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 563
+1440.8.5 = {
+	monarch = {
+		name = "Bhimsingha II"
+		birth_date = 1405.7.1
+		dynasty = "Pala"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 563
+	add_treasury = 9
+	add_prestige = 149
+}

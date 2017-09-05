@@ -1,0 +1,26 @@
+# Smáland
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 3
+1399.8.1 = {
+	monarch = {
+		name = "Hroðgar"
+		birth_date = 1368.1.1
+		dynasty = "Borg"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = navigator_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 3
+	add_treasury = 3
+	add_prestige = 506
+}

@@ -1,0 +1,37 @@
+# Nobatia
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1234
+1441.6.3 = {
+	monarch = {
+		name = "Marturophoros"
+		birth_date = 1406.5.7
+		dynasty = "Abri"
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1443.4.14 = {
+	heir = {
+		name = "Aarôn"
+		monarch_name = "Aarôn"
+		dynasty = "Abri"
+		birth_date = 1443.4.14
+		death_date = 1523.4.14
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1234
+	add_treasury = 14
+	add_prestige = 36
+}

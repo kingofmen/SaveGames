@@ -1,0 +1,33 @@
+# Berbera
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = sunni
+capital = 1234
+1441.6.23 = {
+	monarch = {
+		name = "Papasinen"
+		birth_date = 1433.5.14
+		dynasty = "Hedareb"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Zacharias"
+		monarch_name = "Zacharias"
+		dynasty = "Hedareb"
+		birth_date = 1401.6.8
+		death_date = 1481.6.8
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 1234
+	add_treasury = 16
+	add_prestige = 222
+}

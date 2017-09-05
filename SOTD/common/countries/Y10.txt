@@ -1,0 +1,126 @@
+# Abkhazia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 254 160 160 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Shorena" "Gubaz" "Gagiki" "Adarnase" "Aghsartan" "Aleksandre" "Andronik" "Anzori" "Archili" "Ashot" 
+	"Bagrat" "Bakur" "Davit" "Demetre" "Demna" "Djavakhi" "Erekle" "Gabrieli" "Giorgi" "Grigoli" 
+	"Guaram" "Gurgen" "Iese" "Ioane" "Ishkhanik" "Iveri" "Jarji" "Kaikhosro" "Kakhi" "Koba" 
+	"Konstantine" "Kvarkvare" "Kvirike" "Levan" "Luarsab" "Malkhazi" "Mamia" "Merab" "Mikheil" "Mukhran" 
+	"Nerse" "Nikoloz" "Okhropir" "Orbeli" "Padla" "Samoeli" "Shanshe" "Shota" "Simon" "Stepanoz" 
+	"Sumbat" "Teimuraz" "Tornike" "Ushisha" "Vache" "Vakhtang" "Zurab" "Zviad" }
+monarch_names = {
+	"Shorena #0" = -1
+	"Gubaz #0" = 1
+	"Gagiki #0" = 1
+	"Adarnase #0" = 0
+	"Aghsartan #0" = 0
+	"Aleksandre #0" = 0
+	"Andronik #0" = 0
+	"Anzori #0" = 0
+	"Archili #0" = 0
+	"Ashot #0" = 0
+	"Bagrat #0" = 0
+	"Bakur #0" = 0
+	"Davit #0" = 0
+	"Demetre #0" = 0
+	"Demna #0" = 0
+	"Djavakhi #0" = 0
+	"Erekle #0" = 0
+	"Gabrieli #0" = 0
+	"Giorgi #0" = 0
+	"Grigoli #0" = 0
+	"Guaram #0" = 0
+	"Gurgen #0" = 0
+	"Iese #0" = 0
+	"Ioane #0" = 0
+	"Ishkhanik #0" = 0
+	"Iveri #0" = 0
+	"Jarji #0" = 0
+	"Kaikhosro #0" = 0
+	"Kakhi #0" = 0
+	"Koba #0" = 0
+	"Konstantine #0" = 0
+	"Kvarkvare #0" = 0
+	"Kvirike #0" = 0
+	"Levan #0" = 0
+	"Luarsab #0" = 0
+	"Malkhazi #0" = 0
+	"Mamia #0" = 0
+	"Merab #0" = 0
+	"Mikheil #0" = 0
+	"Mukhran #0" = 0
+	"Nerse #0" = 0
+	"Nikoloz #0" = 0
+	"Okhropir #0" = 0
+	"Orbeli #0" = 0
+	"Padla #0" = 0
+	"Samoeli #0" = 0
+	"Shanshe #0" = 0
+	"Shota #0" = 0
+	"Simon #0" = 0
+	"Stepanoz #0" = 0
+	"Sumbat #0" = 0
+	"Teimuraz #0" = 0
+	"Tornike #0" = 0
+	"Ushisha #0" = 0
+	"Vache #0" = 0
+	"Vakhtang #0" = 0
+	"Zurab #0" = 0
+	"Zviad #0" = 0
+
+
+	"Ketevan #0" = -1
+	"Endzela #0" = -1
+	"Lamara #0" = -1
+	"Chiora #0" = -1
+}
+ship_names = {
+	Aragveti Anacopia Artaani Abkhazeti
+	Bichvinta Batomi
+	Dmanisi Demetre
+	Ereti
+	Geguti Gelati
+	Kutatsi Kharnabuji Kura
+	Lasharisjvari Lore
+	Mtkvari
+	Narikala
+	Ruisi Racha
+	Seti Svaneti
+	Tamar Tbilisi Telavi Tbilisi Tashiri
+	Urbnisi
+}
+

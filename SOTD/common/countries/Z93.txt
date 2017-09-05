@@ -1,0 +1,131 @@
+# Pereyaslavl
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 232 200 115 }
+
+
+
+
+leader_names = {
+
+	"Rogneda" "Volodar" "Yemelyan" "Mstislav" "Boris" "Stanislav" "Igor" "Velimir" "Svetoslav" "Yaropolk" 
+	"Gostomysl" "Yaroslava" "Zvonimir" "Sbyslava" "Dobronega" "Sviatoslava" "Prebrana" "Gavriil" "Anastasia" "Zvenislava" 
+	"Ruslan" "Yelizaveta" "Viacheslav" "Malfrida" "Ulyana" "Boleslava" "Nikita" "Irina" "Rogvolod" "Vsevolod" 
+	"Gleb" "Sudislav" "Premyslava" "Ulita" "Vasilisa" "Agafya" "Vseslav" "Vasilko" "Yeremey" "Pereyaslava" 
+	"Agrafena" "Dobroslava" "Fevronia" "Iliya" "Yefrosinia" "Olena" "Putiata" "Yelisey" "Praskovya" "Yekaterina" 
+	"Yaroslav" "Sviatoslav" "Briachislav" "Gremislava" "Gradislava" "Baldr" "Kardam" "Sarkhan" "Yani" "Arellan" 
+	"Vagn" "Sigurðr" "Dristar" "Elisabet" "Afanasiy" "Alexandr" "Alexei" "Andrei" "Daniil" "Davyd" 
+	"Demid" "Dmitriy" "Dobrynia" "Fedot" "Feodor" "Grigoriy" "Iakov" "Ingvar" "Ivan" "Iziaslav" 
+	"Kirill" "Konstantin" "Koz'ma" "Lev" "Matfei" "Mikhail" "Mitrofan" "Oleg" "Pavel" "Radoslav" 
+	"Rodislav" "Roman" "Rostislav" "Stepan" "Svetozar" "Sviatopolk" "Terentiy" "Trifon" "Vasiliy" "Vladimir" 
+	"Vladislav" "Voislav" "Vyshata" "Vysheslav" "Yefimiy" "Yevstafiy" "Yuriy" }
+monarch_names = {
+	"Rogneda #0" = -1
+	"Volodar #0" = 1
+	"Yemelyan #1" = 18
+	"Mstislav #0" = 1
+	"Boris #0" = 1
+	"Stanislav #0" = 1
+	"Igor #0" = 1
+	"Velimir #0" = 1
+	"Svetoslav #0" = 1
+	"Yaropolk #0" = 1
+	"Gostomysl #0" = 1
+	"Yaroslava #0" = -1
+	"Zvonimir #0" = 1
+	"Sbyslava #0" = -1
+	"Dobronega #0" = -1
+	"Sviatoslava #0" = -1
+	"Prebrana #0" = -1
+	"Gavriil #0" = 1
+	"Anastasia #0" = -1
+	"Zvenislava #0" = -1
+	"Ruslan #0" = 1
+	"Yelizaveta #0" = -1
+	"Viacheslav #0" = 1
+	"Malfrida #0" = -1
+	"Ulyana #0" = -1
+	"Boleslava #0" = -1
+	"Nikita #0" = 1
+	"Irina #0" = -1
+	"Rogvolod #0" = 1
+	"Vsevolod #0" = 1
+	"Gleb #0" = 1
+	"Sudislav #0" = 1
+	"Premyslava #0" = -1
+	"Ulita #0" = -1
+	"Vasilisa #0" = -1
+	"Agafya #0" = -1
+	"Vseslav #0" = 1
+	"Vasilko #0" = 1
+	"Yeremey #0" = 1
+	"Pereyaslava #0" = -1
+	"Agrafena #0" = -1
+	"Dobroslava #0" = -1
+	"Fevronia #0" = -1
+	"Iliya #0" = 1
+	"Yefrosinia #0" = -1
+	"Olena #0" = -1
+	"Putiata #0" = 1
+	"Yelisey #0" = 1
+	"Praskovya #0" = -1
+	"Yekaterina #0" = -1
+	"Yaroslav #0" = 1
+	"Sviatoslav #1" = 18
+	"Briachislav #0" = 1
+	"Gremislava #0" = -1
+	"Gradislava #0" = -1
+	"Baldr #1" = 0
+	"Kardam #1" = 0
+	"Sarkhan #1" = 0
+	"Yani #1" = 0
+	"Arellan #1" = 0
+	"Vagn #1" = 0
+	"Sigurðr #1" = 0
+	"Dristar #1" = 0
+	"Elisabet #1" = -1
+	"Afanasiy #0" = 0
+	"Alexandr #0" = 0
+	"Alexei #0" = 0
+	"Andrei #0" = 0
+	"Daniil #0" = 0
+	"Davyd #0" = 0
+	"Demid #0" = 0
+	"Dmitriy #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Feodor #0" = 0
+	"Grigoriy #0" = 0
+	"Iakov #0" = 0
+	"Ingvar #0" = 0
+	"Ivan #0" = 0
+	"Iziaslav #0" = 0
+	"Kirill #0" = 0
+	"Konstantin #0" = 0
+	"Koz'ma #0" = 0
+	"Lev #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Mitrofan #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Radoslav #0" = 0
+	"Rodislav #0" = 0
+	"Roman #0" = 0
+	"Rostislav #0" = 0
+	"Stepan #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Vasiliy #0" = 0
+	"Vladimir #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Vyshata #0" = 0
+	"Vysheslav #0" = 0
+	"Yefimiy #0" = 0
+	"Yevstafiy #0" = 0
+	"Yuriy #0" = 0
+}
+

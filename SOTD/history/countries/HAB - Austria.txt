@@ -1,0 +1,23 @@
+# Austria
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+capital = 133
+1433.11.20 = {
+	monarch = {
+		name = "Ruprecht"
+		birth_date = 1395.1.9
+		dynasty = "Wilhelmiden"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 133
+	add_treasury = 10
+	add_prestige = 122
+}

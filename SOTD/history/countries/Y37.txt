@@ -1,0 +1,25 @@
+# Kartli
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = armenian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 423
+1442.8.13 = {
+	monarch = {
+		name = "Mihrdat V"
+		birth_date = 1426.8.3
+		dynasty = "Keshishian"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 423
+	add_treasury = 23
+	add_prestige = 8
+}

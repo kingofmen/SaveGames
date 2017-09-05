@@ -1,0 +1,25 @@
+# Sarkel
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khazar
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2409
+1441.2.10 = {
+	monarch = {
+		name = "Vladimir II"
+		birth_date = 1427.6.3
+		dynasty = "Hrothgar"
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2409
+	add_treasury = 20
+	add_prestige = 401
+}

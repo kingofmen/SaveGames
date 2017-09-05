@@ -1,0 +1,173 @@
+# Ösel
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 101 48 48 }
+
+
+
+
+leader_names = {
+
+	"Hrafn" "Dag" "Ulfhildr" "Deryab" "Nuyanza" "Guðrun" "Magnus" "Skuld" "Kirdyava" "Alvör" 
+	"Arngrimr" "Totil" "Katarina" "Kettil" "Bersi" "Geirr" "Tryggve" "Karl" "Starkaðr" "Malmfrið" 
+	"Refr" "Ingfrid" "Knut" "Vigdis" "Holmger" "Barid" "Valdemar" "Rögnfrið" "Haukr" "Ingibjörg" 
+	"Gurli" "Gyða" "Sturla" "Asa" "Gloð" "Grimr" "Bragi" "Maer" "Gandalfr" "Ylva" 
+	"Purysho" "Gunnhildr" "Asta" "Frirek" "Elisabet" "Ivar" "Ingrid" "Halla" "Ale" "Alfr" 
+	"Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arni" "Arnfast" "Baldr" "Bengt" "Bertil" 
+	"Birger" "Björn" "Bo" "Borkvard" "Botulfr" "Buðli" "Dan" "Dyre" "Eilif" "Egill" 
+	"Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Froði" "Freyr" "Folki" 
+	"Georg" "Greger" "Guðfrið" "Guðmundr" "Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Helgi" 
+	"Hemming" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" "Ingólfr" 
+	"Ingemar" "Ingjald" "Jedvard" "Jon" "Kettilmund" "Kjartan" "Klas" "Kol" "Kolbjörn" "Markus" 
+	"Mats" "Nils" "Niklas" "Oddr" "Ofeig" "Olafr" "Ormr" "Ottarr" "Refil" "Ragnarr" 
+	"Rögnvaldr" "Skuli" "Snorri" "Sigtrygg" "Sigurðr" "Steinn" "Sumarliði" "Suni" "Sveinn" "Sverker" 
+	"Sæmundr" "Sölvi" "Þorbjörn" "Þorfinn" "Þorbrandr" "Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Ulfr" 
+	"Vagn" "Åke" "Yngvar" "Örvar" "Öysteinn" }
+monarch_names = {
+	"Hrafn #0" = 1
+	"Dag #0" = 1
+	"Ulfhildr #0" = -1
+	"Deryab #0" = 1
+	"Nuyanza #0" = -1
+	"Guðrun #0" = -1
+	"Magnus #0" = 1
+	"Skuld #0" = -1
+	"Kirdyava #0" = -1
+	"Alvör #0" = -1
+	"Arngrimr #0" = 1
+	"Totil #0" = 1
+	"Katarina #0" = -1
+	"Kettil #0" = 1
+	"Bersi #0" = 1
+	"Geirr #0" = 1
+	"Tryggve #0" = 1
+	"Karl #0" = 1
+	"Starkaðr #0" = 1
+	"Malmfrið #0" = -1
+	"Refr #0" = 1
+	"Ingfrid #0" = -1
+	"Knut #0" = 1
+	"Vigdis #0" = -1
+	"Holmger #0" = 1
+	"Barid #0" = 1
+	"Valdemar #0" = 1
+	"Rögnfrið #0" = -1
+	"Haukr #0" = 1
+	"Ingibjörg #0" = -1
+	"Gurli #0" = -1
+	"Gyða #0" = -1
+	"Sturla #0" = 1
+	"Asa #0" = -1
+	"Gloð #0" = -1
+	"Grimr #0" = 1
+	"Bragi #0" = 1
+	"Maer #0" = -1
+	"Gandalfr #0" = 1
+	"Ylva #0" = -1
+	"Purysho #0" = 1
+	"Gunnhildr #0" = -1
+	"Asta #0" = -1
+	"Frirek #0" = 1
+	"Elisabet #0" = -1
+	"Ivar #0" = 1
+	"Ingrid #0" = -1
+	"Halla #0" = -1
+	"Ale #0" = 0
+	"Alfr #0" = 0
+	"Alfgeir #0" = 0
+	"Anders #0" = 0
+	"Anlaufr #0" = 0
+	"Anundr #0" = 0
+	"Arnbjörn #0" = 0
+	"Arni #0" = 0
+	"Arnfast #0" = 0
+	"Baldr #0" = 0
+	"Bengt #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Bo #0" = 0
+	"Borkvard #0" = 0
+	"Botulfr #0" = 0
+	"Buðli #0" = 0
+	"Dan #0" = 0
+	"Dyre #0" = 0
+	"Eilif #0" = 0
+	"Egill #0" = 0
+	"Einarr #0" = 0
+	"Eirikr #0" = 0
+	"Eskild #0" = 0
+	"Falki #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Fredrik #0" = 0
+	"Froði #0" = 0
+	"Freyr #0" = 0
+	"Folki #0" = 0
+	"Georg #0" = 0
+	"Greger #0" = 0
+	"Guðfrið #0" = 0
+	"Guðmundr #0" = 0
+	"Guðröðr #0" = 0
+	"Gunnarr #0" = 0
+	"Hakon #0" = 0
+	"Halsten #0" = 0
+	"Haraldr #0" = 0
+	"Helgi #0" = 0
+	"Hemming #0" = 0
+	"Hrolfr #0" = 0
+	"Hrane #0" = 0
+	"Hæsteinn #0" = 0
+	"Hjalmar #0" = 0
+	"Hroðgar #0" = 0
+	"Hroðulfr #0" = 0
+	"Hrörekr #0" = 0
+	"Hysing #0" = 0
+	"Ingólfr #0" = 0
+	"Ingemar #0" = 0
+	"Ingjald #0" = 0
+	"Jedvard #0" = 0
+	"Jon #0" = 0
+	"Kettilmund #0" = 0
+	"Kjartan #0" = 0
+	"Klas #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Markus #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Oddr #0" = 0
+	"Ofeig #0" = 0
+	"Olafr #0" = 0
+	"Ormr #0" = 0
+	"Ottarr #0" = 0
+	"Refil #0" = 0
+	"Ragnarr #0" = 0
+	"Rögnvaldr #0" = 0
+	"Skuli #0" = 0
+	"Snorri #0" = 0
+	"Sigtrygg #0" = 0
+	"Sigurðr #0" = 0
+	"Steinn #0" = 0
+	"Sumarliði #0" = 0
+	"Suni #0" = 0
+	"Sveinn #0" = 0
+	"Sverker #0" = 0
+	"Sæmundr #0" = 0
+	"Sölvi #0" = 0
+	"Þorbjörn #0" = 0
+	"Þorfinn #0" = 0
+	"Þorbrandr #0" = 0
+	"Þordr #0" = 0
+	"Þorgil #0" = 0
+	"Þorsteinn #0" = 0
+	"Þorolfr #0" = 0
+	"Ulfr #0" = 0
+	"Vagn #0" = 0
+	"Åke #0" = 0
+	"Yngvar #0" = 0
+	"Örvar #0" = 0
+	"Öysteinn #0" = 0
+}
+

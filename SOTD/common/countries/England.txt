@@ -1,0 +1,397 @@
+# England
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 202 26 26 }
+historical_idea_groups = {
+	plutocracy_ideas
+	naval_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Emma" "Wilmot" "Urraca" "Matilda" "Alfonso" "Milia" "Hextilda" "Valdrade" "Gartzia" "Aines" 
+	"Fortun" "Gontzal" "Fronilda" "Nuño" "Christopher" "Donato" "Avelina" "Selova" "Mélisende" "Oveco" 
+	"Radulf" "Barbara" "Berengario" "Herleve" "Maria" "Berenguela" "Elysande" "Joscelin" "Sybille" "Estefanía" 
+	"Herman" "Agnes" "Constance" "Adelin" "Adalhard" "Eleanor" "Fruela" "Gundred" "Manrique" "Elisabeth" 
+	"Konstanze" "Umfreda" "Fernando" "Diaco" "Jeanne" "Elise" "Leopold" "Serril" "Diego" "Osbern" 
+	"Aldonza" "Lesceline" "Alfons" "Alison" "Radbot" "Gontroda" "Godfrey" "Sibyl" "Juan" "Munio" 
+	"Pelayo" "Marie" "Juana" "Herbert" "Yvon" "Eremberga" "Rodrigo" "William" "Berold" "Torf" 
+	"Norman" "Wulfstan" "Ranulf" "Ida" "Flandina" "Mayor" "Felipe" "Adele" "Hubert" "Goubert" 
+	"Alonso" "Fulk" "Alberada" "Inés" "Swithelm" "Sibylla" "Mauger" "Teresa" "Joana" "Isabel" 
+	"Enrique" "Eudes" "Estefania" "Æthelflæd" "Gohilde" "Beatriz" "Welf" "Eliza" "Lope" "Wulfgyth" 
+	"Kaspar" "Leonor" "Ælfthryth" "Alix" "Gómez" "Auctune" "Sergonis" "Rayner" "Richard" "Robert" 
+	"Inga" "Vilhjalmr" "Haraldr" "Þora" "Thomas" "Arnbjörn" "Sif" "Skuli" "Guðrun" "Frédéric" 
+	"Kolbjörn" "Asa" "Jon" "Gunnhildr" "Sigtrygg" "Pandoff" "Oriel" "Millicent" "Kraka" "Eustadiola" 
+	"Freyja" "Margareta" "Aurengarde" "Radolf" "Henry" "Dobromir" "Kenneth" "Nigel" "Rostislav" "James" 
+	"Blanche" "Eustache" "Anfroi" "Cathèrine" "Aveis" "Hermessent" "Simon" "Ermyntrude" "Mabel" "Giffard" 
+	"Lambert" "Hadwis" "Adelaide" "Frirek" "Sewal" "Fressenda" "Ragnarr" "Berengaria" "Géraud" "Dobronega" 
+	"Manrike" "Botolf" "Matheode" "Faramond" "Gaufrid" "Fressende" "Wærburg" "Yolanda" "Vseslava" "Felicia" 
+	"Adelard" "Amburga" "Serlo" "Ermengardis" "Anquetil" "Blayve" "Guilhem" "Svetozar" "Charles" "Gavriil" 
+	"Eadburg" "Aline" "Giselle" "Lev" "Ildebrando" "Gaillard" "Egelina" "Geva" "Blanka" "Sayer" 
+	"Odo" "Beorhtmær" "Constanza" "Gerard" "Éléonore" "Beuves" "Fafila" "Hugh" "Élodie" "Oria" 
+	"Rosalind" "Guiraud" "Oneka" "Belaskita" "Turquetil" "Muriella" "Frederik" "Julienne" "Clarimond" "Belasko" 
+	"Maior" "George" "Judit" "Bernard" "Alisce" "Arderico" "Heria" "Maysant" "Armand" "Oswyn" 
+	"Clemenza" "Aubrey" "Drogo" "Luis" "Mencía" "Bermudo" "Briachislav" "Mildrith" "Matthias" "Klara" 
+	"Stefen" "Olga" "Rodericho" "Fraunk" "Stephanie" "Sarrazine" "Silvester" "Lothaire" "Landolf" "Eldonza" 
+	"Argilo" "Konstantzia" "Eanfrith" "Benoîte" "Turold" "Gutierre" "Aldontza" "Pelaio" "Cundo" "Gudrun" 
+	"Ferant" "Theodora" "Ermengarde" "Aude" "Alvar" "Benedicta" "Gonzalo" "Máel-Dúin" "Abelard" "Adam" 
+	"Ademar" "Alexander" "Amaury" "Anselm" "Arnald" "Asclettin" "Baldwin" "Bertran" "Bohemond" "Clemence" 
+	"Errand" "Filbert" "Frery" "Geoffroy" "Gerald" "Gérard" "Geraud" "Gerbert" "Gervas" "Gilbert" 
+	"Guntard" "Guy" "Haimo" "Hamelin" "Humbert" "Humphrey" "Jordan" "Lancelin" "Orderic" "Osmond" 
+	"Oswulf" "Randolf" "Raymond" "Roger" "Rolland" "Roscelin" "Tancred" "Turstin" "Tybalt" "Walter" 
+	"Wymund" }
+monarch_names = {
+	"Emma #0" = -1
+	"Wilmot #0" = -1
+	"Urraca #0" = -1
+	"Matilda #0" = -1
+	"Alfonso #0" = 1
+	"Milia #0" = -1
+	"Hextilda #0" = -1
+	"Valdrade #0" = -1
+	"Gartzia #0" = 1
+	"Aines #0" = -1
+	"Fortun #0" = 1
+	"Gontzal #0" = 1
+	"Fronilda #0" = -1
+	"Nuño #0" = 1
+	"Christopher #0" = 1
+	"Donato #0" = 1
+	"Avelina #0" = -1
+	"Selova #0" = -1
+	"Mélisende #0" = -1
+	"Oveco #0" = 1
+	"Radulf #0" = 1
+	"Barbara #0" = -1
+	"Berengario #0" = 1
+	"Herleve #0" = -1
+	"Maria #0" = -1
+	"Berenguela #0" = -1
+	"Elysande #0" = -1
+	"Joscelin #0" = 1
+	"Sybille #0" = -1
+	"Estefanía #0" = -1
+	"Herman #0" = 1
+	"Agnes #0" = -1
+	"Constance #0" = -1
+	"Adelin #0" = -1
+	"Adalhard #0" = 1
+	"Eleanor #0" = -1
+	"Fruela #0" = 1
+	"Gundred #0" = -1
+	"Manrique #0" = 1
+	"Elisabeth #0" = -1
+	"Konstanze #0" = -1
+	"Umfreda #0" = -1
+	"Fernando #0" = 1
+	"Diaco #0" = 1
+	"Jeanne #0" = -1
+	"Elise #0" = -1
+	"Leopold #0" = 1
+	"Serril #0" = 1
+	"Diego #0" = 1
+	"Osbern #0" = 1
+	"Aldonza #0" = -1
+	"Lesceline #0" = -1
+	"Alfons #0" = 1
+	"Alison #0" = -1
+	"Radbot #0" = 1
+	"Gontroda #0" = -1
+	"Godfrey #0" = 1
+	"Sibyl #0" = -1
+	"Juan #0" = 1
+	"Munio #0" = 1
+	"Pelayo #0" = 1
+	"Marie #0" = -1
+	"Juana #0" = -1
+	"Herbert #0" = 1
+	"Yvon #0" = -1
+	"Eremberga #0" = -1
+	"Rodrigo #0" = 1
+	"William #2" = 33
+	"Berold #0" = 1
+	"Torf #2" = 21
+	"Norman #0" = 1
+	"Wulfstan #0" = 1
+	"Ranulf #0" = 1
+	"Ida #0" = -1
+	"Flandina #0" = -1
+	"Mayor #0" = -1
+	"Felipe #0" = 1
+	"Adele #0" = -1
+	"Hubert #0" = 1
+	"Goubert #0" = 1
+	"Alonso #0" = 1
+	"Fulk #0" = 1
+	"Alberada #0" = -1
+	"Inés #0" = -1
+	"Swithelm #0" = 1
+	"Sibylla #0" = -1
+	"Mauger #0" = 1
+	"Teresa #0" = -1
+	"Joana #0" = -1
+	"Isabel #0" = -1
+	"Enrique #0" = 1
+	"Eudes #0" = 1
+	"Estefania #0" = -1
+	"Æthelflæd #0" = -1
+	"Gohilde #0" = -1
+	"Beatriz #0" = -1
+	"Welf #0" = 1
+	"Eliza #0" = -1
+	"Lope #0" = 1
+	"Wulfgyth #0" = -1
+	"Kaspar #0" = 1
+	"Leonor #0" = -1
+	"Ælfthryth #0" = -1
+	"Alix #0" = -1
+	"Gómez #0" = 1
+	"Auctune #0" = 1
+	"Sergonis #0" = 1
+	"Rayner #0" = 1
+	"Richard #3" = 42
+	"Robert #0" = 1
+	"Inga #0" = -1
+	"Vilhjalmr #0" = 1
+	"Haraldr #0" = 1
+	"Þora #0" = -1
+	"Thomas #0" = 1
+	"Arnbjörn #0" = 1
+	"Sif #0" = -1
+	"Skuli #0" = 1
+	"Guðrun #0" = -1
+	"Frédéric #0" = 1
+	"Kolbjörn #0" = 1
+	"Asa #0" = -1
+	"Jon #0" = 1
+	"Gunnhildr #0" = -1
+	"Sigtrygg #0" = 1
+	"Pandoff #0" = 1
+	"Oriel #0" = -1
+	"Millicent #0" = -1
+	"Kraka #0" = -1
+	"Eustadiola #0" = -1
+	"Freyja #0" = -1
+	"Margareta #0" = -1
+	"Aurengarde #0" = -1
+	"Radolf #0" = 1
+	"Henry #1" = 30
+	"Dobromir #0" = 1
+	"Kenneth #0" = 1
+	"Nigel #0" = 1
+	"Rostislav #0" = 1
+	"James #1" = 21
+	"Blanche #0" = -1
+	"Eustache #0" = 1
+	"Anfroi #0" = 1
+	"Cathèrine #0" = -1
+	"Aveis #0" = -1
+	"Hermessent #0" = -1
+	"Simon #0" = 1
+	"Ermyntrude #0" = -1
+	"Mabel #0" = -1
+	"Giffard #0" = 1
+	"Lambert #0" = 1
+	"Hadwis #0" = -1
+	"Adelaide #0" = -1
+	"Frirek #0" = 1
+	"Sewal #0" = 1
+	"Fressenda #0" = -1
+	"Ragnarr #0" = 1
+	"Berengaria #0" = -1
+	"Géraud #0" = 1
+	"Dobronega #0" = -1
+	"Manrike #0" = 1
+	"Botolf #0" = 1
+	"Matheode #0" = -1
+	"Faramond #0" = 1
+	"Gaufrid #0" = 1
+	"Fressende #0" = -1
+	"Wærburg #0" = -1
+	"Yolanda #0" = -1
+	"Vseslava #0" = -1
+	"Felicia #0" = -1
+	"Adelard #0" = 1
+	"Amburga #0" = -1
+	"Serlo #0" = 1
+	"Ermengardis #0" = -1
+	"Anquetil #0" = 1
+	"Blayve #0" = 1
+	"Guilhem #0" = 1
+	"Svetozar #0" = 1
+	"Charles #1" = 18
+	"Gavriil #0" = 1
+	"Eadburg #0" = -1
+	"Aline #0" = -1
+	"Giselle #0" = -1
+	"Lev #0" = 1
+	"Ildebrando #0" = 1
+	"Gaillard #0" = 1
+	"Egelina #0" = -1
+	"Geva #0" = -1
+	"Blanka #0" = -1
+	"Sayer #0" = 1
+	"Odo #0" = 1
+	"Beorhtmær #0" = 1
+	"Constanza #0" = -1
+	"Gerard #0" = 1
+	"Éléonore #0" = -1
+	"Beuves #0" = 1
+	"Fafila #0" = 1
+	"Hugh #0" = 1
+	"Élodie #0" = -1
+	"Oria #0" = -1
+	"Rosalind #0" = -1
+	"Guiraud #0" = 1
+	"Oneka #0" = -1
+	"Belaskita #0" = -1
+	"Turquetil #0" = 1
+	"Muriella #0" = -1
+	"Frederik #0" = 1
+	"Julienne #0" = -1
+	"Clarimond #0" = -1
+	"Belasko #0" = 1
+	"Maior #0" = -1
+	"George #0" = 1
+	"Judit #0" = -1
+	"Bernard #0" = 1
+	"Alisce #0" = -1
+	"Arderico #0" = 1
+	"Heria #0" = -1
+	"Maysant #0" = -1
+	"Armand #0" = 1
+	"Oswyn #0" = 1
+	"Clemenza #0" = -1
+	"Aubrey #0" = -1
+	"Drogo #0" = 1
+	"Luis #0" = 1
+	"Mencía #0" = -1
+	"Bermudo #0" = 1
+	"Briachislav #0" = 1
+	"Mildrith #0" = -1
+	"Matthias #0" = 1
+	"Klara #0" = -1
+	"Stefen #0" = 1
+	"Olga #0" = -1
+	"Rodericho #0" = 1
+	"Fraunk #1" = 18
+	"Stephanie #0" = -1
+	"Sarrazine #0" = -1
+	"Silvester #0" = 1
+	"Lothaire #0" = 1
+	"Landolf #0" = 1
+	"Eldonza #0" = -1
+	"Argilo #0" = -1
+	"Konstantzia #0" = -1
+	"Eanfrith #0" = 1
+	"Benoîte #0" = -1
+	"Turold #0" = 1
+	"Gutierre #0" = 1
+	"Aldontza #0" = -1
+	"Pelaio #0" = 1
+	"Cundo #0" = -1
+	"Gudrun #0" = -1
+	"Ferant #0" = 1
+	"Theodora #0" = -1
+	"Ermengarde #0" = -1
+	"Aude #0" = -1
+	"Alvar #0" = 1
+	"Benedicta #0" = -1
+	"Gonzalo #0" = 1
+	"Máel-Dúin #1" = 0
+	"Abelard #0" = 0
+	"Adam #0" = 0
+	"Ademar #0" = 0
+	"Alexander #0" = 0
+	"Amaury #0" = 0
+	"Anselm #0" = 0
+	"Arnald #0" = 0
+	"Asclettin #0" = 0
+	"Baldwin #0" = 0
+	"Bertran #0" = 0
+	"Bohemond #0" = 0
+	"Clemence #0" = 0
+	"Errand #0" = 0
+	"Filbert #0" = 0
+	"Frery #0" = 0
+	"Geoffroy #0" = 0
+	"Gerald #0" = 0
+	"Gérard #0" = 0
+	"Geraud #0" = 0
+	"Gerbert #0" = 0
+	"Gervas #0" = 0
+	"Gilbert #0" = 0
+	"Guntard #0" = 0
+	"Guy #0" = 0
+	"Haimo #0" = 0
+	"Hamelin #0" = 0
+	"Humbert #0" = 0
+	"Humphrey #0" = 0
+	"Jordan #0" = 0
+	"Lancelin #0" = 0
+	"Orderic #0" = 0
+	"Osmond #0" = 0
+	"Oswulf #0" = 0
+	"Randolf #0" = 0
+	"Raymond #0" = 0
+	"Roger #0" = 0
+	"Rolland #0" = 0
+	"Roscelin #0" = 0
+	"Tancred #0" = 0
+	"Turstin #0" = 0
+	"Tybalt #0" = 0
+	"Walter #0" = 0
+	"Wymund #0" = 0
+}
+ship_names = {
+	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+	Bear Bellerophon Bonaventure Boyne Britannia Buckingham
+	Charles Christ Constant Convertine Culloden Cumberland
+	Defence Defiance Destiny Dragon Dreadnought
+	"Edward Howard" Elizabeth Eltham Essex Expedition
+	Foresight Foudroyant
+	"Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara" "Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey
+	Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+	James "John Baptist"
+	"Katherine Forteleza" Kent
+	Leander Leopard Lion
+	Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+	Nonpareil Nonsuch Northumberland Nottingham
+	Orion
+	Peter Providence "Prince Frederick"
+	"Queen Charlotte"
+	Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+	"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+	Theseus Tigre Tramontana Triumph
+	Unicorn Union
+	Vanguard Victory
+	Warspite Worcester
+}
+

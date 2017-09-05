@@ -1,0 +1,23 @@
+# Poland
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = catholic
+capital = 262
+1435.1.5 = {
+	monarch = {
+		name = "Karol"
+		birth_date = 1410.2.21
+		dynasty = "Hrothgar"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 262
+	add_treasury = 147
+	add_prestige = 360
+}

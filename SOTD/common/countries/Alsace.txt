@@ -1,0 +1,123 @@
+# Alsace
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 150 150 195 }
+
+
+
+
+leader_names = {
+
+	"Jagoda" "Ladislav" "Grigorii" "Jadviga" "Emilija" "Lovro" "Natalija" "Zlata" "Ioan" "Senulat" 
+	"Silimir" "Vojnomir" "Ljudevit" "Visedrag" "Vladin" "Ratimir" "Braslav" "Valerija" "Koloman" "Bartol" 
+	"Pribunja" "Helena" "Dragana" "Capeka" "Ekaterina" "Viola" "Jelena" "Teodor" "Vedrana" "Jitej" 
+	"Vjekoslava" "Tihana" "Marija" "Zvonimira" "Anna" "Katalin" "Marijana" "Hrvoje" "Cededa" "Dmitar" 
+	"Jadranka" "Nada" "Antonija" "Kera" "Suronja" "Dragan" "Eticho" "Adalbert" "Liutfried" "Alberich" 
+	"Adam" "Folkmar" "Reinhold" "Andrija" "Besar" "Bojan" "Boris" "Branimir" "Castimir" "Danail" 
+	"Dobromir" "Dragomir" "Drzislav" "Dujam" "Duym" "Filip" "Gaspar" "Gheorghe" "Hranislav" "Igor" 
+	"Ivan" "Ivanis" "Karlo" "Kresimir" "Ljutomisl" "Matej" "Mihajlo" "Milman" "Mislav" "Mutimir" 
+	"Nikolitza" "Ognjen" "Petar" "Prohor" "Radomir" "Sebeslav" "Seslav" "Slavich" "Stanislav" "Stjepan" 
+	"Sulvan" "Tomislav" "Tvrdoslav" "Tvrtko" "Ulfo" "Vid" "Vitomir" "Vlaicu" "Vukan" "Zvonimir" }
+monarch_names = {
+	"Jagoda #0" = -1
+	"Ladislav #0" = 1
+	"Grigorii #1" = 21
+	"Jadviga #0" = -1
+	"Emilija #0" = -1
+	"Lovro #0" = 1
+	"Natalija #0" = -1
+	"Zlata #0" = -1
+	"Ioan #1" = 21
+	"Senulat #0" = 1
+	"Silimir #0" = 1
+	"Vojnomir #0" = 1
+	"Ljudevit #0" = 1
+	"Visedrag #0" = 1
+	"Vladin #0" = 1
+	"Ratimir #0" = 1
+	"Braslav #0" = 1
+	"Valerija #0" = -1
+	"Koloman #0" = 1
+	"Bartol #1" = 24
+	"Pribunja #1" = 27
+	"Helena #0" = -1
+	"Dragana #0" = -1
+	"Capeka #0" = -1
+	"Ekaterina #0" = -1
+	"Viola #0" = -1
+	"Jelena #0" = -1
+	"Teodor #0" = 1
+	"Vedrana #0" = -1
+	"Jitej #0" = 1
+	"Vjekoslava #0" = -1
+	"Tihana #0" = -1
+	"Marija #0" = -1
+	"Zvonimira #0" = -1
+	"Anna #0" = -1
+	"Katalin #0" = -1
+	"Marijana #0" = -1
+	"Hrvoje #0" = 1
+	"Cededa #0" = -1
+	"Dmitar #0" = 1
+	"Jadranka #0" = -1
+	"Nada #0" = -1
+	"Antonija #0" = -1
+	"Kera #0" = -1
+	"Suronja #0" = -1
+	"Dragan #0" = 1
+	"Eticho #1" = 0
+	"Adalbert #1" = 0
+	"Liutfried #3" = 0
+	"Alberich #1" = 0
+	"Adam #1" = 0
+	"Folkmar #1" = 0
+	"Reinhold #1" = 0
+	"Andrija #0" = 0
+	"Besar #0" = 0
+	"Bojan #0" = 0
+	"Boris #0" = 0
+	"Branimir #0" = 0
+	"Castimir #0" = 0
+	"Danail #0" = 0
+	"Dobromir #0" = 0
+	"Dragomir #0" = 0
+	"Drzislav #0" = 0
+	"Dujam #0" = 0
+	"Duym #0" = 0
+	"Filip #0" = 0
+	"Gaspar #0" = 0
+	"Gheorghe #0" = 0
+	"Hranislav #0" = 0
+	"Igor #0" = 0
+	"Ivan #0" = 0
+	"Ivanis #0" = 0
+	"Karlo #0" = 0
+	"Kresimir #0" = 0
+	"Ljutomisl #0" = 0
+	"Matej #0" = 0
+	"Mihajlo #0" = 0
+	"Milman #0" = 0
+	"Mislav #0" = 0
+	"Mutimir #0" = 0
+	"Nikolitza #0" = 0
+	"Ognjen #0" = 0
+	"Petar #0" = 0
+	"Prohor #0" = 0
+	"Radomir #0" = 0
+	"Sebeslav #0" = 0
+	"Seslav #0" = 0
+	"Slavich #0" = 0
+	"Stanislav #0" = 0
+	"Stjepan #0" = 0
+	"Sulvan #0" = 0
+	"Tomislav #0" = 0
+	"Tvrdoslav #0" = 0
+	"Tvrtko #0" = 0
+	"Ulfo #0" = 0
+	"Vid #0" = 0
+	"Vitomir #0" = 0
+	"Vlaicu #0" = 0
+	"Vukan #0" = 0
+	"Zvonimir #0" = 0
+}
+

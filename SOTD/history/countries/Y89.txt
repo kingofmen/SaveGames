@@ -1,0 +1,25 @@
+# Chellaketana
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = jain
+clear_scripted_personalities = yes
+capital = 532
+1439.6.28 = {
+	monarch = {
+		name = "Sovideva II"
+		birth_date = 1409.5.16
+		dynasty = "Chellaketana"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 532
+	add_treasury = 28
+	add_prestige = 49
+}

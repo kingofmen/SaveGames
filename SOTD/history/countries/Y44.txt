@@ -1,0 +1,23 @@
+# Chera Nadu
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = ibadi
+capital = 533
+1430.9.17 = {
+	monarch = {
+		name = "Marios"
+		birth_date = 1402.10.22
+		dynasty = "Mariosid"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 533
+	add_treasury = 30
+	add_prestige = 102
+}

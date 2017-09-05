@@ -1,0 +1,26 @@
+# Gautam
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 510
+1426.2.13 = {
+	monarch = {
+		name = "Jaganpala"
+		birth_date = 1397.4.19
+		dynasty = "Gautam"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 510
+	add_treasury = -1
+	add_prestige = 134
+}

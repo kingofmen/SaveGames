@@ -1,0 +1,23 @@
+# Kanyakubja
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+capital = 524
+1440.2.26 = {
+	monarch = {
+		name = "Jaidas III"
+		birth_date = 1432.3.12
+		dynasty = "Chhinda"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 524
+	add_treasury = 27
+	add_prestige = 52
+}

@@ -1,0 +1,25 @@
+# Africa
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = catholic
+clear_scripted_personalities = yes
+capital = 341
+1443.6.19 = {
+	monarch = {
+		name = "Sinibaldo III"
+		birth_date = 1387.5.27
+		dynasty = "Boyardee"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 341
+	add_treasury = 135
+	add_prestige = 395
+}

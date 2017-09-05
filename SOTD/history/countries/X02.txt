@@ -1,0 +1,23 @@
+# Arorid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = jain
+capital = 505
+1439.11.23 = {
+	monarch = {
+		name = "Kelhana II"
+		birth_date = 1424.10.13
+		dynasty = "Arorid"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 505
+	add_treasury = 27
+	add_prestige = 27
+}

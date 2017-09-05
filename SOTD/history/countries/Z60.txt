@@ -1,0 +1,25 @@
+# Finnmark
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 21
+1443.4.1 = {
+	monarch = {
+		name = "Felipe II"
+		birth_date = 1409.5.4
+		dynasty = "de la Cerda"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 21
+	add_treasury = 12
+	add_prestige = 29
+}

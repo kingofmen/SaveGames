@@ -1,0 +1,23 @@
+# Rangrajid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = jain
+capital = 2058
+1441.8.8 = {
+	monarch = {
+		name = "Ratan-Singh II"
+		birth_date = 1424.11.14
+		dynasty = "Rangrajid"
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+}
+1444.11.11 = {
+	capital = 2058
+	add_treasury = 23
+	add_prestige = 14
+}

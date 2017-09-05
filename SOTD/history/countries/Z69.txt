@@ -1,0 +1,27 @@
+# Dioclea
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = croatian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 136
+1399.1.12 = {
+	monarch = {
+		name = "Ayten"
+		birth_date = 1384.8.24
+		dynasty = "Borghest"
+		female = yes
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 136
+	add_treasury = 23
+	add_prestige = 511
+}

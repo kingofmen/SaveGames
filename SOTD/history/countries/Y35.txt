@@ -1,0 +1,23 @@
+# Aghbania
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = georgian
+religion = sunni
+capital = 423
+1442.12.25 = {
+	monarch = {
+		name = "Melek"
+		birth_date = 1441.2.22
+		dynasty = "Shnorhali"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 423
+	add_treasury = 18
+	add_prestige = 11
+}

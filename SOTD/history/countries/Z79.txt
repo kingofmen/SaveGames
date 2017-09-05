@@ -1,0 +1,25 @@
+# Kurland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = latvian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 38
+1431.9.23 = {
+	monarch = {
+		name = "Visheiv II"
+		birth_date = 1393.6.17
+		dynasty = "von Memel"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 38
+	add_treasury = 16
+	add_prestige = 113
+}

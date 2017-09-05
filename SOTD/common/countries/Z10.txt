@@ -1,0 +1,227 @@
+# Norðrríki
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 255 125 69 }
+
+
+
+
+leader_names = {
+
+	"Styrbjörn" "Öysteinn" "Iliana" "Rikissa" "Anlaufr" "Olafr" "Alfhildr" "Knut" "Malmfrid" "Inga" 
+	"Ulfr" "Sturla" "Hrane" "Hafrid" "Astrid" "Saga" "Tolir" "Sven" "Valdemar" "Borkvard" 
+	"Torkel" "Halla" "Tryggve" "Linda" "Toke" "Sigbjörn" "Hrörekr" "Alfhild" "Rögnfrið" "Ingjald" 
+	"Sveinn" "Asa" "Oddr" "Þordr" "Sumarliði" "Ulvhilde" "Rikulfr" "Ingvar" "Þorolfr" "Torgil" 
+	"Sverker" "Refr" "Jedvard" "Harald" "Baldr" "Gyla" "Ingemar" "Ragnarr" "Kraka" "Lázár" 
+	"Beata" "Dan" "Tyke" "Þyra" "Skuli" "Hemming" "Elisabet" "Kjartan" "Ulfhildr" "Sigtrygg" 
+	"Anundr" "Þordis" "Arni" "Gurli" "Sigrid" "Þora" "Ormr" "Guðrun" "Ragnfrid" "Þorfinn" 
+	"Bagge" "Gorm" "Yrsa" "Ingibjörg" "Hrolfr" "Alfrið" "Ragnhild" "Bersi" "Rögnhildr" "Freyr" 
+	"Gunnhildr" "Rögnvaldr" "Ingólfr" "Ale" "Guðfrið" "Grima" "Gloð" "Erling" "Folki" "Gandalfr" 
+	"Refil" "Åsta" "Asta" "Alvör" "Arne" "Snøfrid" "Gunnarr" "Eldrid" "Malmfrið" "Ingfrid" 
+	"Holmfrid" "Sif" "Aleta" "Hrafn" "Vigdis" "Björn" "Eilif" "Sämund" "Geirr" "Snorri" 
+	"Rolf" "Elin" "Holmger" "Ingjerd" "Falki" "Asbjörn" "Hæsteinn" "Arnfinn" "Ofeig" "Karl" 
+	"Þorbjörn" "Dag" "Grim" "Ingegerd" "Buðli" "Alfr" "Alfgeir" "Anders" "Arnbjörn" "Arngrimr" 
+	"Arnfast" "Barid" "Bengt" "Bertil" "Birger" "Bo" "Botulfr" "Bragi" "Dyre" "Egill" 
+	"Emund" "Einarr" "Eirikr" "Eskild" "Faste" "Filip" "Fredrik" "Frirek" "Froði" "Georg" 
+	"Gnupa" "Greger" "Grimr" "Guðmundr" "Guðröðr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" 
+	"Hjalmar" "Hroðgar" "Hroðulfr" "Hysing" "Ivar" "Jon" "Kettil" "Kettilmund" "Klas" "Kol" 
+	"Kolbjörn" "Markus" "Mats" "Nils" "Niklas" "Ottarr" "Sigurðr" "Starkaðr" "Steinn" "Styrkar" 
+	"Suni" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Þorbrandr" "Þorgil" "Þorsteinn" "Toste" "Totil" 
+	"Vagn" "Åke" "Yngvar" "Örvar" }
+monarch_names = {
+	"Styrbjörn #0" = 1
+	"Öysteinn #0" = 1
+	"Iliana #0" = -1
+	"Rikissa #0" = -1
+	"Anlaufr #1" = 24
+	"Olafr #0" = 1
+	"Alfhildr #0" = -1
+	"Knut #0" = 1
+	"Malmfrid #0" = -1
+	"Inga #0" = -1
+	"Ulfr #0" = 1
+	"Sturla #0" = 1
+	"Hrane #0" = 1
+	"Hafrid #0" = -1
+	"Astrid #0" = -1
+	"Saga #0" = -1
+	"Tolir #0" = 1
+	"Sven #0" = 1
+	"Valdemar #0" = 1
+	"Borkvard #0" = 1
+	"Torkel #0" = 1
+	"Halla #0" = -1
+	"Tryggve #0" = 1
+	"Linda #0" = -1
+	"Toke #0" = 1
+	"Sigbjörn #0" = 1
+	"Hrörekr #0" = 1
+	"Alfhild #0" = -1
+	"Rögnfrið #0" = -1
+	"Ingjald #0" = 1
+	"Sveinn #0" = 1
+	"Asa #0" = -1
+	"Oddr #0" = 1
+	"Þordr #0" = 1
+	"Sumarliði #0" = 1
+	"Ulvhilde #0" = -1
+	"Rikulfr #0" = 1
+	"Ingvar #0" = 1
+	"Þorolfr #1" = 18
+	"Torgil #0" = 1
+	"Sverker #0" = 1
+	"Refr #0" = 1
+	"Jedvard #0" = 1
+	"Harald #0" = 1
+	"Baldr #0" = 1
+	"Gyla #0" = -1
+	"Ingemar #0" = 1
+	"Ragnarr #0" = 1
+	"Kraka #0" = -1
+	"Lázár #0" = 1
+	"Beata #0" = -1
+	"Dan #0" = 1
+	"Tyke #0" = 1
+	"Þyra #0" = -1
+	"Skuli #0" = 1
+	"Hemming #0" = 1
+	"Elisabet #0" = -1
+	"Kjartan #0" = 1
+	"Ulfhildr #0" = -1
+	"Sigtrygg #0" = 1
+	"Anundr #0" = 1
+	"Þordis #0" = -1
+	"Arni #0" = 1
+	"Gurli #0" = -1
+	"Sigrid #0" = -1
+	"Þora #0" = -1
+	"Ormr #0" = 1
+	"Guðrun #0" = -1
+	"Ragnfrid #0" = -1
+	"Þorfinn #0" = 1
+	"Bagge #0" = 1
+	"Gorm #0" = 1
+	"Yrsa #0" = -1
+	"Ingibjörg #0" = -1
+	"Hrolfr #0" = 1
+	"Alfrið #0" = -1
+	"Ragnhild #0" = -1
+	"Bersi #0" = 1
+	"Rögnhildr #0" = -1
+	"Freyr #0" = 1
+	"Gunnhildr #0" = -1
+	"Rögnvaldr #0" = 1
+	"Ingólfr #0" = 1
+	"Ale #0" = 1
+	"Guðfrið #0" = 1
+	"Grima #0" = -1
+	"Gloð #0" = -1
+	"Erling #0" = 1
+	"Folki #0" = 1
+	"Gandalfr #0" = 1
+	"Refil #0" = 1
+	"Åsta #0" = -1
+	"Asta #0" = -1
+	"Alvör #0" = -1
+	"Arne #0" = 1
+	"Snøfrid #0" = -1
+	"Gunnarr #0" = 1
+	"Eldrid #0" = -1
+	"Malmfrið #0" = -1
+	"Ingfrid #0" = -1
+	"Holmfrid #0" = -1
+	"Sif #0" = -1
+	"Aleta #0" = -1
+	"Hrafn #0" = 1
+	"Vigdis #0" = -1
+	"Björn #0" = 1
+	"Eilif #0" = 1
+	"Sämund #0" = 1
+	"Geirr #0" = 1
+	"Snorri #1" = 18
+	"Rolf #0" = 1
+	"Elin #0" = -1
+	"Holmger #0" = 1
+	"Ingjerd #0" = -1
+	"Falki #0" = 1
+	"Asbjörn #0" = 1
+	"Hæsteinn #0" = 1
+	"Arnfinn #0" = 1
+	"Ofeig #0" = 1
+	"Karl #0" = 1
+	"Þorbjörn #0" = 1
+	"Dag #0" = 1
+	"Grim #0" = 1
+	"Ingegerd #0" = -1
+	"Buðli #0" = 1
+	"Alfr #0" = 0
+	"Alfgeir #0" = 0
+	"Anders #0" = 0
+	"Arnbjörn #0" = 0
+	"Arngrimr #0" = 0
+	"Arnfast #0" = 0
+	"Barid #0" = 0
+	"Bengt #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Bo #0" = 0
+	"Botulfr #0" = 0
+	"Bragi #0" = 0
+	"Dyre #0" = 0
+	"Egill #0" = 0
+	"Emund #0" = 0
+	"Einarr #0" = 0
+	"Eirikr #0" = 0
+	"Eskild #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Fredrik #0" = 0
+	"Frirek #0" = 0
+	"Froði #0" = 0
+	"Georg #0" = 0
+	"Gnupa #0" = 0
+	"Greger #0" = 0
+	"Grimr #0" = 0
+	"Guðmundr #0" = 0
+	"Guðröðr #0" = 0
+	"Hakon #0" = 0
+	"Halsten #0" = 0
+	"Haraldr #0" = 0
+	"Haukr #0" = 0
+	"Helgi #0" = 0
+	"Hjalmar #0" = 0
+	"Hroðgar #0" = 0
+	"Hroðulfr #0" = 0
+	"Hysing #0" = 0
+	"Ivar #0" = 0
+	"Jon #0" = 0
+	"Kettil #0" = 0
+	"Kettilmund #0" = 0
+	"Klas #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Markus #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Ottarr #0" = 0
+	"Sigurðr #0" = 0
+	"Starkaðr #0" = 0
+	"Steinn #0" = 0
+	"Styrkar #0" = 0
+	"Suni #0" = 0
+	"Sæmundr #0" = 0
+	"Sölvi #0" = 0
+	"Sörkver #0" = 0
+	"Tjudmund #0" = 0
+	"Þorbrandr #0" = 0
+	"Þorgil #0" = 0
+	"Þorsteinn #0" = 0
+	"Toste #0" = 0
+	"Totil #0" = 0
+	"Vagn #0" = 0
+	"Åke #0" = 0
+	"Yngvar #0" = 0
+	"Örvar #0" = 0
+}
+

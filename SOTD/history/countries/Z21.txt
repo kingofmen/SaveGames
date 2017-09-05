@@ -1,0 +1,26 @@
+# Saarland
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = finnish
+religion = messalian
+clear_scripted_personalities = yes
+capital = 27
+1422.10.3 = {
+	monarch = {
+		name = "Mielitty"
+		birth_date = 1399.7.23
+		dynasty = "Saar"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 27
+	add_treasury = 19
+	add_prestige = 207
+}

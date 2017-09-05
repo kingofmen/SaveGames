@@ -1,0 +1,25 @@
+# Ungvar
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = avar
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1953
+1437.4.26 = {
+	monarch = {
+		name = "Bavor"
+		birth_date = 1405.9.15
+		dynasty = "Jankovský z Vlašimi"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1953
+	add_treasury = 4
+	add_prestige = 67
+}

@@ -1,0 +1,35 @@
+# Jülich
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = visigothic
+religion = catholic
+capital = 1878
+1437.4.22 = {
+	monarch = {
+		name = "Petro"
+		birth_date = 1420.4.17
+		dynasty = "Íñiga"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+1441.4.18 = {
+	heir = {
+		name = "Assur"
+		monarch_name = "Assur"
+		dynasty = "Íñiga"
+		birth_date = 1441.4.18
+		death_date = 1521.4.18
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1878
+	add_treasury = 27
+	add_prestige = 34
+}

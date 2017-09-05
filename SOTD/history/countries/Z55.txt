@@ -1,0 +1,33 @@
+# Rus
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = czech
+religion = catholic
+capital = 295
+1433.2.28 = {
+	monarch = {
+		name = "Svatopluk III"
+		birth_date = 1406.8.17
+		dynasty = "Murayev"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Rajmund"
+		monarch_name = "Rajmund"
+		dynasty = "Murayev"
+		birth_date = 1426.12.27
+		death_date = 1506.12.27
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 295
+	add_treasury = 20
+	add_prestige = 216
+}

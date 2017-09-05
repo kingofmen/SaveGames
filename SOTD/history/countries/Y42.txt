@@ -1,0 +1,34 @@
+# Arabia
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = sunni
+clear_scripted_personalities = yes
+1418.6.27 = {
+	monarch = {
+		name = "Theodoulos"
+		birth_date = 1395.4.22
+		dynasty = "Makrembolites"
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Lazaros"
+		monarch_name = "Lazaros"
+		dynasty = "Makrembolites"
+		birth_date = 1417.8.12
+		death_date = 1497.8.12
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	add_treasury = 5
+	add_prestige = 393
+}

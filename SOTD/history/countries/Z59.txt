@@ -1,0 +1,25 @@
+# Ostlandet
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4144
+1439.9.9 = {
+	monarch = {
+		name = "Ramiro"
+		birth_date = 1416.3.28
+		dynasty = "de Borgona"
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 4144
+	add_treasury = 16
+	add_prestige = 105
+}

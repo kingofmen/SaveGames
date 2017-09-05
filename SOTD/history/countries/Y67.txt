@@ -1,0 +1,37 @@
+# Ziyadid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1211
+1435.5.7 = {
+	monarch = {
+		name = "Muzaffaraddin II"
+		birth_date = 1420.8.26
+		dynasty = "Ziyadid"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = industrious_personality
+}
+1437.11.6 = {
+	heir = {
+		name = "Abdullah"
+		monarch_name = "Abdullah"
+		dynasty = "Ziyadid"
+		birth_date = 1437.11.6
+		death_date = 1517.11.6
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1211
+	add_treasury = 7
+	add_prestige = 110
+}

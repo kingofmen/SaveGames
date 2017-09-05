@@ -1,0 +1,122 @@
+# Modena
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 225 180 180 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	naval_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Aloisia" "Ambrosia" "Alessandro" "Costante" "Stefano" "Tomasina" "Letizia" "Francesca" "Valentino" "Aldrich" 
+	"Ferdinando" "Tommaso" "Frida" "Flavia" "Ausonia" "Luigi" "Louis" "Lothaire" "Hardouin" "Ancel" 
+	"Rinaldo" "Riccardo" "Landolfo" "Giuseppe" "Orlando" "Doménico" "Sinibaldo" "Adelfonso" "Agila" "Airmanagildo" 
+	"Alaricho" "Aloito" "Assur" "Athanagildo" "Berengario" "Diaco" "Fafila" "Friedenando" "Friednand" "Froila" 
+	"Garçi" "Gonçalo" "Gundemar" "Guttier" "Johan" "Liuva" "Liuvericho" "Lupo" "Mauregato" "Monnio" 
+	"Nunno" "Oliba" "Ordonno" "Pelagio" "Petro" "Ranimiro" "Rekkaredo" "Rodericho" "Sans" "Silo" 
+	"Suneario" "Suniefredo" "Theodoricho" "Veremondo" "Wifredo" "Wimarano" "Witiza" }
+monarch_names = {
+	"Aloisia #0" = -1
+	"Ambrosia #0" = -1
+	"Alessandro #0" = 1
+	"Costante #0" = 1
+	"Stefano #0" = 1
+	"Tomasina #0" = -1
+	"Letizia #1" = -19
+	"Francesca #0" = -1
+	"Valentino #1" = 21
+	"Aldrich #0" = 1
+	"Ferdinando #2" = 21
+	"Tommaso #0" = 1
+	"Frida #0" = -1
+	"Flavia #0" = -1
+	"Ausonia #0" = -1
+	"Luigi #0" = 1
+	"Louis #1" = 0
+	"Lothaire #1" = 0
+	"Hardouin #1" = 0
+	"Ancel #1" = 0
+	"Rinaldo #1" = 0
+	"Riccardo #3" = 0
+	"Landolfo #2" = 0
+	"Giuseppe #1" = 0
+	"Orlando #1" = 0
+	"Doménico #1" = 0
+	"Sinibaldo #1" = 0
+	"Adelfonso #0" = 0
+	"Agila #0" = 0
+	"Airmanagildo #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Assur #0" = 0
+	"Athanagildo #0" = 0
+	"Berengario #0" = 0
+	"Diaco #0" = 0
+	"Fafila #0" = 0
+	"Friedenando #0" = 0
+	"Friednand #0" = 0
+	"Froila #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Gundemar #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Lupo #0" = 0
+	"Mauregato #0" = 0
+	"Monnio #0" = 0
+	"Nunno #0" = 0
+	"Oliba #0" = 0
+	"Ordonno #0" = 0
+	"Pelagio #0" = 0
+	"Petro #0" = 0
+	"Ranimiro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Suniefredo #0" = 0
+	"Theodoricho #0" = 0
+	"Veremondo #0" = 0
+	"Wifredo #0" = 0
+	"Wimarano #0" = 0
+	"Witiza #0" = 0
+}
+ship_names = {
+	Medea Vulcano Gloria Minerva Laatea
+	Diligenza Vittoria Eolo Concordia Forza 
+	Fama Sirena Falcon Ercole Idra "San Andrea"
+	"San Zaccaria" "San Spiridon" "San Gaetano"
+	"Fortuna Guerriera" Terror Aquileta Constanza
+	"Regina del Mar" "San Nicolo" Nettuno Rosa
+	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
+	"Amazzone Guerriera"
+}
+

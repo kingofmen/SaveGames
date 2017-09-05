@@ -1,0 +1,26 @@
+# Ferrara
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = frankish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1865
+1400.9.16 = {
+	monarch = {
+		name = "Abbondanzio II"
+		birth_date = 1394.3.13
+		dynasty = "Ariosti"
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1865
+	add_treasury = 12
+	add_prestige = 98
+}

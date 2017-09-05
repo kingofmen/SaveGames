@@ -1,0 +1,23 @@
+# Ancyra
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 323
+1442.2.16 = {
+	monarch = {
+		name = "Pantoleon"
+		birth_date = 1431.4.25
+		dynasty = "Maniakis"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 323
+	add_treasury = 7
+	add_prestige = 8
+}

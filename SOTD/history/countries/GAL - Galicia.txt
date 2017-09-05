@@ -1,0 +1,39 @@
+# Galicia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = normand
+religion = catholic
+clear_scripted_personalities = yes
+capital = 206
+1392.9.7 = {
+	monarch = {
+		name = "Herman"
+		birth_date = 1390.9.3
+		dynasty = "von Britannia"
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
+}
+1420.10.9 = {
+	heir = {
+		name = "Radulf"
+		monarch_name = "Radulf II"
+		dynasty = "von Britannia"
+		birth_date = 1420.10.9
+		death_date = 1500.10.9
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 206
+	add_treasury = 7
+	add_prestige = 442
+}

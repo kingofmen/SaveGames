@@ -1,0 +1,23 @@
+# Yufirid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+capital = 390
+1441.7.18 = {
+	monarch = {
+		name = "Mirza"
+		birth_date = 1438.4.13
+		dynasty = "Yufirid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 390
+	add_treasury = 55
+	add_prestige = 46
+}

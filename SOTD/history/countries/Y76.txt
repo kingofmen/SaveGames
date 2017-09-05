@@ -1,0 +1,24 @@
+# Turkestan
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = czech
+religion = norse_pagan_reformed
+capital = 2352
+1441.1.7 = {
+	monarch = {
+		name = "Jitka"
+		birth_date = 1437.7.11
+		dynasty = "Dulo"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2352
+	add_treasury = 87
+	add_prestige = 182
+}

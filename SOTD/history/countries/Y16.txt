@@ -1,0 +1,25 @@
+# Khayyam
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = sunni
+clear_scripted_personalities = yes
+capital = 713
+1399.7.12 = {
+	monarch = {
+		name = "Ahmad"
+		birth_date = 1370.11.19
+		dynasty = "Khayyam"
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 713
+	add_treasury = 4
+	add_prestige = 249
+}

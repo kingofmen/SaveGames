@@ -1,0 +1,106 @@
+# Oultrejourdain
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 190 190 180 }
+
+
+
+
+leader_names = {
+
+	"Tirsakouni" "Kurillos" "Mêlênkouda" "Ali" "Suleyman" "Abdul-Azeem" "Yahya" "Tiberios" "Diônisios" "Philotheos" 
+	"Menankouda" "Mašanñal" "Makarios" "Merkourios" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" 
+	"Abdul" "Abdullah" "Aghlab" "Akin" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" 
+	"Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" 
+	"Is'mail" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" 
+	"Mirza" "Mubarak" "Muhammad" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" 
+	"Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" 
+	"Sulayman" "Talib" "Ubayd" "Uways" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+monarch_names = {
+	"Tirsakouni #1" = 18
+	"Kurillos #0" = 1
+	"Mêlênkouda #0" = 1
+	"Ali #1" = 0
+	"Suleyman #1" = 0
+	"Abdul-Azeem #1" = 0
+	"Yahya #1" = 0
+	"Tiberios #1" = 0
+	"Diônisios #1" = 0
+	"Philotheos #1" = 0
+	"Menankouda #1" = 0
+	"Mašanñal #1" = 0
+	"Makarios #1" = 0
+	"Merkourios #1" = 0
+	"Abu-Bakr #0" = 0
+	"Aarif #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Abdul-Wahab #0" = 0
+	"Abdul #0" = 0
+	"Abdullah #0" = 0
+	"Aghlab #0" = 0
+	"Akin #0" = 0
+	"Alim #0" = 0
+	"Aram #0" = 0
+	"Azam #0" = 0
+	"Bahir #0" = 0
+	"Burhanaddin #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Faruk #0" = 0
+	"Ghalib #0" = 0
+	"Hafiz #0" = 0
+	"Halil #0" = 0
+	"Hasan #0" = 0
+	"Husam #0" = 0
+	"Hussayn #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Is'mail #0" = 0
+	"Isa #0" = 0
+	"Jabir #0" = 0
+	"Jalil #0" = 0
+	"Jibril #0" = 0
+	"Khaireddin #0" = 0
+	"Khalil #0" = 0
+	"Mahdi #0" = 0
+	"Mahmud #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mubarak #0" = 0
+	"Muhammad #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Najib #0" = 0
+	"Nasr #0" = 0
+	"Nizam #0" = 0
+	"Qawurd #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sadiq #0" = 0
+	"Sami #0" = 0
+	"Samir #0" = 0
+	"Shaiban #0" = 0
+	"Shamir #0" = 0
+	"Shujah #0" = 0
+	"Sulayman #0" = 0
+	"Talib #0" = 0
+	"Ubayd #0" = 0
+	"Uways #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+	"Zeyd #0" = 0
+
+
+	"Sophia #0" = -1
+	"Ñoltou #0" = -1
+	"Ñssitkitol #0" = -1
+	"Kurake #0" = -1
+	"Eionmnne #0" = -1
+}
+

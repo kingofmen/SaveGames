@@ -1,0 +1,169 @@
+# Aksonqorid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 131 84 50 }
+
+
+
+
+leader_names = {
+
+	"Osman" "Yeldem" "Kutalmis" "Hizir" "Terkhen" "Zehra" "Azize" "Neslihan" "Çilen" "Selçuk" 
+	"Korkut" "Ridvan" "Ilkay" "Kaikaus" "Akgul" "Aksonqor" "Gunduz" "Irge" "Sevindik" "Fatma" 
+	"Mutlu" "Dundar" "Ertekin" "Yaman" "Tugrul" "Ilgazi" "Cuneyd" "Aydogdu" "Ayla" "Demir" 
+	"Songul" "Gulay" "Gundes" "Toktamis" "Sönmez" "Hayat" "Yunus" "Ceylan" "Rustem" "Nur" 
+	"Ramazan" "Burak" "Mansure" "Kemal" "Özlem" "Dogan" "Bozçin" "Söbuk" "Suru" "Kostas" 
+	"Tyrach" "Bayça" "Sirçan" "Koza" "Eldeçyuk" "Borç" "Aydogan" "Çagri" "Çaka" "Afsin" 
+	"Ahmet" "Alaeddin" "Alkan" "Alp Arslan" "Alp Yurek" "Alptigin" "Artuk" "Ayaz" "Aydin" "Aytekin" 
+	"Böru" "Bulend" "Bahadir" "Balaban" "Basbuga" "Batuhan" "Baturay" "Baybars" "Bayezid" "Baytas" 
+	"Belek" "Berkan" "Berkiyaruk" "Bozan" "Bugra" "Danismend" "Davud" "Dogukan" "Dukak" "Erdem" 
+	"Ertan" "Ertugrul" "Ibrahim" "Inal" "Iskender" "Kurboga" "Kaikhusraw" "Kaiqobad" "Kara" "Karatay" 
+	"Kasim" "Kaya" "Kaytun" "Kiliç" "Kutay" "Kutlug" "Mursel" "Mehmed" "Meliksah" "Mengucek" 
+	"Mesud" "Murad" "Mustafa" "Orhan" "Porsuk" "Sökmen" "Suleyman" "Saim" "Saltuk" "Saruca" 
+	"Savtekin" "Savur" "Sehinsah" "Selim" "Sencer" "Sinan" "Tanrivermis" "Tekin" "Timurtas" "Togay" 
+	"Togtekin" "Tolun" "Toruntay" "Tunga" "Turgut" "Turhan" "Tutus" "Uluç" "Umur" "Yakut" 
+	"Yinal" }
+monarch_names = {
+	"Osman #0" = 1
+	"Yeldem #0" = -1
+	"Kutalmis #0" = 1
+	"Hizir #0" = 1
+	"Terkhen #0" = -1
+	"Zehra #0" = -1
+	"Azize #0" = -1
+	"Neslihan #0" = -1
+	"Çilen #0" = -1
+	"Selçuk #0" = 1
+	"Korkut #0" = 1
+	"Ridvan #0" = 1
+	"Ilkay #0" = -1
+	"Kaikaus #0" = 1
+	"Akgul #0" = -1
+	"Aksonqor #1" = 21
+	"Gunduz #0" = -1
+	"Irge #0" = -1
+	"Sevindik #0" = -1
+	"Fatma #1" = -19
+	"Mutlu #0" = -1
+	"Dundar #0" = 1
+	"Ertekin #0" = 1
+	"Yaman #0" = 1
+	"Tugrul #0" = 1
+	"Ilgazi #0" = 1
+	"Cuneyd #1" = 18
+	"Aydogdu #0" = 1
+	"Ayla #0" = -1
+	"Demir #1" = 18
+	"Songul #0" = -1
+	"Gulay #0" = -1
+	"Gundes #0" = -1
+	"Toktamis #0" = 1
+	"Sönmez #0" = 1
+	"Hayat #0" = -1
+	"Yunus #0" = 1
+	"Ceylan #0" = -1
+	"Rustem #0" = 1
+	"Nur #0" = -1
+	"Ramazan #0" = 1
+	"Burak #0" = 1
+	"Mansure #0" = -1
+	"Kemal #0" = 1
+	"Özlem #0" = -1
+	"Dogan #0" = 1
+	"Bozçin #0" = -1
+	"Söbuk #1" = 18
+	"Suru #1" = 0
+	"Kostas #1" = 0
+	"Tyrach #1" = 0
+	"Bayça #1" = 0
+	"Sirçan #1" = 0
+	"Koza #1" = 0
+	"Eldeçyuk #1" = 0
+	"Borç #1" = 0
+	"Aydogan #1" = 0
+	"Çagri #0" = 0
+	"Çaka #0" = 0
+	"Afsin #0" = 0
+	"Ahmet #0" = 0
+	"Alaeddin #0" = 0
+	"Alkan #0" = 0
+	"Alp Arslan #0" = 0
+	"Alp Yurek #0" = 0
+	"Alptigin #0" = 0
+	"Artuk #0" = 0
+	"Ayaz #0" = 0
+	"Aydin #0" = 0
+	"Aytekin #0" = 0
+	"Böru #0" = 0
+	"Bulend #0" = 0
+	"Bahadir #0" = 0
+	"Balaban #0" = 0
+	"Basbuga #0" = 0
+	"Batuhan #0" = 0
+	"Baturay #0" = 0
+	"Baybars #0" = 0
+	"Bayezid #0" = 0
+	"Baytas #0" = 0
+	"Belek #0" = 0
+	"Berkan #0" = 0
+	"Berkiyaruk #0" = 0
+	"Bozan #0" = 0
+	"Bugra #0" = 0
+	"Danismend #0" = 0
+	"Davud #0" = 0
+	"Dogukan #0" = 0
+	"Dukak #0" = 0
+	"Erdem #0" = 0
+	"Ertan #0" = 0
+	"Ertugrul #0" = 0
+	"Ibrahim #0" = 0
+	"Inal #0" = 0
+	"Iskender #0" = 0
+	"Kurboga #0" = 0
+	"Kaikhusraw #0" = 0
+	"Kaiqobad #0" = 0
+	"Kara #0" = 0
+	"Karatay #0" = 0
+	"Kasim #0" = 0
+	"Kaya #0" = 0
+	"Kaytun #0" = 0
+	"Kiliç #0" = 0
+	"Kutay #0" = 0
+	"Kutlug #0" = 0
+	"Mursel #0" = 0
+	"Mehmed #0" = 0
+	"Meliksah #0" = 0
+	"Mengucek #0" = 0
+	"Mesud #0" = 0
+	"Murad #0" = 0
+	"Mustafa #0" = 0
+	"Orhan #0" = 0
+	"Porsuk #0" = 0
+	"Sökmen #0" = 0
+	"Suleyman #0" = 0
+	"Saim #0" = 0
+	"Saltuk #0" = 0
+	"Saruca #0" = 0
+	"Savtekin #0" = 0
+	"Savur #0" = 0
+	"Sehinsah #0" = 0
+	"Selim #0" = 0
+	"Sencer #0" = 0
+	"Sinan #0" = 0
+	"Tanrivermis #0" = 0
+	"Tekin #0" = 0
+	"Timurtas #0" = 0
+	"Togay #0" = 0
+	"Togtekin #0" = 0
+	"Tolun #0" = 0
+	"Toruntay #0" = 0
+	"Tunga #0" = 0
+	"Turgut #0" = 0
+	"Turhan #0" = 0
+	"Tutus #0" = 0
+	"Uluç #0" = 0
+	"Umur #0" = 0
+	"Yakut #0" = 0
+	"Yinal #0" = 0
+}
+

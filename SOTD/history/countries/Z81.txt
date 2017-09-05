@@ -1,0 +1,39 @@
+# Ösel
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = norse
+religion = catholic
+clear_scripted_personalities = yes
+capital = 35
+1410.2.19 = {
+	monarch = {
+		name = "Arngrimr"
+		birth_date = 1402.4.19
+		dynasty = "Spaki"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = navigator_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1433.5.26 = {
+	heir = {
+		name = "Hrafn"
+		monarch_name = "Hrafn"
+		dynasty = "Spaki"
+		birth_date = 1433.5.26
+		death_date = 1513.5.26
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 35
+	add_treasury = 76
+	add_prestige = 147
+}

@@ -1,0 +1,36 @@
+# Makuria
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1228
+1442.2.20 = {
+	monarch = {
+		name = "Philotheos"
+		birth_date = 1415.5.15
+		dynasty = "Hedareb"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Gabrielophorou"
+		monarch_name = "Gabrielophorou"
+		dynasty = "Hedareb"
+		birth_date = 1421.7.15
+		death_date = 1501.7.15
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1228
+	add_treasury = 33
+	add_prestige = 225
+}

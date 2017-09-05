@@ -1,0 +1,25 @@
+# Karvuna
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 149
+1435.5.15 = {
+	monarch = {
+		name = "Kaleid"
+		birth_date = 1427.3.15
+		dynasty = "Lazuli"
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 149
+	add_treasury = 13
+	add_prestige = 522
+}

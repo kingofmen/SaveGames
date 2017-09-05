@@ -1,0 +1,26 @@
+# Kabylia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = catholic
+clear_scripted_personalities = yes
+capital = 339
+1428.4.18 = {
+	monarch = {
+		name = "Ambrosia"
+		birth_date = 1409.11.3
+		dynasty = "Boyardee"
+		female = yes
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 339
+	add_treasury = 12
+	add_prestige = 313
+}

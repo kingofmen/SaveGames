@@ -1,0 +1,25 @@
+# Paramara
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 526
+1436.9.12 = {
+	monarch = {
+		name = "Vairsingh"
+		birth_date = 1407.4.6
+		dynasty = "Paramara"
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 526
+	add_treasury = 9
+	add_prestige = 144
+}

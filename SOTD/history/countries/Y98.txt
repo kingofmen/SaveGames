@@ -1,0 +1,35 @@
+# Rajputana
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = jain
+clear_scripted_personalities = yes
+capital = 519
+1442.12.3 = {
+	monarch = {
+		name = "Arnoraja"
+		birth_date = 1421.9.9
+		dynasty = "Pratihara"
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Samar-Singh"
+		monarch_name = "Samar-Singh III"
+		dynasty = "Pratihara"
+		birth_date = 1437.4.17
+		death_date = 1517.4.17
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 519
+	add_treasury = 2
+	add_prestige = 410
+}

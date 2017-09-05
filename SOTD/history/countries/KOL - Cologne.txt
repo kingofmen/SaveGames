@@ -1,0 +1,26 @@
+# Cologne
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 85
+1402.8.7 = {
+	monarch = {
+		name = "Gartzia"
+		birth_date = 1395.11.17
+		dynasty = "von Britannia"
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 85
+	add_treasury = 37
+	add_prestige = 434
+}

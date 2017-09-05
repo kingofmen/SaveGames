@@ -1,0 +1,266 @@
+# Bergslagen
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 60 60 200 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	trade_ideas
+	aristocracy_ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Styrbjörn" "Öysteinn" "Iliana" "Rikissa" "Anlaufr" "Olafr" "Alfhildr" "Knut" "Malmfrid" "Inga" 
+	"Ulfr" "Sturla" "Hrane" "Hafrid" "Astrid" "Saga" "Tolir" "Sven" "Valdemar" "Borkvard" 
+	"Torkel" "Halla" "Tryggve" "Linda" "Toke" "Sigbjörn" "Hrörekr" "Alfhild" "Rögnfrið" "Ingjald" 
+	"Sveinn" "Asa" "Oddr" "Þordr" "Sumarliði" "Ulvhilde" "Rikulfr" "Ingvar" "Þorolfr" "Torgil" 
+	"Sverker" "Refr" "Jedvard" "Harald" "Baldr" "Gyla" "Ingemar" "Ragnarr" "Kraka" "Lázár" 
+	"Beata" "Dan" "Tyke" "Þyra" "Skuli" "Hemming" "Elisabet" "Kjartan" "Ulfhildr" "Sigtrygg" 
+	"Anundr" "Þordis" "Arni" "Gurli" "Sigrid" "Þora" "Ormr" "Guðrun" "Ragnfrid" "Þorfinn" 
+	"Bagge" "Gorm" "Yrsa" "Ingibjörg" "Hrolfr" "Alfrið" "Ragnhild" "Bersi" "Rögnhildr" "Freyr" 
+	"Gunnhildr" "Rögnvaldr" "Ingólfr" "Ale" "Guðfrið" "Grima" "Gloð" "Erling" "Folki" "Gandalfr" 
+	"Refil" "Åsta" "Asta" "Alvör" "Arne" "Snøfrid" "Gunnarr" "Eldrid" "Malmfrið" "Ingfrid" 
+	"Holmfrid" "Sif" "Aleta" "Hrafn" "Vigdis" "Björn" "Eilif" "Sämund" "Geirr" "Snorri" 
+	"Rolf" "Elin" "Holmger" "Ingjerd" "Falki" "Asbjörn" "Hæsteinn" "Arnfinn" "Ofeig" "Karl" 
+	"Þorbjörn" "Dag" "Grim" "Ingegerd" "Buðli" "Ivar" "Sæmundr" "Bo" "Alfr" "Alfgeir" 
+	"Anders" "Arnbjörn" "Arngrimr" "Arnfast" "Barid" "Bengt" "Bertil" "Birger" "Botulfr" "Bragi" 
+	"Dyre" "Egill" "Emund" "Einarr" "Eirikr" "Eskild" "Faste" "Filip" "Fredrik" "Frirek" 
+	"Froði" "Georg" "Gnupa" "Greger" "Grimr" "Guðmundr" "Guðröðr" "Hakon" "Halsten" "Haraldr" 
+	"Haukr" "Helgi" "Hjalmar" "Hroðgar" "Hroðulfr" "Hysing" "Jon" "Kettil" "Kettilmund" "Klas" 
+	"Kol" "Kolbjörn" "Markus" "Mats" "Nils" "Niklas" "Ottarr" "Sigurðr" "Starkaðr" "Steinn" 
+	"Styrkar" "Suni" "Sölvi" "Sörkver" "Tjudmund" "Þorbrandr" "Þorgil" "Þorsteinn" "Toste" "Totil" 
+	"Vagn" "Åke" "Yngvar" "Örvar" }
+monarch_names = {
+	"Styrbjörn #0" = 1
+	"Öysteinn #0" = 1
+	"Iliana #0" = -1
+	"Rikissa #0" = -1
+	"Anlaufr #0" = 1
+	"Olafr #0" = 1
+	"Alfhildr #0" = -1
+	"Knut #0" = 1
+	"Malmfrid #0" = -1
+	"Inga #0" = -1
+	"Ulfr #0" = 1
+	"Sturla #0" = 1
+	"Hrane #0" = 1
+	"Hafrid #0" = -1
+	"Astrid #0" = -1
+	"Saga #0" = -1
+	"Tolir #1" = 18
+	"Sven #0" = 1
+	"Valdemar #0" = 1
+	"Borkvard #0" = 1
+	"Torkel #0" = 1
+	"Halla #0" = -1
+	"Tryggve #0" = 1
+	"Linda #0" = -1
+	"Toke #0" = 1
+	"Sigbjörn #0" = 1
+	"Hrörekr #0" = 1
+	"Alfhild #0" = -1
+	"Rögnfrið #0" = -1
+	"Ingjald #0" = 1
+	"Sveinn #0" = 1
+	"Asa #0" = -1
+	"Oddr #0" = 1
+	"Þordr #0" = 1
+	"Sumarliði #0" = 1
+	"Ulvhilde #0" = -1
+	"Rikulfr #0" = 1
+	"Ingvar #0" = 1
+	"Þorolfr #2" = 18
+	"Torgil #0" = 1
+	"Sverker #2" = 18
+	"Refr #0" = 1
+	"Jedvard #0" = 1
+	"Harald #0" = 1
+	"Baldr #0" = 1
+	"Gyla #0" = -1
+	"Ingemar #0" = 1
+	"Ragnarr #0" = 1
+	"Kraka #0" = -1
+	"Lázár #0" = 1
+	"Beata #0" = -1
+	"Dan #0" = 1
+	"Tyke #1" = 24
+	"Þyra #0" = -1
+	"Skuli #0" = 1
+	"Hemming #0" = 1
+	"Elisabet #0" = -1
+	"Kjartan #0" = 1
+	"Ulfhildr #0" = -1
+	"Sigtrygg #0" = 1
+	"Anundr #0" = 1
+	"Þordis #0" = -1
+	"Arni #0" = 1
+	"Gurli #0" = -1
+	"Sigrid #0" = -1
+	"Þora #0" = -1
+	"Ormr #0" = 1
+	"Guðrun #0" = -1
+	"Ragnfrid #0" = -1
+	"Þorfinn #0" = 1
+	"Bagge #0" = 1
+	"Gorm #0" = 1
+	"Yrsa #0" = -1
+	"Ingibjörg #0" = -1
+	"Hrolfr #0" = 1
+	"Alfrið #0" = -1
+	"Ragnhild #0" = -1
+	"Bersi #0" = 1
+	"Rögnhildr #0" = -1
+	"Freyr #0" = 1
+	"Gunnhildr #0" = -1
+	"Rögnvaldr #0" = 1
+	"Ingólfr #0" = 1
+	"Ale #0" = 1
+	"Guðfrið #1" = 18
+	"Grima #0" = -1
+	"Gloð #0" = -1
+	"Erling #0" = 1
+	"Folki #0" = 1
+	"Gandalfr #0" = 1
+	"Refil #0" = 1
+	"Åsta #0" = -1
+	"Asta #0" = -1
+	"Alvör #0" = -1
+	"Arne #0" = 1
+	"Snøfrid #0" = -1
+	"Gunnarr #0" = 1
+	"Eldrid #0" = -1
+	"Malmfrið #0" = -1
+	"Ingfrid #0" = -1
+	"Holmfrid #0" = -1
+	"Sif #0" = -1
+	"Aleta #0" = -1
+	"Hrafn #0" = 1
+	"Vigdis #0" = -1
+	"Björn #1" = 18
+	"Eilif #0" = 1
+	"Sämund #0" = 1
+	"Geirr #0" = 1
+	"Snorri #0" = 1
+	"Rolf #0" = 1
+	"Elin #0" = -1
+	"Holmger #0" = 1
+	"Ingjerd #0" = -1
+	"Falki #0" = 1
+	"Asbjörn #0" = 1
+	"Hæsteinn #0" = 1
+	"Arnfinn #0" = 1
+	"Ofeig #0" = 1
+	"Karl #0" = 1
+	"Þorbjörn #0" = 1
+	"Dag #0" = 1
+	"Grim #0" = 1
+	"Ingegerd #0" = -1
+	"Buðli #0" = 1
+	"Ivar #2" = 0
+	"Sæmundr #1" = 0
+	"Bo #1" = 0
+	"Alfr #0" = 0
+	"Alfgeir #0" = 0
+	"Anders #0" = 0
+	"Arnbjörn #0" = 0
+	"Arngrimr #0" = 0
+	"Arnfast #0" = 0
+	"Barid #0" = 0
+	"Bengt #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Botulfr #0" = 0
+	"Bragi #0" = 0
+	"Dyre #0" = 0
+	"Egill #0" = 0
+	"Emund #0" = 0
+	"Einarr #0" = 0
+	"Eirikr #0" = 0
+	"Eskild #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Fredrik #0" = 0
+	"Frirek #0" = 0
+	"Froði #0" = 0
+	"Georg #0" = 0
+	"Gnupa #0" = 0
+	"Greger #0" = 0
+	"Grimr #0" = 0
+	"Guðmundr #0" = 0
+	"Guðröðr #0" = 0
+	"Hakon #0" = 0
+	"Halsten #0" = 0
+	"Haraldr #0" = 0
+	"Haukr #0" = 0
+	"Helgi #0" = 0
+	"Hjalmar #0" = 0
+	"Hroðgar #0" = 0
+	"Hroðulfr #0" = 0
+	"Hysing #0" = 0
+	"Jon #0" = 0
+	"Kettil #0" = 0
+	"Kettilmund #0" = 0
+	"Klas #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Markus #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Ottarr #0" = 0
+	"Sigurðr #0" = 0
+	"Starkaðr #0" = 0
+	"Steinn #0" = 0
+	"Styrkar #0" = 0
+	"Suni #0" = 0
+	"Sölvi #0" = 0
+	"Sörkver #0" = 0
+	"Tjudmund #0" = 0
+	"Þorbrandr #0" = 0
+	"Þorgil #0" = 0
+	"Þorsteinn #0" = 0
+	"Toste #0" = 0
+	"Totil #0" = 0
+	"Vagn #0" = 0
+	"Åke #0" = 0
+	"Yngvar #0" = 0
+	"Örvar #0" = 0
+}
+ship_names = {
+	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+	Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+	Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+	Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+	Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+	Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+	Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+	"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+	"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+	Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+	Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+}
+

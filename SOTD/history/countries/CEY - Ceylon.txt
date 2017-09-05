@@ -1,0 +1,35 @@
+# Lanka
+government = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = sinhala
+religion = sunni
+capital = 572
+1429.11.11 = {
+	monarch = {
+		name = "Parakramabahu"
+		birth_date = 1423.2.24
+		dynasty = "Hedareb"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1443.4.17 = {
+	heir = {
+		name = "Mena"
+		monarch_name = "Mena II"
+		dynasty = "Hedareb"
+		birth_date = 1443.4.17
+		death_date = 1523.4.17
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 572
+	add_treasury = 10
+	add_prestige = 379
+}

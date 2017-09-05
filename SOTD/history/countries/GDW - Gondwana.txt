@@ -1,0 +1,36 @@
+# Gondwana
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 550
+1442.8.18 = {
+	monarch = {
+		name = "Mahayak"
+		birth_date = 1394.1.2
+		dynasty = "Pratihara"
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Prithviraja"
+		monarch_name = "Prithviraja"
+		dynasty = "Pratihara"
+		birth_date = 1399.11.2
+		death_date = 1479.11.2
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 550
+	add_treasury = 150
+	add_prestige = 477
+}

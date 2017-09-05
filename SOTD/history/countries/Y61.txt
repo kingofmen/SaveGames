@@ -1,0 +1,35 @@
+# Asaru
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2215
+1422.8.11 = {
+	monarch = {
+		name = "Gaya II"
+		birth_date = 1381.8.12
+		dynasty = "Asaru"
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+	heir = {
+		name = "Khalid"
+		monarch_name = "Khalid"
+		dynasty = "Asaru"
+		birth_date = 1403.10.11
+		death_date = 1483.10.11
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2215
+	add_treasury = 34
+	add_prestige = 366
+}

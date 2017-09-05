@@ -1,0 +1,23 @@
+# Hamadan
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+capital = 2213
+1442.5.6 = {
+	monarch = {
+		name = "Kambiz"
+		birth_date = 1409.3.10
+		dynasty = "Tahirid"
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2213
+	add_treasury = 23
+	add_prestige = 102
+}

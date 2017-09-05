@@ -1,0 +1,160 @@
+# as-Sa'di
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 88 99 2 }
+
+
+
+
+leader_names = {
+
+	"Tajaddin" "Taweret" "Badiat" "Hoassi" "Zara" "Andali" "Majida" "Acenith" "Cena" "Milad" 
+	"Habil" "Agathon" "Ablarion" "Asanet" "Walid" "Asenath" "Rana" "Bishoi" "Jalaaladdin" "Gabri’el" 
+	"Mehtar" "Ahmad" "Nura" "Firuz" "Alia" "Ilyas" "Zaia" "Agathonikos" "Asim" "Asenet" 
+	"Musa" "Suhaila" "Athanasios" "Pamin" "Radiya" "Safiya" "Tawaret" "Latif" "Ali" "Muammar" 
+	"Hammud" "Abisalom" "Amunet" "Muzaffaraddin" "Salim" "Azenet" "Abu-Bakr" "Yahya" "Qadir" "Fatima" 
+	"Jawdat" "Hakam" "Abianos" "Halima" "Titi" "Amr" "Lot" "Abdul-Salaam" "Zahra" "Sacmis" 
+	"Mina" "Suhail" "Thuriya" "Samira" "Abdul-Haq" "Farhan" "Adnan" "Bashir" "Abderahman" "Murad" 
+	"Kemaladdin" "Ephannê" "Alam" "Majid" "Muhammad" "Dawlat" "Marios" "Aaron" "Jamila" "Arsenios" 
+	"Malik" "Abanoub" "Abdul-Aziz" "Abdul-Madjid" "Abdullah" "Abraam" "Agathos" "Akbar" "Androus" "Anthinos" 
+	"Ashraf" "Badr" "Biktor" "Binyamin" "Boutros" "Danyal" "Da’oud" "Georgios" "Ghiyasaddin" "Hanri" 
+	"Haroun" "Hisham" "Hussayn" "Ibrahim" "Is'mail" "Izzaddin" "Jerjer" "Khalil" "Krystafer" "Matta" 
+	"Mikail" "Mikhael" "Mukhtar" "Murshid" "Nabil" "Nasir" "Nassib" "Nuraddin" "Ra'uf" "Rafiq" 
+	"Ridwan" "Sabah" "Sha'ban" "Sharif" "Tadros" "Tayyib" "Touma" "Usama" "Yared" "Yassir" 
+	"Youkhanna" "Youssef" "Zakariyah" }
+monarch_names = {
+	"Tajaddin #0" = 1
+	"Taweret #0" = -1
+	"Badiat #0" = -1
+	"Hoassi #0" = 1
+	"Zara #0" = -1
+	"Andali #0" = -1
+	"Majida #0" = -1
+	"Acenith #0" = -1
+	"Cena #0" = -1
+	"Milad #1" = 18
+	"Habil #0" = 1
+	"Agathon #0" = 1
+	"Ablarion #0" = 1
+	"Asanet #0" = -1
+	"Walid #0" = 1
+	"Asenath #0" = -1
+	"Rana #0" = -1
+	"Bishoi #0" = 1
+	"Jalaaladdin #1" = 18
+	"Gabri’el #1" = 18
+	"Mehtar #0" = 1
+	"Ahmad #1" = 21
+	"Nura #0" = -1
+	"Firuz #1" = 18
+	"Alia #0" = -1
+	"Ilyas #0" = 1
+	"Zaia #1" = 36
+	"Agathonikos #0" = 1
+	"Asim #0" = 1
+	"Asenet #0" = -1
+	"Musa #0" = 1
+	"Suhaila #0" = -1
+	"Athanasios #0" = 1
+	"Pamin #0" = 1
+	"Radiya #0" = -1
+	"Safiya #0" = -1
+	"Tawaret #0" = -1
+	"Latif #0" = 1
+	"Ali #0" = 1
+	"Muammar #1" = 24
+	"Hammud #0" = 1
+	"Abisalom #1" = 21
+	"Amunet #0" = -1
+	"Muzaffaraddin #0" = 1
+	"Salim #0" = 1
+	"Azenet #0" = -1
+	"Abu-Bakr #0" = 1
+	"Yahya #0" = 1
+	"Qadir #0" = 1
+	"Fatima #0" = -1
+	"Jawdat #0" = 1
+	"Hakam #0" = 1
+	"Abianos #0" = 1
+	"Halima #0" = -1
+	"Titi #0" = -1
+	"Amr #0" = 1
+	"Lot #0" = 1
+	"Abdul-Salaam #0" = 1
+	"Zahra #0" = -1
+	"Sacmis #0" = -1
+	"Mina #0" = 1
+	"Suhail #0" = 1
+	"Thuriya #0" = -1
+	"Samira #0" = -1
+	"Abdul-Haq #0" = 1
+	"Farhan #0" = 1
+	"Adnan #0" = 1
+	"Bashir #0" = 1
+	"Abderahman #2" = 21
+	"Murad #0" = 1
+	"Kemaladdin #0" = 1
+	"Ephannê #0" = 1
+	"Alam #0" = 1
+	"Majid #0" = 1
+	"Muhammad #0" = 1
+	"Dawlat #1" = 18
+	"Marios #0" = 1
+	"Aaron #0" = 1
+	"Jamila #0" = -1
+	"Arsenios #0" = 1
+	"Malik #0" = 1
+	"Abanoub #0" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Madjid #0" = 0
+	"Abdullah #0" = 0
+	"Abraam #0" = 0
+	"Agathos #0" = 0
+	"Akbar #0" = 0
+	"Androus #0" = 0
+	"Anthinos #0" = 0
+	"Ashraf #0" = 0
+	"Badr #0" = 0
+	"Biktor #0" = 0
+	"Binyamin #0" = 0
+	"Boutros #0" = 0
+	"Danyal #0" = 0
+	"Da’oud #0" = 0
+	"Georgios #0" = 0
+	"Ghiyasaddin #0" = 0
+	"Hanri #0" = 0
+	"Haroun #0" = 0
+	"Hisham #0" = 0
+	"Hussayn #0" = 0
+	"Ibrahim #0" = 0
+	"Is'mail #0" = 0
+	"Izzaddin #0" = 0
+	"Jerjer #0" = 0
+	"Khalil #0" = 0
+	"Krystafer #0" = 0
+	"Matta #0" = 0
+	"Mikail #0" = 0
+	"Mikhael #0" = 0
+	"Mukhtar #0" = 0
+	"Murshid #0" = 0
+	"Nabil #0" = 0
+	"Nasir #0" = 0
+	"Nassib #0" = 0
+	"Nuraddin #0" = 0
+	"Ra'uf #0" = 0
+	"Rafiq #0" = 0
+	"Ridwan #0" = 0
+	"Sabah #0" = 0
+	"Sha'ban #0" = 0
+	"Sharif #0" = 0
+	"Tadros #0" = 0
+	"Tayyib #0" = 0
+	"Touma #0" = 0
+	"Usama #0" = 0
+	"Yared #0" = 0
+	"Yassir #0" = 0
+	"Youkhanna #0" = 0
+	"Youssef #0" = 0
+	"Zakariyah #0" = 0
+}
+

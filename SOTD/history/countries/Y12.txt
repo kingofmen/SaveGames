@@ -1,0 +1,23 @@
+# Merv
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+capital = 445
+1416.2.4 = {
+	monarch = {
+		name = "Assad"
+		birth_date = 1377.8.19
+		dynasty = "Afshin"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 445
+	add_treasury = 12
+	add_prestige = 501
+}

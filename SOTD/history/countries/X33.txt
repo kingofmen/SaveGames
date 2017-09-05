@@ -1,0 +1,25 @@
+# Ket
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = kirgiz
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2433
+1443.5.19 = {
+	monarch = {
+		name = "Sokal"
+		birth_date = 1416.6.7
+		dynasty = "Sokalid"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2433
+	add_treasury = 12
+	add_prestige = 4
+}

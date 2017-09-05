@@ -1,0 +1,25 @@
+# Samogitia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = lithuanian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 40
+1442.12.25 = {
+	monarch = {
+		name = "Barid"
+		birth_date = 1411.8.21
+		dynasty = "Stjarna"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 40
+	add_treasury = 2
+	add_prestige = 30
+}

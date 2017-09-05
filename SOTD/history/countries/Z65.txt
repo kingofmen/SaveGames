@@ -1,0 +1,26 @@
+# Brendesion
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = greek
+religion = bogomilist
+clear_scripted_personalities = yes
+capital = 122
+1419.6.21 = {
+	monarch = {
+		name = "Polykarpos"
+		birth_date = 1408.5.21
+		dynasty = "Nafpliotis"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 122
+	add_treasury = 16
+	add_prestige = 79
+}

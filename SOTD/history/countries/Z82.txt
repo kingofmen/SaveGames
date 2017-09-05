@@ -1,0 +1,35 @@
+# Bjarmia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 1955
+1436.5.8 = {
+	monarch = {
+		name = "Yapti"
+		birth_date = 1389.6.18
+		dynasty = "Hasabid"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Nyalku"
+		monarch_name = "Nyalku II"
+		dynasty = "Hasabid"
+		birth_date = 1417.3.15
+		death_date = 1497.3.15
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 1955
+	add_treasury = 26
+	add_prestige = 97
+}

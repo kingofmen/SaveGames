@@ -1,0 +1,36 @@
+# Mandapika
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = jain
+clear_scripted_personalities = yes
+capital = 526
+1433.11.3 = {
+	monarch = {
+		name = "Mahendrapala"
+		birth_date = 1405.5.1
+		dynasty = "Mahipatid"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Mahendrapala"
+		monarch_name = "Mahendrapala"
+		dynasty = "Mahipatid"
+		birth_date = 1428.12.11
+		death_date = 1508.12.11
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 526
+	add_treasury = 25
+	add_prestige = 17
+}

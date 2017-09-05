@@ -1,0 +1,203 @@
+# Bornholm
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 220 15 20 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Shindyay" "Ingemar" "Gudrun" "Toste" "Eskild" "Inga" "Hysing" "Ingegerd" "Thordis" "Kirsten" 
+	"Arni" "Alfr" "Arnbjörn" "Aslaug" "Alfgeir" "Alfrið" "Froði" "Sturla" "Elisabet" "Elin" 
+	"Arnfast" "Guðrun" "Ale" "Sveinn" "Hrolfr" "Öysteinn" "Freyr" "Aleta" "Kolbjörn" "Ottarr" 
+	"Sigbjörn" "Toke" "Falki" "Saga" "Baldr" "Kraka" "Ingjerðr" "Birgitta" "Bragi" "Geirr" 
+	"Sif" "Ylva" "Eirikr" "Paksyay" "Buðli" "Henrik" "Nuyanza" "Viryay" "Åke" "Murunza" 
+	"Martha" "Abel" "Anders" "Anund" "Asger" "Balder" "Benedikt" "Bjørn" "Bo" "Christoffer" 
+	"Edvard" "Einar" "Erik" "Ernst" "Esben" "Fredrik" "Frej" "Frode" "Glum" "Gnupa" 
+	"Gorm" "Gotfred" "Gregers" "Grim" "Gunnar" "Hårik" "Halfdan" "Halvor" "Harald" "Helge" 
+	"Hemming" "Hjalmar" "Holger" "Ingolf" "Jørgen" "Jørn" "Jakob" "Jens" "Johann" "Karl" 
+	"Knud" "Kristian" "Leif" "Lennart" "Ludvig" "Malthe" "Mads" "Mikkel" "Mogens" "Niels" 
+	"Odd" "Olav" "Oluf" "Peder" "Poul" "Pridbjørn" "Ragnar" "Ragnvald" "Rolf" "Rune" 
+	"Rørik" "Severin" "Sigfred" "Sigtryg" "Sigurd" "Sivard" "Steen" "Svend" "Sämund" "Thorolf" 
+	"Thorvald" "Torben" "Torbjørn" "Tord" "Torfinn" "Torgils" "Ture" "Ubbe" "Uffe" "Ulf" 
+	"Valdemar" "Valentin" "Vilfred" "Yngvar" }
+monarch_names = {
+	"Shindyay #0" = 1
+	"Ingemar #0" = 1
+	"Gudrun #0" = -1
+	"Toste #0" = 1
+	"Eskild #0" = 1
+	"Inga #0" = -1
+	"Hysing #0" = 1
+	"Ingegerd #0" = -1
+	"Thordis #0" = -1
+	"Kirsten #0" = -1
+	"Arni #0" = 1
+	"Alfr #0" = 1
+	"Arnbjörn #0" = 1
+	"Aslaug #0" = -1
+	"Alfgeir #0" = 1
+	"Alfrið #0" = -1
+	"Froði #0" = 1
+	"Sturla #0" = 1
+	"Elisabet #0" = -1
+	"Elin #0" = -1
+	"Arnfast #0" = 1
+	"Guðrun #0" = -1
+	"Ale #0" = 1
+	"Sveinn #0" = 1
+	"Hrolfr #0" = 1
+	"Öysteinn #0" = 1
+	"Freyr #0" = 1
+	"Aleta #0" = -1
+	"Kolbjörn #0" = 1
+	"Ottarr #0" = 1
+	"Sigbjörn #0" = 1
+	"Toke #0" = 1
+	"Falki #0" = 1
+	"Saga #0" = -1
+	"Baldr #0" = 1
+	"Kraka #0" = -1
+	"Ingjerðr #0" = -1
+	"Birgitta #0" = -1
+	"Bragi #0" = 1
+	"Geirr #0" = 1
+	"Sif #0" = -1
+	"Ylva #0" = -1
+	"Eirikr #0" = 1
+	"Paksyay #0" = 1
+	"Buðli #0" = 1
+	"Henrik #0" = 1
+	"Nuyanza #0" = 1
+	"Viryay #0" = 1
+	"Åke #0" = 1
+	"Murunza #0" = 1
+	"Martha #0" = -1
+	"Abel #0" = 0
+	"Anders #0" = 0
+	"Anund #0" = 0
+	"Asger #0" = 0
+	"Balder #0" = 0
+	"Benedikt #0" = 0
+	"Bjørn #0" = 0
+	"Bo #0" = 0
+	"Christoffer #0" = 0
+	"Edvard #0" = 0
+	"Einar #0" = 0
+	"Erik #0" = 0
+	"Ernst #0" = 0
+	"Esben #0" = 0
+	"Fredrik #0" = 0
+	"Frej #0" = 0
+	"Frode #0" = 0
+	"Glum #0" = 0
+	"Gnupa #0" = 0
+	"Gorm #0" = 0
+	"Gotfred #0" = 0
+	"Gregers #0" = 0
+	"Grim #0" = 0
+	"Gunnar #0" = 0
+	"Hårik #0" = 0
+	"Halfdan #0" = 0
+	"Halvor #0" = 0
+	"Harald #0" = 0
+	"Helge #0" = 0
+	"Hemming #0" = 0
+	"Hjalmar #0" = 0
+	"Holger #0" = 0
+	"Ingolf #0" = 0
+	"Jørgen #0" = 0
+	"Jørn #0" = 0
+	"Jakob #0" = 0
+	"Jens #0" = 0
+	"Johann #0" = 0
+	"Karl #0" = 0
+	"Knud #0" = 0
+	"Kristian #0" = 0
+	"Leif #0" = 0
+	"Lennart #0" = 0
+	"Ludvig #0" = 0
+	"Malthe #0" = 0
+	"Mads #0" = 0
+	"Mikkel #0" = 0
+	"Mogens #0" = 0
+	"Niels #0" = 0
+	"Odd #0" = 0
+	"Olav #0" = 0
+	"Oluf #0" = 0
+	"Peder #0" = 0
+	"Poul #0" = 0
+	"Pridbjørn #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Rune #0" = 0
+	"Rørik #0" = 0
+	"Severin #0" = 0
+	"Sigfred #0" = 0
+	"Sigtryg #0" = 0
+	"Sigurd #0" = 0
+	"Sivard #0" = 0
+	"Steen #0" = 0
+	"Svend #0" = 0
+	"Sämund #0" = 0
+	"Thorolf #0" = 0
+	"Thorvald #0" = 0
+	"Torben #0" = 0
+	"Torbjørn #0" = 0
+	"Tord #0" = 0
+	"Torfinn #0" = 0
+	"Torgils #0" = 0
+	"Ture #0" = 0
+	"Ubbe #0" = 0
+	"Uffe #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+	"Valentin #0" = 0
+	"Vilfred #0" = 0
+	"Yngvar #0" = 0
+}
+ship_names = {
+	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
+	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
+	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
+	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"Prinds Christian" "Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
+	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
+	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
+	Victoria Vindhunden Wenden Ørnen
+}
+

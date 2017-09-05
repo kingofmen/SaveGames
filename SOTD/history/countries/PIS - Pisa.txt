@@ -1,0 +1,23 @@
+# Pisa
+government = merchant_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+capital = 115
+1443.4.23 = {
+	monarch = {
+		name = "Clemente"
+		birth_date = 1406.8.1
+		dynasty = "Monticelli"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 115
+	add_treasury = 20
+	add_prestige = 26
+}

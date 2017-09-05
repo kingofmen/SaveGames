@@ -1,0 +1,24 @@
+# Volhynia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+capital = 4244
+1402.9.5 = {
+	monarch = {
+		name = "Yefrosinia"
+		birth_date = 1400.9.27
+		dynasty = "Dregovich"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 4244
+	add_treasury = 36
+	add_prestige = 142
+}

@@ -1,0 +1,204 @@
+# Sarkel
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 236 200 105 }
+
+
+
+
+leader_names = {
+
+	"Skuld" "Geirr" "Rögnvaldr" "Bersi" "Hafrid" "Bothildr" "Arni" "Vladimir" "Alvör" "Faste" 
+	"Alfrið" "Karin" "Gloð" "Bengt" "Predslava" "Vigdis" "Karol" "Ingrid" "Iliana" "Sviatoslav" 
+	"Borkvard" "Haukr" "Elin" "Kamilla" "Asta" "Holmfrid" "Margareta" "Gerðr" "Maer" "Sara" 
+	"Þora" "Baldr" "Sarkhan" "Eilif" "Jorn" "Halsten" "Alfhildr" "Dyre" "Hæsteinn" "Hjalmar" 
+	"Sif" "Snorri" "Refr" "Daelin" "Gurli" "Bodil" "Ylva" "Arellan" "Asa" "Sigrid" 
+	"Harkon" "Vagn" "Jedvard" "Yaropolk" "Guðfrið" "Astrid" "Helena" "Gyða" "Sviatoslava" "Halla" 
+	"Öysteinn" "Elisabet" "Vinekh" "Skuli" "Beata" "Totil" "Ulfr" "Björn" "Jon" "Anundr" 
+	"Sigurðr" "Bulçan" "Hroðulfr" "Almish" "Anna" "Marina" "Praxida" "Yelisey" "Hrane" "Dan" 
+	"Parsbit" "Bars" "Dristar" "Hrolfr" "Gyla" "Gandalfr" "Árpád" "Katarina" "Jan" "Kristina" 
+	"Yekaterina" "Yrsa" "Ágnes" "Birger" "Valdemar" "Eirikr" "Åke" "Birgitta" "Sturla" "Sofia" 
+	"Maria" "Falki" "Gunnarr" "Hysing" "Arngrimr" "Siegmund" "Magnus" "Strasz" "Refil" "Cecilia" 
+	"Fredrik" "Ragnarr" "Eskild" "Sedziej" "Vazul" "Tamás" "János" "Veleslava" "Gunnhildr" "Sumarliði" 
+	"Dag" "Itakh" "Kundaçiq" "Mänäs" "Kjartan" "Tingiz" "Alp" "Araslan" "Bagha" "Baghatur" 
+	"Bälgiçi" "Barjik" "Barsbek" "Bastu" "Bashtwa" "Bihor" "Böri" "Bugha" "Bulan" "Busir" 
+	"Buzer" "Çat" "Çat'n" "Çorpan" "Ilik" "Iltäbär" "Kamaj" "Karadakh" "Kayghalagh" "Khatir" 
+	"Khuterkin" "Kibar" "Kisa" "Kundaç" "Mänär" "Mënümarót" "Ötemis" "Papaçyz" "Samsam" "Sartäç" 
+	"Simsam" "Täbär" "Tabghaç" "Tarkhan" "Tarmaç" "Tuzniq" "Vakrim" "Yabghu" "Yavantey" "Yençepi" 
+	"Yerneslu" "Yeçtirek" "Yilig" }
+monarch_names = {
+	"Skuld #0" = -1
+	"Geirr #0" = 1
+	"Rögnvaldr #0" = 1
+	"Bersi #0" = 1
+	"Hafrid #0" = -1
+	"Bothildr #0" = -1
+	"Arni #0" = 1
+	"Vladimir #1" = 21
+	"Alvör #0" = -1
+	"Faste #0" = 1
+	"Alfrið #0" = -1
+	"Karin #0" = -1
+	"Gloð #0" = -1
+	"Bengt #0" = 1
+	"Predslava #0" = -1
+	"Vigdis #0" = -1
+	"Karol #0" = 1
+	"Ingrid #0" = -1
+	"Iliana #0" = -1
+	"Sviatoslav #0" = 1
+	"Borkvard #0" = 1
+	"Haukr #0" = 1
+	"Elin #0" = -1
+	"Kamilla #0" = -1
+	"Asta #0" = -1
+	"Holmfrid #0" = -1
+	"Margareta #0" = -1
+	"Gerðr #0" = -1
+	"Maer #0" = -1
+	"Sara #0" = -1
+	"Þora #0" = -1
+	"Baldr #1" = 21
+	"Sarkhan #0" = 1
+	"Eilif #0" = 1
+	"Jorn #1" = 21
+	"Halsten #0" = 1
+	"Alfhildr #0" = -1
+	"Dyre #0" = 1
+	"Hæsteinn #0" = 1
+	"Hjalmar #0" = 1
+	"Sif #0" = -1
+	"Snorri #0" = 1
+	"Refr #0" = 1
+	"Daelin #0" = 1
+	"Gurli #0" = -1
+	"Bodil #0" = -1
+	"Ylva #0" = -1
+	"Arellan #0" = 1
+	"Asa #0" = -1
+	"Sigrid #0" = -1
+	"Harkon #1" = 18
+	"Vagn #0" = 1
+	"Jedvard #0" = 1
+	"Yaropolk #0" = 1
+	"Guðfrið #0" = 1
+	"Astrid #0" = -1
+	"Helena #0" = -1
+	"Gyða #0" = -1
+	"Sviatoslava #0" = -1
+	"Halla #0" = -1
+	"Öysteinn #0" = 1
+	"Elisabet #0" = -1
+	"Vinekh #0" = 1
+	"Skuli #0" = 1
+	"Beata #0" = -1
+	"Totil #0" = 1
+	"Ulfr #2" = 24
+	"Björn #0" = 1
+	"Jon #0" = 1
+	"Anundr #0" = 1
+	"Sigurðr #0" = 1
+	"Bulçan #0" = 1
+	"Hroðulfr #0" = 1
+	"Almish #0" = 1
+	"Anna #0" = -1
+	"Marina #0" = -1
+	"Praxida #0" = -1
+	"Yelisey #0" = 1
+	"Hrane #0" = 1
+	"Dan #0" = 1
+	"Parsbit #0" = -1
+	"Bars #0" = 1
+	"Dristar #0" = 1
+	"Hrolfr #0" = 1
+	"Gyla #1" = -19
+	"Gandalfr #0" = 1
+	"Árpád #0" = 1
+	"Katarina #0" = -1
+	"Jan #0" = 1
+	"Kristina #0" = -1
+	"Yekaterina #0" = -1
+	"Yrsa #0" = -1
+	"Ágnes #0" = -1
+	"Birger #0" = 1
+	"Valdemar #1" = 21
+	"Eirikr #0" = 1
+	"Åke #0" = 1
+	"Birgitta #0" = -1
+	"Sturla #0" = 1
+	"Sofia #0" = -1
+	"Maria #0" = -1
+	"Falki #0" = 1
+	"Gunnarr #0" = 1
+	"Hysing #0" = 1
+	"Arngrimr #0" = 1
+	"Siegmund #0" = 1
+	"Magnus #0" = 1
+	"Strasz #0" = 1
+	"Refil #0" = 1
+	"Cecilia #0" = -1
+	"Fredrik #0" = 1
+	"Ragnarr #0" = 1
+	"Eskild #0" = 1
+	"Sedziej #0" = 1
+	"Vazul #0" = 1
+	"Tamás #0" = 1
+	"János #0" = 1
+	"Veleslava #0" = -1
+	"Gunnhildr #0" = -1
+	"Sumarliði #0" = 1
+	"Dag #0" = 1
+	"Itakh #1" = 0
+	"Kundaçiq #1" = 0
+	"Mänäs #1" = 0
+	"Kjartan #1" = 0
+	"Tingiz #1" = 0
+	"Alp #0" = 0
+	"Araslan #0" = 0
+	"Bagha #0" = 0
+	"Baghatur #0" = 0
+	"Bälgiçi #0" = 0
+	"Barjik #0" = 0
+	"Barsbek #0" = 0
+	"Bastu #0" = 0
+	"Bashtwa #0" = 0
+	"Bihor #0" = 0
+	"Böri #0" = 0
+	"Bugha #0" = 0
+	"Bulan #0" = 0
+	"Busir #0" = 0
+	"Buzer #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Çorpan #0" = 0
+	"Ilik #0" = 0
+	"Iltäbär #0" = 0
+	"Kamaj #0" = 0
+	"Karadakh #0" = 0
+	"Kayghalagh #0" = 0
+	"Khatir #0" = 0
+	"Khuterkin #0" = 0
+	"Kibar #0" = 0
+	"Kisa #0" = 0
+	"Kundaç #0" = 0
+	"Mänär #0" = 0
+	"Mënümarót #0" = 0
+	"Ötemis #0" = 0
+	"Papaçyz #0" = 0
+	"Samsam #0" = 0
+	"Sartäç #0" = 0
+	"Simsam #0" = 0
+	"Täbär #0" = 0
+	"Tabghaç #0" = 0
+	"Tarkhan #0" = 0
+	"Tarmaç #0" = 0
+	"Tuzniq #0" = 0
+	"Vakrim #0" = 0
+	"Yabghu #0" = 0
+	"Yavantey #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+	"Yilig #0" = 0
+}
+

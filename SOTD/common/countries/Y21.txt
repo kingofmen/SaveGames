@@ -1,0 +1,211 @@
+# Abbasid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 6 100 2 }
+
+
+
+
+leader_names = {
+
+	"Majid" "Abu-Bakr" "Bashar" "Nasraddin" "Nahal" "Kamran" "Azam" "Talib" "Hafsa" "Murad" 
+	"Mastana" "Wahid" "Halil" "Yasmin" "Rajiya" "Parand" "Abdul" "Khudayar" "Souzan" "Samira" 
+	"Ramadan" "Mahdokht" "Nazaneen" "Yasar" "Duha" "Hasti" "Shaiban" "Jamil" "Farida" "Mehri" 
+	"Gulpari" "Mas'ud" "Habiba" "Seyfullah" "Abbas" "Abdullah" "Ubaydallah" "al-Harith" "Asma" "Ali" 
+	"Muhammad" "As-Saffah" "Musa" "Ibrahim" "Abdallah" "Salih" "al-Sariyy" "Isa" "Al-Mansur" "Qutham" 
+	"Abd al-Bahhab" "Al-Mahdi" "Al-Hadi" "Al-Fadl" "Ja'far" "Rayta" "Abbasa" "Harun al-Rashid" "Abd al-Malik" "Al-Amin" 
+	"Abd ar-Rahman" "al-Hadi" "Al-Ma'mum" "Al-Mu'tasim" "Al-Wathiq" "Al-Mutawakkil" "Al-Muntasir" "Al-Musta'in" "Al-Mu'tazz" "Al-Muhtadi" 
+	"Khalil" "Al-Mu'tamid" "Sirhan" "Mukhtar" "Is'mail" "Al-Muwaffak" "Qamara" "Saghar" "Aghlab" "Al-Mu'tadid" 
+	"Sahba" "Muslihiddin" "Shokouh" "Kamala" "Abdul-Jaleel" "Paymaneh" "Hussayn" "Khaireddin" "Yahya" "Ala'i" 
+	"Shola" "Rafiqa" "Gulfem" "Kara" "Jahaira" "Adila" "Saaman" "Fadl" "Taliba" "Alim" 
+	"Nyawela" "Saltuk" "Yagana" "Marwa" "Setara" "Togtekin" "Semeah" "Rasa" "Sholah" "Rashida" 
+	"Nafisa" "Karima" "Amsha" "Hakam" "Hafiz" "Nasr" "Ibtisam" "Aarif" "Rabiya" "Nuraddin" 
+	"Layla" "Thana" "Nikoo" "Jabir" "Simin" "Zuhayra" "Shogofa" "Abdul-Azeem" "Abdul-Wahad" "Aram" 
+	"Yakta" "Huma" "Qawurd" "Fayiz" "Nizam" "Gulnaz" "Bahir" "Hashmaddin" "Sadiya" "Noushin" 
+	"Sitara" "Khandan" "Mina" "Ashraf" "Abdul-Lateef" "Gulnar" "Nuri" "Muzaffar" "Salahaddin" "Burhanaddin" 
+	"Muzaffaraddin" "Zahir" "Fadil" "Muhsin" "Abdul-Hamid" "Abdul-Razzaq" "Adhid" "Adil" "Akab" "Amir" 
+	"Aziz" "Boutros" "Da'ud" "Faisal" "Ghazi" "Hamdan" "Imamaddin" "Ismat" "Jahan" "Khalid" 
+	"Muaddam" "Radhi" "Rasul" "Sa'ud" "Sharaf" "Taimur" "Tawfiq" "Umaya" "Ya'qub" "Youkhanna" }
+monarch_names = {
+	"Majid #0" = 1
+	"Abu-Bakr #0" = 1
+	"Bashar #1" = 18
+	"Nasraddin #0" = 1
+	"Nahal #0" = -1
+	"Kamran #0" = 1
+	"Azam #0" = 1
+	"Talib #0" = 1
+	"Hafsa #0" = -1
+	"Murad #1" = 21
+	"Mastana #0" = -1
+	"Wahid #0" = 1
+	"Halil #0" = 1
+	"Yasmin #0" = -1
+	"Rajiya #0" = -1
+	"Parand #0" = -1
+	"Abdul #1" = 18
+	"Khudayar #0" = 1
+	"Souzan #0" = -1
+	"Samira #0" = -1
+	"Ramadan #1" = 21
+	"Mahdokht #0" = -1
+	"Nazaneen #0" = -1
+	"Yasar #0" = 1
+	"Duha #0" = -1
+	"Hasti #0" = -1
+	"Shaiban #0" = 1
+	"Jamil #0" = 1
+	"Farida #0" = -1
+	"Mehri #0" = -1
+	"Gulpari #0" = -1
+	"Mas'ud #0" = 1
+	"Habiba #0" = -1
+	"Seyfullah #0" = 1
+	"Abbas #0" = 1
+	"Abdullah #1" = 21
+	"Ubaydallah #0" = 1
+	"al-Harith #0" = 1
+	"Asma #0" = -1
+	"Ali #0" = 1
+	"Muhammad #0" = 1
+	"As-Saffah #1" = 18
+	"Musa #0" = 1
+	"Ibrahim #0" = 1
+	"Abdallah #0" = 1
+	"Salih #0" = 1
+	"al-Sariyy #0" = 1
+	"Isa #0" = 1
+	"Al-Mansur #1" = 18
+	"Qutham #0" = 1
+	"Abd al-Bahhab #0" = 1
+	"Al-Mahdi #1" = 18
+	"Al-Hadi #1" = 18
+	"Al-Fadl #0" = 1
+	"Ja'far #0" = 1
+	"Rayta #0" = -1
+	"Abbasa #0" = -1
+	"Harun al-Rashid #1" = 18
+	"Abd al-Malik #0" = 1
+	"Al-Amin #1" = 18
+	"Abd ar-Rahman #0" = 1
+	"al-Hadi #0" = 1
+	"Al-Ma'mum #1" = 18
+	"Al-Mu'tasim #1" = 18
+	"Al-Wathiq #1" = 21
+	"Al-Mutawakkil #2" = 21
+	"Al-Muntasir #1" = 18
+	"Al-Musta'in #1" = 18
+	"Al-Mu'tazz #1" = 18
+	"Al-Muhtadi #0" = 1
+	"Khalil #0" = 1
+	"Al-Mu'tamid #2" = 21
+	"Sirhan #1" = 18
+	"Mukhtar #0" = 1
+	"Is'mail #0" = 1
+	"Al-Muwaffak #0" = 1
+	"Qamara #0" = -1
+	"Saghar #0" = -1
+	"Aghlab #0" = 1
+	"Al-Mu'tadid #0" = 1
+	"Sahba #0" = -1
+	"Muslihiddin #0" = 1
+	"Shokouh #0" = -1
+	"Kamala #0" = -1
+	"Abdul-Jaleel #2" = 18
+	"Paymaneh #0" = -1
+	"Hussayn #0" = 1
+	"Khaireddin #0" = 1
+	"Yahya #1" = 18
+	"Ala'i #0" = 1
+	"Shola #0" = -1
+	"Rafiqa #0" = -1
+	"Gulfem #0" = -1
+	"Kara #0" = 1
+	"Jahaira #0" = -1
+	"Adila #0" = -1
+	"Saaman #0" = -1
+	"Fadl #1" = 21
+	"Taliba #0" = -1
+	"Alim #0" = 1
+	"Nyawela #0" = -1
+	"Saltuk #0" = 1
+	"Yagana #0" = -1
+	"Marwa #0" = -1
+	"Setara #0" = -1
+	"Togtekin #0" = 1
+	"Semeah #0" = -1
+	"Rasa #0" = -1
+	"Sholah #0" = -1
+	"Rashida #0" = -1
+	"Nafisa #0" = -1
+	"Karima #0" = -1
+	"Amsha #0" = -1
+	"Hakam #0" = 1
+	"Hafiz #0" = 1
+	"Nasr #0" = 1
+	"Ibtisam #0" = -1
+	"Aarif #0" = 1
+	"Rabiya #0" = -1
+	"Nuraddin #0" = 1
+	"Layla #0" = -1
+	"Thana #0" = -1
+	"Nikoo #0" = -1
+	"Jabir #0" = 1
+	"Simin #0" = -1
+	"Zuhayra #0" = -1
+	"Shogofa #0" = -1
+	"Abdul-Azeem #0" = 1
+	"Abdul-Wahad #0" = 1
+	"Aram #0" = 1
+	"Yakta #0" = -1
+	"Huma #0" = -1
+	"Qawurd #0" = 1
+	"Fayiz #0" = 1
+	"Nizam #0" = 1
+	"Gulnaz #0" = -1
+	"Bahir #0" = 1
+	"Hashmaddin #0" = 1
+	"Sadiya #0" = -1
+	"Noushin #0" = -1
+	"Sitara #0" = -1
+	"Khandan #0" = -1
+	"Mina #0" = -1
+	"Ashraf #1" = 18
+	"Abdul-Lateef #0" = 1
+	"Gulnar #0" = -1
+	"Nuri #0" = 1
+	"Muzaffar #0" = 1
+	"Salahaddin #0" = 1
+	"Burhanaddin #0" = 1
+	"Muzaffaraddin #1" = 0
+	"Zahir #1" = 0
+	"Fadil #2" = 0
+	"Muhsin #1" = 0
+	"Abdul-Hamid #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Adhid #0" = 0
+	"Adil #0" = 0
+	"Akab #0" = 0
+	"Amir #0" = 0
+	"Aziz #0" = 0
+	"Boutros #0" = 0
+	"Da'ud #0" = 0
+	"Faisal #0" = 0
+	"Ghazi #0" = 0
+	"Hamdan #0" = 0
+	"Imamaddin #0" = 0
+	"Ismat #0" = 0
+	"Jahan #0" = 0
+	"Khalid #0" = 0
+	"Muaddam #0" = 0
+	"Radhi #0" = 0
+	"Rasul #0" = 0
+	"Sa'ud #0" = 0
+	"Sharaf #0" = 0
+	"Taimur #0" = 0
+	"Tawfiq #0" = 0
+	"Umaya #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+}
+

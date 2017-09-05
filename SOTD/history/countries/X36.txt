@@ -1,0 +1,35 @@
+# Uyghur
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2190
+1440.12.20 = {
+	monarch = {
+		name = "Üge II"
+		birth_date = 1414.11.7
+		dynasty = "Yughur"
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Kuntuvdi"
+		monarch_name = "Kuntuvdi"
+		dynasty = "Yughur"
+		birth_date = 1438.5.23
+		death_date = 1518.5.23
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2190
+	add_treasury = 18
+	add_prestige = 60
+}

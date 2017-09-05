@@ -1,0 +1,23 @@
+# Coloneia
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = armenian
+religion = sunni
+capital = 2303
+1440.12.12 = {
+	monarch = {
+		name = "Vesd"
+		birth_date = 1411.9.26
+		dynasty = "Gardman-Aghbania"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 2303
+	add_treasury = 36
+	add_prestige = 54
+}

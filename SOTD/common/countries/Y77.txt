@@ -1,0 +1,154 @@
+# Kimak
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 151 114 58 }
+
+
+
+
+leader_names = {
+
+	"Skonka" "Buzan" "Soraya" "Jitka" "Klára" "Shindyay" "Irnek" "Yartilek" "Chepa" "Bayan" 
+	"Kubrat" "Asparukh" "Batbayan" "Kotrag" "Kuber" "Tervel" "Ajjar" "Sevar" "Kormesiy" "Bozok" 
+	"Kermek" "Toktu" "Telerig" "Kardam" "Irkhan" "Krum" "Zvinica" "Omortag" "Tukiy" "Malamir" 
+	"Ügyek" "Kätyarikka" "Aydar" "Sibel" "Këlyamal" "Savtilek" "Shilki" "Almis" "Dometa" "Lärkka" 
+	"Krovat" "Batir" "Ipek" "Savkëlti" "Alzek" "Sarä" "Ayten" "Gundes" "Özlem" "Lyukha" 
+	"Shurkka" "Isbul" "Timërpälat" "Ilkay" "Çiltanesi" "Batulia" "Zenti" "Umay" "Sabin" "Sartäç" 
+	"Eskhakh" "Rassate" "Savaçka" "Malyy" "Sarkhan" "Gostun" "Organa" "Tetyava" "Bozçin" "Ayasun" 
+	"Sondoke" "Deryab" "Sirin" "Peksen" "Sehnaz" "Sati" "Gunduz" "Roshanora" "Gulçiçek" "Sandil" 
+	"Dengizikh" "Tada" "Behnaz" "Maturkka" "Johanka" "Fereedun" "Kavoos" "Kavadh" "Litava" "Törtogul" 
+	"Ituk" "Itlar" "Kutan" "Begluk" "Kubasar" "Sirçan" "Çilbu" "Aepak" "Asalup" "Asep" 
+	"Atrak" "Bönek" "Bachman" "Blush" "Bonyak" "Borç" "Eldeçyuk" "Etrek" "Girgen" "Gzi" 
+	"Könçek" "Kobyak" "Kopti" "Kotyan" "Koza" "Kozel" "Kuntuvdi" "Pulad" "Saru" "Sevenç" 
+	"Sokal" "Sotan" "Sugr" "Togli" "Tolun" "Tugor" "Uzluk" "Uzur" }
+monarch_names = {
+	"Skonka #0" = -1
+	"Buzan #0" = 1
+	"Soraya #0" = -1
+	"Jitka #0" = -1
+	"Klára #0" = -1
+	"Shindyay #1" = 18
+	"Irnek #0" = 1
+	"Yartilek #0" = -1
+	"Chepa #0" = 1
+	"Bayan #0" = 1
+	"Kubrat #0" = 1
+	"Asparukh #0" = 1
+	"Batbayan #0" = 1
+	"Kotrag #0" = 1
+	"Kuber #0" = 1
+	"Tervel #0" = 1
+	"Ajjar #0" = 1
+	"Sevar #0" = 1
+	"Kormesiy #0" = 1
+	"Bozok #0" = -1
+	"Kermek #0" = 1
+	"Toktu #0" = 1
+	"Telerig #0" = 1
+	"Kardam #0" = 1
+	"Irkhan #0" = 1
+	"Krum #0" = 1
+	"Zvinica #0" = 1
+	"Omortag #0" = 1
+	"Tukiy #0" = 1
+	"Malamir #0" = 1
+	"Ügyek #0" = 1
+	"Kätyarikka #0" = -1
+	"Aydar #0" = 1
+	"Sibel #0" = -1
+	"Këlyamal #0" = -1
+	"Savtilek #0" = -1
+	"Shilki #0" = 1
+	"Almis #0" = 1
+	"Dometa #0" = 1
+	"Lärkka #0" = -1
+	"Krovat #0" = 1
+	"Batir #0" = 1
+	"Ipek #0" = -1
+	"Savkëlti #0" = -1
+	"Alzek #0" = 1
+	"Sarä #0" = -1
+	"Ayten #0" = -1
+	"Gundes #0" = -1
+	"Özlem #0" = -1
+	"Lyukha #0" = -1
+	"Shurkka #0" = -1
+	"Isbul #0" = 1
+	"Timërpälat #0" = 1
+	"Ilkay #1" = -19
+	"Çiltanesi #0" = -1
+	"Batulia #0" = 1
+	"Zenti #0" = 1
+	"Umay #0" = -1
+	"Sabin #0" = 1
+	"Sartäç #0" = 1
+	"Eskhakh #0" = 1
+	"Rassate #0" = 1
+	"Savaçka #0" = -1
+	"Malyy #0" = 1
+	"Sarkhan #0" = 1
+	"Gostun #0" = 1
+	"Organa #1" = 24
+	"Tetyava #0" = -1
+	"Bozçin #0" = -1
+	"Ayasun #0" = -1
+	"Sondoke #0" = 1
+	"Deryab #0" = 1
+	"Sirin #0" = -1
+	"Peksen #0" = -1
+	"Sehnaz #0" = -1
+	"Sati #0" = -1
+	"Gunduz #0" = -1
+	"Roshanora #0" = -1
+	"Gulçiçek #0" = -1
+	"Sandil #0" = 1
+	"Dengizikh #0" = 1
+	"Tada #0" = -1
+	"Behnaz #0" = -1
+	"Maturkka #0" = -1
+	"Johanka #0" = -1
+	"Fereedun #1" = 18
+	"Kavoos #0" = 1
+	"Kavadh #0" = 1
+	"Litava #0" = -1
+	"Törtogul #1" = 0
+	"Ituk #2" = 0
+	"Itlar #1" = 0
+	"Kutan #1" = 0
+	"Begluk #1" = 0
+	"Kubasar #2" = 0
+	"Sirçan #1" = 0
+	"Çilbu #0" = 0
+	"Aepak #0" = 0
+	"Asalup #0" = 0
+	"Asep #0" = 0
+	"Atrak #0" = 0
+	"Bönek #0" = 0
+	"Bachman #0" = 0
+	"Blush #0" = 0
+	"Bonyak #0" = 0
+	"Borç #0" = 0
+	"Eldeçyuk #0" = 0
+	"Etrek #0" = 0
+	"Girgen #0" = 0
+	"Gzi #0" = 0
+	"Könçek #0" = 0
+	"Kobyak #0" = 0
+	"Kopti #0" = 0
+	"Kotyan #0" = 0
+	"Koza #0" = 0
+	"Kozel #0" = 0
+	"Kuntuvdi #0" = 0
+	"Pulad #0" = 0
+	"Saru #0" = 0
+	"Sevenç #0" = 0
+	"Sokal #0" = 0
+	"Sotan #0" = 0
+	"Sugr #0" = 0
+	"Togli #0" = 0
+	"Tolun #0" = 0
+	"Tugor #0" = 0
+	"Uzluk #0" = 0
+	"Uzur #0" = 0
+}
+

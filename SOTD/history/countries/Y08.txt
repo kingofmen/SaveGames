@@ -1,0 +1,34 @@
+# Itil
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
+capital = 4255
+1441.9.22 = {
+	monarch = {
+		name = "Nuyaksha"
+		birth_date = 1440.2.18
+		dynasty = "Mescheravid"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	heir = {
+		name = "Siyamka"
+		monarch_name = "Siyamka"
+		dynasty = "Mescheravid"
+		birth_date = 1431.1.6
+		death_date = 1511.1.6
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 4255
+	add_treasury = 28
+	add_prestige = 55
+}

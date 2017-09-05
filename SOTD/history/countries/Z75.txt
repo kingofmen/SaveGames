@@ -1,0 +1,25 @@
+# Pest
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = avar
+religion = catholic
+clear_scripted_personalities = yes
+capital = 157
+1436.3.7 = {
+	monarch = {
+		name = "Tsog"
+		birth_date = 1405.5.15
+		dynasty = "of  Heves"
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 157
+	add_treasury = 27
+	add_prestige = 23
+}

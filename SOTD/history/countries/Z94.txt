@@ -1,0 +1,35 @@
+# Lombard Band
+government = oligarchic_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1859
+1443.9.3 = {
+	monarch = {
+		name = "Gregorio"
+		birth_date = 1402.8.8
+		dynasty = "di  Kujawy"
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+	heir = {
+		name = "Aimone"
+		monarch_name = "Aimone"
+		dynasty = "NO_DYNASTY"
+		birth_date = 1413.1.15
+		death_date = 1493.1.15
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1859
+	add_treasury = 33
+	add_prestige = 28
+}

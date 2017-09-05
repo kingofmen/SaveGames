@@ -1,0 +1,23 @@
+# Varingia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = catholic
+capital = 2406
+1441.8.27 = {
+	monarch = {
+		name = "Varaka"
+		birth_date = 1441.6.14
+		dynasty = "av Island"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2406
+	add_treasury = 17
+	add_prestige = 97
+}

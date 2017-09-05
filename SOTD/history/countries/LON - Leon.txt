@@ -1,0 +1,36 @@
+# León
+government = administrative_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 208
+1439.2.11 = {
+	monarch = {
+		name = "Enrique"
+		birth_date = 1403.9.1
+		dynasty = "von Britannia"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Goubert"
+		monarch_name = "Goubert II"
+		dynasty = "von Britannia"
+		birth_date = 1423.2.22
+		death_date = 1503.2.22
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 208
+	add_treasury = 42
+	add_prestige = 325
+}

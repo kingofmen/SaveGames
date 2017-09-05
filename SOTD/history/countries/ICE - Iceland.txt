@@ -1,0 +1,25 @@
+# Iceland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = catholic
+clear_scripted_personalities = yes
+capital = 370
+1434.2.15 = {
+	monarch = {
+		name = "James"
+		birth_date = 1410.9.20
+		dynasty = "Craig"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 370
+	add_treasury = 32
+	add_prestige = 259
+}

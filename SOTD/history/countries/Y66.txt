@@ -1,0 +1,33 @@
+# Mahra
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+capital = 402
+1438.1.7 = {
+	monarch = {
+		name = "Aghlab"
+		birth_date = 1428.7.4
+		dynasty = "Hammudid"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	heir = {
+		name = "Shaiban"
+		monarch_name = "Shaiban"
+		dynasty = "Hammudid"
+		birth_date = 1432.11.4
+		death_date = 1512.11.4
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 402
+	add_treasury = 20
+	add_prestige = 60
+}

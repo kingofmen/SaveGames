@@ -1,0 +1,23 @@
+# Gurgen
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+capital = 377
+1441.6.27 = {
+	monarch = {
+		name = "Ismat"
+		birth_date = 1435.11.6
+		dynasty = "Gurgen"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 377
+	add_treasury = 74
+	add_prestige = 49
+}

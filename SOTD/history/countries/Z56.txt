@@ -1,0 +1,25 @@
+# Pskov
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1842
+1442.7.1 = {
+	monarch = {
+		name = "Dag"
+		birth_date = 1408.8.2
+		dynasty = "Snjalli"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 1842
+	add_treasury = 24
+	add_prestige = 68
+}

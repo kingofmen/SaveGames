@@ -1,0 +1,33 @@
+# Cheremisa
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = norse_pagan_reformed
+capital = 2423
+1440.12.17 = {
+	monarch = {
+		name = "Kichay"
+		birth_date = 1440.12.16
+		dynasty = "Benesovic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	heir = {
+		name = "Arnost"
+		monarch_name = "Arnost"
+		dynasty = "Benesovic"
+		birth_date = 1407.9.21
+		death_date = 1487.9.21
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 2423
+	add_treasury = 15
+	add_prestige = 23
+}

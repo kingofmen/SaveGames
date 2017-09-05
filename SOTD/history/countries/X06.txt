@@ -1,0 +1,23 @@
+# Pihiti
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+capital = 561
+1414.5.30 = {
+	monarch = {
+		name = "Virajdendranarayan"
+		birth_date = 1386.10.13
+		dynasty = "Pihiti"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 561
+	add_treasury = 15
+	add_prestige = 304
+}

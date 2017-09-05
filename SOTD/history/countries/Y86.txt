@@ -1,0 +1,23 @@
+# Thana Silahara
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = marathi
+religion = jain
+capital = 517
+1439.9.18 = {
+	monarch = {
+		name = "Adikavi III"
+		birth_date = 1419.6.13
+		dynasty = "Thana Silahara"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 517
+	add_treasury = 13
+	add_prestige = 50
+}

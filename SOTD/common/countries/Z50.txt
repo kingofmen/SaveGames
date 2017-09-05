@@ -1,0 +1,103 @@
+# Badajoz
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 138 243 51 }
+
+
+
+
+leader_names = {
+
+	"Bébinn" "Alan" "Sholto" "Sweeny" "Urraca" "Duff" "Lulach" "Philip" "Mirren" "Ela" 
+	"Caitilín" "Edward" "Isobel" "Isabel" "Adam" "Eleanor" "Barrdub" "Argilo" "Briccéne" "Condál" 
+	"Maoilios" "Agnes" "Gilbert" "Donada" "Forflissa" "Kenneth" "Gilroy" "Roy" "Effie" "Alastair" 
+	"Arran" "Marwan" "Abderrabmen" "Çeid" "Oliba" "Monnio" "Jalid" "Bermudo" "Tariq" "Airmanagildo" 
+	"Dunáed" "Máel-Corgis" "Ólchobar" "Sorcha" "Adelfonso" "Agila" "Alaricho" "Aloito" "Assur" "Athanagildo" 
+	"Berengario" "Diaco" "Fafila" "Friedenando" "Friednand" "Froila" "Garçi" "Gonçalo" "Gundemar" "Guttier" 
+	"Johan" "Liuva" "Liuvericho" "Lupo" "Mauregato" "Nunno" "Ordonno" "Pelagio" "Petro" "Ranimiro" 
+	"Rekkaredo" "Rodericho" "Sans" "Silo" "Suneario" "Suniefredo" "Theodoricho" "Veremondo" "Wifredo" "Wimarano" 
+	"Witiza" }
+monarch_names = {
+	"Bébinn #0" = -1
+	"Alan #0" = 1
+	"Sholto #0" = -1
+	"Sweeny #0" = 1
+	"Urraca #0" = -1
+	"Duff #0" = 1
+	"Lulach #0" = 1
+	"Philip #0" = 1
+	"Mirren #0" = -1
+	"Ela #0" = -1
+	"Caitilín #0" = -1
+	"Edward #0" = 1
+	"Isobel #0" = -1
+	"Isabel #0" = -1
+	"Adam #1" = 21
+	"Eleanor #0" = -1
+	"Barrdub #0" = -1
+	"Argilo #0" = -1
+	"Briccéne #0" = 1
+	"Condál #0" = -1
+	"Maoilios #0" = 1
+	"Agnes #0" = -1
+	"Gilbert #1" = 21
+	"Donada #0" = -1
+	"Forflissa #0" = -1
+	"Kenneth #0" = 1
+	"Gilroy #0" = 1
+	"Roy #0" = 1
+	"Effie #0" = -1
+	"Alastair #0" = 1
+	"Arran #0" = 1
+	"Marwan #1" = 0
+	"Abderrabmen #2" = 0
+	"Çeid #1" = 0
+	"Oliba #1" = 0
+	"Monnio #1" = 0
+	"Jalid #1" = 0
+	"Bermudo #1" = 0
+	"Tariq #1" = 0
+	"Airmanagildo #2" = 0
+	"Dunáed #1" = 0
+	"Máel-Corgis #1" = 0
+	"Ólchobar #1" = 0
+	"Sorcha #1" = -1
+	"Adelfonso #0" = 0
+	"Agila #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Assur #0" = 0
+	"Athanagildo #0" = 0
+	"Berengario #0" = 0
+	"Diaco #0" = 0
+	"Fafila #0" = 0
+	"Friedenando #0" = 0
+	"Friednand #0" = 0
+	"Froila #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Gundemar #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Lupo #0" = 0
+	"Mauregato #0" = 0
+	"Nunno #0" = 0
+	"Ordonno #0" = 0
+	"Pelagio #0" = 0
+	"Petro #0" = 0
+	"Ranimiro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Suniefredo #0" = 0
+	"Theodoricho #0" = 0
+	"Veremondo #0" = 0
+	"Wifredo #0" = 0
+	"Wimarano #0" = 0
+	"Witiza #0" = 0
+}
+

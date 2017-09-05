@@ -1,0 +1,10 @@
+iranian = {
+	sogdian = {
+		primary = KHO
+		dynasty_names = { "Afshin" "Vijaya" "Aurangid" "Jingjue" "Endere" "Ramti" "Yulingid" "Lopid" }
+	}
+	tocharian = {
+		primary = KAS
+		dynasty_names = { "Jemotwona" }
+	}
+}

@@ -1,0 +1,23 @@
+# Slavonia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = avar
+religion = catholic
+capital = 1826
+1442.10.11 = {
+	monarch = {
+		name = "Tiradin"
+		birth_date = 1419.3.21
+		dynasty = "Borghest"
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+}
+1444.11.11 = {
+	capital = 1826
+	add_treasury = 4
+	add_prestige = 348
+}

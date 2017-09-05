@@ -1,0 +1,35 @@
+# Aquitaine
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 183
+1426.3.11 = {
+	monarch = {
+		name = "Loup III"
+		birth_date = 1402.2.22
+		dynasty = "Karling"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Amédée"
+		monarch_name = "Amédée II"
+		dynasty = "Karling"
+		birth_date = 1425.12.24
+		death_date = 1505.12.24
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 183
+	add_treasury = 19
+	add_prestige = 450
+}

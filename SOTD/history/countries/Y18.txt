@@ -1,0 +1,23 @@
+# Gorgani
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+capital = 1970
+1442.6.1 = {
+	monarch = {
+		name = "Dariush II"
+		birth_date = 1401.3.14
+		dynasty = "Gorgani"
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 1970
+	add_treasury = 16
+	add_prestige = 42
+}

@@ -1,0 +1,38 @@
+# Khorasan
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2221
+1412.5.16 = {
+	monarch = {
+		name = "Is'mail"
+		birth_date = 1401.11.12
+		dynasty = "Mordorite"
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1425.7.10 = {
+	heir = {
+		name = "Wahid"
+		monarch_name = "Wahid"
+		dynasty = "Mordorite"
+		birth_date = 1425.7.10
+		death_date = 1505.7.10
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2221
+	add_treasury = 18
+	add_prestige = 457
+}

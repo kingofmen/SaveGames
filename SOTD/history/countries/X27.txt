@@ -1,0 +1,35 @@
+# Vijayawada
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+capital = 543
+1429.10.10 = {
+	monarch = {
+		name = "Jaspal"
+		birth_date = 1402.11.11
+		dynasty = "Amirid"
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+1431.12.10 = {
+	heir = {
+		name = "Vachhal"
+		monarch_name = "Vachhal"
+		dynasty = "Amirid"
+		birth_date = 1431.12.10
+		death_date = 1511.12.10
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 543
+	add_treasury = 34
+	add_prestige = 87
+}

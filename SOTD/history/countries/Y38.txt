@@ -1,0 +1,33 @@
+# Derbent
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = armenian
+religion = sunni
+capital = 425
+1442.11.27 = {
+	monarch = {
+		name = "Smbat"
+		birth_date = 1435.7.26
+		dynasty = "Zakarian"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Sevag"
+		monarch_name = "Sevag"
+		dynasty = "Zakarian"
+		birth_date = 1438.8.23
+		death_date = 1518.8.23
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 425
+	add_treasury = 27
+	add_prestige = 24
+}

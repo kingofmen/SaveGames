@@ -1,0 +1,79 @@
+# Mértola
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 182 60 5 }
+
+
+
+
+leader_names = {
+
+	"Urraca" "Gaudiosa" "Eva" "Gundemar" "Wilmot" "Isla" "Glenn" "Aulay" "Edward" "Archibald" 
+	"Edgar" "Ranimiro" "Farquhar" "Lulach" "Gormelia" "Ela" "Malcolm" "Macbeth" "Findlay" "Rory" 
+	"Isabel" "Catriona" "Adelfonso" "Agila" "Airmanagildo" "Alaricho" "Aloito" "Assur" "Athanagildo" "Berengario" 
+	"Diaco" "Fafila" "Friedenando" "Friednand" "Froila" "Garçi" "Gonçalo" "Guttier" "Johan" "Liuva" 
+	"Liuvericho" "Lupo" "Mauregato" "Monnio" "Nunno" "Oliba" "Ordonno" "Pelagio" "Petro" "Rekkaredo" 
+	"Rodericho" "Sans" "Silo" "Suneario" "Suniefredo" "Theodoricho" "Veremondo" "Wifredo" "Wimarano" "Witiza" }
+monarch_names = {
+	"Urraca #0" = -1
+	"Gaudiosa #0" = -1
+	"Eva #0" = -1
+	"Gundemar #0" = 1
+	"Wilmot #0" = -1
+	"Isla #0" = -1
+	"Glenn #0" = 1
+	"Aulay #0" = 1
+	"Edward #0" = 1
+	"Archibald #0" = 1
+	"Edgar #0" = 1
+	"Ranimiro #0" = 1
+	"Farquhar #0" = 1
+	"Lulach #0" = 1
+	"Gormelia #0" = -1
+	"Ela #0" = -1
+	"Malcolm #0" = 1
+	"Macbeth #0" = 1
+	"Findlay #0" = 1
+	"Rory #0" = 1
+	"Isabel #0" = -1
+	"Catriona #0" = -1
+	"Adelfonso #0" = 0
+	"Agila #0" = 0
+	"Airmanagildo #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Assur #0" = 0
+	"Athanagildo #0" = 0
+	"Berengario #0" = 0
+	"Diaco #0" = 0
+	"Fafila #0" = 0
+	"Friedenando #0" = 0
+	"Friednand #0" = 0
+	"Froila #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Lupo #0" = 0
+	"Mauregato #0" = 0
+	"Monnio #0" = 0
+	"Nunno #0" = 0
+	"Oliba #0" = 0
+	"Ordonno #0" = 0
+	"Pelagio #0" = 0
+	"Petro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Suniefredo #0" = 0
+	"Theodoricho #0" = 0
+	"Veremondo #0" = 0
+	"Wifredo #0" = 0
+	"Wimarano #0" = 0
+	"Witiza #0" = 0
+}
+

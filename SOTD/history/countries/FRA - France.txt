@@ -1,0 +1,38 @@
+# France
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 90
+1421.9.14 = {
+	monarch = {
+		name = "Humbert"
+		birth_date = 1400.6.8
+		dynasty = "Karling"
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1433.1.8 = {
+	heir = {
+		name = "Amédée"
+		monarch_name = "Amédée II"
+		dynasty = "Karling"
+		birth_date = 1433.1.8
+		death_date = 1513.1.8
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 90
+	add_treasury = 17
+	add_prestige = 446
+}

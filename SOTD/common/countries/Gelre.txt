@@ -1,0 +1,248 @@
+# Gelre
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 200 100 25 }
+historical_idea_groups = {
+	trade_ideas
+	exploration_ideas
+	naval_ideas
+	defensive_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Welf" "Gisela" "Heribert" "Augustin" "Hartwig" "Kriemhild" "Ilsa" "Amalrich" "Helene" "Winfrida" 
+	"Isentrude" "Nils" "Haraldr" "Haukr" "Gunnarr" "Hrolfr" "Valdemar" "Ofeig" "Eginolf" "Adelbrik" 
+	"Aitet" "Aldgisl" "Audulf" "Auutet" "Avin" "Avo" "Avuko" "Avutet" "Bavo" "Bentet" 
+	"Bernhard" "Blekulf" "Blithulf" "Brunhard" "Bubo" "Bôio" "Edulf" "Egildeg" "Eilbern" "Eilherd" 
+	"Eilulf" "Eilward" "Eldei" "Elderd" "Elhard" "Engilbald" "Enhard" "Entet" "Esulf" "Euitet" 
+	"Euuerhard" "Eðelbern" "Eðelulf" "Eðelwi" "Focko" "Folcbald" "Folkbern" "Folkhard" "Folkward" "Frethirik" 
+	"Frethold" "Frethuhard" "Frethwi" "Frithunath" "Geldulf" "Geltet" "Gerbald" "Gerbrand" "Gerbruht" "Gerdeg" 
+	"Gerhard" "Gerold" "Gerulf" "Gerwar" "Gosse" "Habo" "Haring" "Hathuward" "Hebetet" "Helibad" 
+	"Hessel" "Hobern" "Hoitet" "Hroðhard" "Hroðward" "Juw" "Liaftet" "Liudbad" "Liudbald" "Liudger" 
+	"Liudgod" "Liudulf" "Liudward" "Liuppo" "Lubbiko" "Magnus" "Meginbraht" "Meginhard" "Meginulf" "Meintet" 
+	"Menbold" "Menfrid" "Menger" "Menhard" "Menhold" "Meniko" "Mentet" "Menward" "Merulf" "Miginward" 
+	"Notheri" "Occo" "Odo" "Osnath" "Osnoð" "Popetet" "Poppo" "Raeddeg" "Rauantet" "Redbad" 
+	"Reginhard" "Reinbern" "Reinier" "Renhard" "Renward" "Riklef" "Rikwi" "Rodbern" "Saco" "Salaco" 
+	"Sibod" "Sibraht" "Sidei" "Sikke" "Silef" "Siward" "Siwi" "Sjoerd" "Sytse" "Taco" 
+	"Tadaco" "Tado" "Thancward" "Thankbern" "Thiadbold" "Thiadbrund" "Thiaddi" "Thiaderd" "Thiadulf" "Thiadward" 
+	"Thiadwi" "Thiedold" "Thonkrik" "Wambald" "Wening" "Wentet" "Wibad" "Wibraht" "Wibrund" "Wiftet" 
+	"Wigbald" "Wigerd" "Wihard" "Wilbrand" "Wilco" "Wiltet" "Wulfnoth" "Ygo" }
+monarch_names = {
+	"Welf #0" = 1
+	"Gisela #0" = -1
+	"Heribert #1" = 21
+	"Augustin #1" = 21
+	"Hartwig #0" = 1
+	"Kriemhild #0" = -1
+	"Ilsa #0" = -1
+	"Amalrich #0" = 1
+	"Helene #0" = -1
+	"Winfrida #0" = -1
+	"Isentrude #0" = -1
+	"Nils #1" = 0
+	"Haraldr #2" = 0
+	"Haukr #1" = 0
+	"Gunnarr #1" = 0
+	"Hrolfr #1" = 0
+	"Valdemar #2" = 0
+	"Ofeig #2" = 0
+	"Eginolf #1" = 0
+	"Adelbrik #0" = 0
+	"Aitet #0" = 0
+	"Aldgisl #0" = 0
+	"Audulf #0" = 0
+	"Auutet #0" = 0
+	"Avin #0" = 0
+	"Avo #0" = 0
+	"Avuko #0" = 0
+	"Avutet #0" = 0
+	"Bavo #0" = 0
+	"Bentet #0" = 0
+	"Bernhard #0" = 0
+	"Blekulf #0" = 0
+	"Blithulf #0" = 0
+	"Brunhard #0" = 0
+	"Bubo #0" = 0
+	"Bôio #0" = 0
+	"Edulf #0" = 0
+	"Egildeg #0" = 0
+	"Eilbern #0" = 0
+	"Eilherd #0" = 0
+	"Eilulf #0" = 0
+	"Eilward #0" = 0
+	"Eldei #0" = 0
+	"Elderd #0" = 0
+	"Elhard #0" = 0
+	"Engilbald #0" = 0
+	"Enhard #0" = 0
+	"Entet #0" = 0
+	"Esulf #0" = 0
+	"Euitet #0" = 0
+	"Euuerhard #0" = 0
+	"Eðelbern #0" = 0
+	"Eðelulf #0" = 0
+	"Eðelwi #0" = 0
+	"Focko #0" = 0
+	"Folcbald #0" = 0
+	"Folkbern #0" = 0
+	"Folkhard #0" = 0
+	"Folkward #0" = 0
+	"Frethirik #0" = 0
+	"Frethold #0" = 0
+	"Frethuhard #0" = 0
+	"Frethwi #0" = 0
+	"Frithunath #0" = 0
+	"Geldulf #0" = 0
+	"Geltet #0" = 0
+	"Gerbald #0" = 0
+	"Gerbrand #0" = 0
+	"Gerbruht #0" = 0
+	"Gerdeg #0" = 0
+	"Gerhard #0" = 0
+	"Gerold #0" = 0
+	"Gerulf #0" = 0
+	"Gerwar #0" = 0
+	"Gosse #0" = 0
+	"Habo #0" = 0
+	"Haring #0" = 0
+	"Hathuward #0" = 0
+	"Hebetet #0" = 0
+	"Helibad #0" = 0
+	"Hessel #0" = 0
+	"Hobern #0" = 0
+	"Hoitet #0" = 0
+	"Hroðhard #0" = 0
+	"Hroðward #0" = 0
+	"Juw #0" = 0
+	"Liaftet #0" = 0
+	"Liudbad #0" = 0
+	"Liudbald #0" = 0
+	"Liudger #0" = 0
+	"Liudgod #0" = 0
+	"Liudulf #0" = 0
+	"Liudward #0" = 0
+	"Liuppo #0" = 0
+	"Lubbiko #0" = 0
+	"Magnus #0" = 0
+	"Meginbraht #0" = 0
+	"Meginhard #0" = 0
+	"Meginulf #0" = 0
+	"Meintet #0" = 0
+	"Menbold #0" = 0
+	"Menfrid #0" = 0
+	"Menger #0" = 0
+	"Menhard #0" = 0
+	"Menhold #0" = 0
+	"Meniko #0" = 0
+	"Mentet #0" = 0
+	"Menward #0" = 0
+	"Merulf #0" = 0
+	"Miginward #0" = 0
+	"Notheri #0" = 0
+	"Occo #0" = 0
+	"Odo #0" = 0
+	"Osnath #0" = 0
+	"Osnoð #0" = 0
+	"Popetet #0" = 0
+	"Poppo #0" = 0
+	"Raeddeg #0" = 0
+	"Rauantet #0" = 0
+	"Redbad #0" = 0
+	"Reginhard #0" = 0
+	"Reinbern #0" = 0
+	"Reinier #0" = 0
+	"Renhard #0" = 0
+	"Renward #0" = 0
+	"Riklef #0" = 0
+	"Rikwi #0" = 0
+	"Rodbern #0" = 0
+	"Saco #0" = 0
+	"Salaco #0" = 0
+	"Sibod #0" = 0
+	"Sibraht #0" = 0
+	"Sidei #0" = 0
+	"Sikke #0" = 0
+	"Silef #0" = 0
+	"Siward #0" = 0
+	"Siwi #0" = 0
+	"Sjoerd #0" = 0
+	"Sytse #0" = 0
+	"Taco #0" = 0
+	"Tadaco #0" = 0
+	"Tado #0" = 0
+	"Thancward #0" = 0
+	"Thankbern #0" = 0
+	"Thiadbold #0" = 0
+	"Thiadbrund #0" = 0
+	"Thiaddi #0" = 0
+	"Thiaderd #0" = 0
+	"Thiadulf #0" = 0
+	"Thiadward #0" = 0
+	"Thiadwi #0" = 0
+	"Thiedold #0" = 0
+	"Thonkrik #0" = 0
+	"Wambald #0" = 0
+	"Wening #0" = 0
+	"Wentet #0" = 0
+	"Wibad #0" = 0
+	"Wibraht #0" = 0
+	"Wibrund #0" = 0
+	"Wiftet #0" = 0
+	"Wigbald #0" = 0
+	"Wigerd #0" = 0
+	"Wihard #0" = 0
+	"Wilbrand #0" = 0
+	"Wilco #0" = 0
+	"Wiltet #0" = 0
+	"Wulfnoth #0" = 0
+	"Ygo #0" = 0
+}
+ship_names = {
+	Adelaar Ajax Alkmaar Amelia Amsterdam Atalanta
+	Bantam Batavia Beschermer Brederode Brouwer Brutus
+	Campen Cerberus Comeestar
+	Daphne Delfland Delft "Den Swarten Raven" Delphin Deventer Duyfken
+	Eendracht Eenhorn Embuscade Engel Erasmus
+	Gaesterland "Gekroende Liefde" Gelijkheid Gouda "Gouden Arend" "Gouden Leeuw" "Groot Frisia" "Groote Sint Joris" "Grote Zon"
+	Haarlem Heldin Hercules "De Halve Maen" Hollandia "Hollandsche Tuyn" "Huis te Oosterwijk" "Huis te Zwieten" "Huys van Nassau"
+	"Jong Prins te Paard" Jupiter "Kleine Zon"
+	"Kleene Sint Joris" Komeeetster "Kronede Arend"
+	Leyden "Liefde van Hoorn"
+	"Maagd van Dordrecht" Mars Mauritius Middelburg Minerva Moon Monnikendam Muiderberg
+	Nassau "Nieuw Vlissingen" 
+	Olifant Onrust Ooievaar Oranje
+	Patientia Posthorn "Prins Friso" "Prins Willem" 
+	Rotterdam Rozendaal
+	Schakerloo Schermer Spiegel Staten-Generaal Statenlande Ster "St. Iago de Victoria" "St. Marten" "St. Matthuis"
+	Tholen Tyger 
+	"Vereenigde Provincieën" Vlissingen Vrede Vrijheid
+	Waakzaamheid "Walcheren" "Wapen van Holland" "Wapen van Medenblik" Wassenaar Winhond "Witte Leeuw" Woerden Zeerijp
+	"Zeven Provincien" Zierikzee Zon Zuidholland "Zwarte Leeuw" 
+}
+

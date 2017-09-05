@@ -1,0 +1,335 @@
+# Knights Hospitaller
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 180 180 180 }
+historical_idea_groups = {
+	naval_ideas
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Yani" "Yartilek" "Çiltanesi" "Ipek" "Çiçäk" "Dengizikh" "Tiradin" "Alp" "Organa" "Raphail" 
+	"Krum" "Yilig" "Çeçtilet" "Savtilek" "Konstancie" "Ornag" "Islivan" "Kätyarikka" "Kunhuta" "Karan" 
+	"Sarkhan" "Kamaj" "Závis" "Sibel" "Tähtaman" "Çeçeppi" "Gulay" "Paykëlti" "Iltäbär" "Sati" 
+	"Khatun" "Naça" "Bores" "Tura" "Buzan" "Drong" "Lärkka" "Guta" "Yabghu" "Karel" 
+	"Mutlu" "Zabergan" "Çeçki" "Gulçiçäk" "Odolgan" "Asli" "Peksen" "Timëreç" "Parsbit" "Guar" 
+	"Balambär" "Ayten" "Bulan" "Papaçyz" "Lyukha" "Okhsun" "Omurtag" "Sarikel" "Dizeng" "Sondoke" 
+	"Kardam" "Timër" "Tekçe" "Kaspar" "Pakhtiyar" "Boyan" "Bozçin" "Mala" "Këlyamal" "Çorpan" 
+	"Bihor" "Asparukh" "Telerig" "Yeldem" "Gunduz" "Usunbike" "Akgul" "Labertam" "Sirma" "Paväl" 
+	"Yasar" "Sartäç" "Yildiz" "Sirin" "Bastu" "Umay" "Chepa" "Shilki" "Özgul" "Bayan" 
+	"Almish" "Ikalay" "Ilkay" "Mänäs" "Barsbek" "Sarantay" "Okhsi" "Venda" "Samur" "Tähtani" 
+	"Baghatur" "Kurt" "Bertrand" "Isbul" "Mënümarót" "Savaçka" "Vakrim" "Kharaton" "Tingiz" "Dilek" 
+	"Batulia" "Praksa" "Savilay" "Gostun" "Pagan" "Karacik" "Böri" "Onegavon" "Bugha" "Sarä" 
+	"Puyantay" "Busir" "Krovat" "Ötemis" "Irnek" "Elemag" "Simsam" "Tervel" "Sandilkh" "Irge" 
+	"Kundaç" "Savin" "Rassate" "Gunes" "Kundaçiq" "Özlem" "Arrigo" "Burchard" "Toumas" "Anfroi" 
+	"Vilhjalmr" "Guiraud" "Herramel" "Gautier" "Adhémar" "Acfred" "Aimeric" "Alberic" "Albert" "Aldebert" 
+	"Alias" "Anfòs" "Amalric" "Amaneus" "Ancelmes" "André" "Archambaut" "Arnaut" "Artau" "Aton" 
+	"Audoïn" "Aymar" "Aymeric" "Aznar" "Barral" "Bartoumiéu" "Baudoïn" "Beneset" "Bérard" "Berenguié" 
+	"Bermond" "Bernat" "Bernat-Aton" "Bernat-Ezi" "Blasi" "Borel" "Boson" "Carles" "Clamenç" "Centolh" 
+	"Dàvi" "Dat" "Dodon" "Doumenge" "Duran" "Ebles" "Emmanuèl" "Enric" "Ermengau" "Estève" 
+	"Filip" "Ferrand" "Florènç" "Folquet" "Francés" "Frederi" "Garcia" "Gaston" "Gausbert" "Gilbèrt" 
+	"Girard" "Girvais" "Godafres" "Gui" "Guichard" "Guigues" "Guilhèm" "Guitart" "Ives" "Jacme" 
+	"Jaufret" "Joan" "Jordan" "Jorge" "Josselin" "Julian" "Laurènç" "Leon" "Loïs" "Loui" 
+	"Lop" "Marçau" "Martin" "Matfre" "Matias" "Milo" "Miquel" "Nicholaus" "Odon" "Otton" 
+	"Pèire" "Péire-Arnaut" "Péire-Raimond" "Peranudet" "Pol" "Pons" "Raimond" "Raimond-Berenguié" "Rainaut" "Rainer" 
+	"Raolf" "Ricard" "Robèrt" "Rogier" "Sancho" "Savarics" "Simon" "Tièrri" "Tibaud" "Ubald" 
+	"Ubert" "Uc" "Ugues" "Vézian" "Vicenç" }
+monarch_names = {
+	"Yani #0" = 1
+	"Yartilek #0" = -1
+	"Çiltanesi #0" = -1
+	"Ipek #0" = -1
+	"Çiçäk #0" = -1
+	"Dengizikh #0" = 1
+	"Tiradin #0" = 1
+	"Alp #0" = 1
+	"Organa #0" = 1
+	"Raphail #0" = 1
+	"Krum #0" = 1
+	"Yilig #0" = 1
+	"Çeçtilet #0" = -1
+	"Savtilek #0" = -1
+	"Konstancie #0" = -1
+	"Ornag #0" = 1
+	"Islivan #0" = 1
+	"Kätyarikka #0" = -1
+	"Kunhuta #0" = -1
+	"Karan #0" = 1
+	"Sarkhan #0" = 1
+	"Kamaj #0" = 1
+	"Závis #0" = 1
+	"Sibel #0" = -1
+	"Tähtaman #0" = 1
+	"Çeçeppi #0" = -1
+	"Gulay #0" = -1
+	"Paykëlti #0" = -1
+	"Iltäbär #0" = 1
+	"Sati #0" = -1
+	"Khatun #0" = -1
+	"Naça #0" = -1
+	"Bores #0" = 1
+	"Tura #0" = -1
+	"Buzan #0" = 1
+	"Drong #0" = 1
+	"Lärkka #0" = -1
+	"Guta #0" = -1
+	"Yabghu #0" = 1
+	"Karel #0" = 1
+	"Mutlu #0" = -1
+	"Zabergan #0" = 1
+	"Çeçki #0" = -1
+	"Gulçiçäk #0" = -1
+	"Odolgan #0" = 1
+	"Asli #0" = -1
+	"Peksen #0" = -1
+	"Timëreç #0" = 1
+	"Parsbit #0" = -1
+	"Guar #0" = 1
+	"Balambär #0" = 1
+	"Ayten #0" = -1
+	"Bulan #0" = 1
+	"Papaçyz #1" = 18
+	"Lyukha #0" = -1
+	"Okhsun #0" = 1
+	"Omurtag #0" = 1
+	"Sarikel #0" = -1
+	"Dizeng #0" = 1
+	"Sondoke #0" = 1
+	"Kardam #0" = 1
+	"Timër #0" = 1
+	"Tekçe #0" = -1
+	"Kaspar #0" = 1
+	"Pakhtiyar #0" = 1
+	"Boyan #0" = 1
+	"Bozçin #0" = -1
+	"Mala #0" = -1
+	"Këlyamal #0" = -1
+	"Çorpan #0" = 1
+	"Bihor #0" = 1
+	"Asparukh #0" = 1
+	"Telerig #0" = 1
+	"Yeldem #0" = -1
+	"Gunduz #0" = -1
+	"Usunbike #0" = -1
+	"Akgul #0" = -1
+	"Labertam #0" = 1
+	"Sirma #0" = -1
+	"Paväl #0" = 1
+	"Yasar #0" = -1
+	"Sartäç #0" = 1
+	"Yildiz #0" = -1
+	"Sirin #0" = -1
+	"Bastu #0" = 1
+	"Umay #0" = -1
+	"Chepa #0" = 1
+	"Shilki #0" = 1
+	"Özgul #0" = -1
+	"Bayan #0" = 1
+	"Almish #0" = 1
+	"Ikalay #0" = -1
+	"Ilkay #0" = -1
+	"Mänäs #0" = 1
+	"Barsbek #0" = 1
+	"Sarantay #0" = -1
+	"Okhsi #0" = 1
+	"Venda #0" = 1
+	"Samur #0" = -1
+	"Tähtani #0" = -1
+	"Baghatur #0" = 1
+	"Kurt #0" = 1
+	"Bertrand #0" = 1
+	"Isbul #0" = 1
+	"Mënümarót #0" = 1
+	"Savaçka #0" = -1
+	"Vakrim #0" = 1
+	"Kharaton #0" = 1
+	"Tingiz #0" = 1
+	"Dilek #0" = -1
+	"Batulia #0" = 1
+	"Praksa #0" = 1
+	"Savilay #0" = -1
+	"Gostun #0" = 1
+	"Pagan #0" = 1
+	"Karacik #0" = -1
+	"Böri #0" = 1
+	"Onegavon #0" = 1
+	"Bugha #0" = 1
+	"Sarä #0" = -1
+	"Puyantay #0" = -1
+	"Busir #0" = 1
+	"Krovat #0" = 1
+	"Ötemis #0" = 1
+	"Irnek #0" = 1
+	"Elemag #0" = 1
+	"Simsam #0" = 1
+	"Tervel #0" = 1
+	"Sandilkh #0" = 1
+	"Irge #0" = -1
+	"Kundaç #0" = 1
+	"Savin #0" = 1
+	"Rassate #0" = 1
+	"Gunes #0" = -1
+	"Kundaçiq #0" = 1
+	"Özlem #0" = -1
+	"Arrigo #1" = 0
+	"Burchard #1" = 0
+	"Toumas #1" = 0
+	"Anfroi #1" = 0
+	"Vilhjalmr #1" = 0
+	"Guiraud #1" = 0
+	"Herramel #1" = 0
+	"Gautier #1" = 0
+	"Adhémar #0" = 0
+	"Acfred #0" = 0
+	"Aimeric #0" = 0
+	"Alberic #0" = 0
+	"Albert #0" = 0
+	"Aldebert #0" = 0
+	"Alias #0" = 0
+	"Anfòs #0" = 0
+	"Amalric #0" = 0
+	"Amaneus #0" = 0
+	"Ancelmes #0" = 0
+	"André #0" = 0
+	"Archambaut #0" = 0
+	"Arnaut #0" = 0
+	"Artau #0" = 0
+	"Aton #0" = 0
+	"Audoïn #0" = 0
+	"Aymar #0" = 0
+	"Aymeric #0" = 0
+	"Aznar #0" = 0
+	"Barral #0" = 0
+	"Bartoumiéu #0" = 0
+	"Baudoïn #0" = 0
+	"Beneset #0" = 0
+	"Bérard #0" = 0
+	"Berenguié #0" = 0
+	"Bermond #0" = 0
+	"Bernat #0" = 0
+	"Bernat-Aton #0" = 0
+	"Bernat-Ezi #0" = 0
+	"Blasi #0" = 0
+	"Borel #0" = 0
+	"Boson #0" = 0
+	"Carles #0" = 0
+	"Clamenç #0" = 0
+	"Centolh #0" = 0
+	"Dàvi #0" = 0
+	"Dat #0" = 0
+	"Dodon #0" = 0
+	"Doumenge #0" = 0
+	"Duran #0" = 0
+	"Ebles #0" = 0
+	"Emmanuèl #0" = 0
+	"Enric #0" = 0
+	"Ermengau #0" = 0
+	"Estève #0" = 0
+	"Filip #0" = 0
+	"Ferrand #0" = 0
+	"Florènç #0" = 0
+	"Folquet #0" = 0
+	"Francés #0" = 0
+	"Frederi #0" = 0
+	"Garcia #0" = 0
+	"Gaston #0" = 0
+	"Gausbert #0" = 0
+	"Gilbèrt #0" = 0
+	"Girard #0" = 0
+	"Girvais #0" = 0
+	"Godafres #0" = 0
+	"Gui #0" = 0
+	"Guichard #0" = 0
+	"Guigues #0" = 0
+	"Guilhèm #0" = 0
+	"Guitart #0" = 0
+	"Ives #0" = 0
+	"Jacme #0" = 0
+	"Jaufret #0" = 0
+	"Joan #0" = 0
+	"Jordan #0" = 0
+	"Jorge #0" = 0
+	"Josselin #0" = 0
+	"Julian #0" = 0
+	"Laurènç #0" = 0
+	"Leon #0" = 0
+	"Loïs #0" = 0
+	"Loui #0" = 0
+	"Lop #0" = 0
+	"Marçau #0" = 0
+	"Martin #0" = 0
+	"Matfre #0" = 0
+	"Matias #0" = 0
+	"Milo #0" = 0
+	"Miquel #0" = 0
+	"Nicholaus #0" = 0
+	"Odon #0" = 0
+	"Otton #0" = 0
+	"Pèire #0" = 0
+	"Péire-Arnaut #0" = 0
+	"Péire-Raimond #0" = 0
+	"Peranudet #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Raimond #0" = 0
+	"Raimond-Berenguié #0" = 0
+	"Rainaut #0" = 0
+	"Rainer #0" = 0
+	"Raolf #0" = 0
+	"Ricard #0" = 0
+	"Robèrt #0" = 0
+	"Rogier #0" = 0
+	"Sancho #0" = 0
+	"Savarics #0" = 0
+	"Simon #0" = 0
+	"Tièrri #0" = 0
+	"Tibaud #0" = 0
+	"Ubald #0" = 0
+	"Ubert #0" = 0
+	"Uc #0" = 0
+	"Ugues #0" = 0
+	"Vézian #0" = 0
+	"Vicenç #0" = 0
+}
+ship_names = {
+	"The Blessed Gerard"
+	"Raymond du Puy de Provence"
+	"Auger de Balben"
+	"Arnaud de Comps"
+	"Gilbert d'Aissailly"
+	"Gastone de Murols"
+	"Gilbert of Syria"
+	"Roger de Moulins"
+	"Hélion de Villeneuve"
+	"Hermangard d'Asp"
+	"Garnier de Naplous"
+	"Geoffroy de Donjon"
+	"Alfonse of Portugal"
+	"Geoffrey le Rat"
+}
+

@@ -1,0 +1,25 @@
+# Lithuania
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = norse
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1841
+1438.3.2 = {
+	monarch = {
+		name = "Bersi"
+		birth_date = 1421.3.8
+		dynasty = "Hrothgar"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 1841
+	add_treasury = -3
+	add_prestige = 488
+}

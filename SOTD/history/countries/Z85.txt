@@ -1,0 +1,23 @@
+# Mari
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
+capital = 1083
+1441.8.12 = {
+	monarch = {
+		name = "Tylmache"
+		birth_date = 1429.10.28
+		dynasty = "Muromid"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1083
+	add_treasury = 20
+	add_prestige = 54
+}

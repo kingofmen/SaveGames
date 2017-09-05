@@ -1,0 +1,33 @@
+# Ishim
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cuman
+religion = tengri_pagan_reformed
+capital = 2357
+1442.8.13 = {
+	monarch = {
+		name = "Kobyak"
+		birth_date = 1421.4.6
+		dynasty = "Kubasarid"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	heir = {
+		name = "Togli"
+		monarch_name = "Togli"
+		dynasty = "Kubasarid"
+		birth_date = 1425.1.6
+		death_date = 1505.1.6
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+1444.11.11 = {
+	capital = 2357
+	add_treasury = 32
+	add_prestige = 11
+}

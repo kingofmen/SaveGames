@@ -1,0 +1,38 @@
+# Mértola
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = visigothic
+religion = catholic
+clear_scripted_personalities = yes
+capital = 229
+1422.6.15 = {
+	monarch = {
+		name = "Archibald"
+		birth_date = 1418.8.1
+		dynasty = "a' Phearsain"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1436.6.5 = {
+	heir = {
+		name = "Edgar"
+		monarch_name = "Edgar"
+		dynasty = "a' Phearsain"
+		birth_date = 1436.6.5
+		death_date = 1516.6.5
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 229
+	add_treasury = 17
+	add_prestige = 20
+}

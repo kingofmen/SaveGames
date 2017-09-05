@@ -1,0 +1,287 @@
+# Ferrara
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 244 180 130 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	naval_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Serafino" "Abbondanzio" "Alessandra" "Patrizio" "Giolio" "Lucinetta" "Albina" "Creat" "Folco" "Sinibaldo" 
+	"Salinguerra" "Virginio" "Riccardo" "Abrahil" "Abram" "Adalbald" "Adalbert" "Adalgari" "Adalgrim" "Aegidius" 
+	"Ageric" "Agilbert" "Agiulf" "Ailbert" "Albric" "Aldedramn" "Andica" "Ansovald" "Arcambald" "Aregisel" 
+	"Arnegisel" "Arnulf" "Ascaric" "Audovald" "Austregisel" "Autbert" "Autgari" "Autgeri" "Avremar" "Badegisel" 
+	"Balduin" "Barnard" "Berald" "Bernard" "Berneri" "Bero" "Berold" "Berthefried" "Bertlin" "Bertram" 
+	"Bertrand" "Burchard" "Karloman" "Ceslin" "Chararic" "Charibert" "Childebert" "Childeric" "Chilperic" "Chlodomer" 
+	"Chlothar" "Chramnesind" "Clodio" "Clodion" "Clovis" "Dagaric" "Dagobert" "Drogo" "Eberulf" "Ebregisel" 
+	"Engilbert" "Euric" "Everard" "Faroard" "Faroin" "Feremund" "Feroard" "Foroen" "Frobert" "Frotari" 
+	"Frothard" "Frothari" "Frotlaic" "Fulcari" "Fulcrad" "Galteri" "Gararic" "Garivald" "Gaucelm" "Gaudulf" 
+	"Gaujoin" "Gausbert" "Gausbold" "Gautmar" "Gauzbert" "Gedalbert" "Gedalca" "Genobaud" "Gerbert" "Gerhard" 
+	"Gerold" "Gislari" "Gislevert" "Gocelm" "Godalbert" "Godomar" "Gozhelm" "Grimald" "Guadulf" "Gualtari" 
+	"Gualter" "Guillabert" "Guitard" "Gundobad" "Gunthar" "Guntram" "Haldemar" "Hartmut" "Hildebald" "Hildebold" 
+	"Hildegaud" "Hildevold" "Hildoin" "Hucbert" "Hugbert" "Imnachar" "Ingalbert" "Ingomer" "Karl" "Lambert" 
+	"Lantbert" "Leudast" "Lothar" "Magnachar" "Magneric" "Mainard" "Mallobaudes" "Marachar" "Marcomer" "Marell" 
+	"Martin" "Maurifi" "Meginhard" "Merogais" "Merovech" "Munderic" "Niebelung" "Odelric" "Odolric" "Otbert" 
+	"Otgeri" "Otker" "Pepin" "Pharamond" "Pippin" "Radulf" "Ragambald" "Ragena" "Ragenard" "Raginari" 
+	"Ragnachar" "Ragnald" "Ragno" "Raimbold" "Rainald" "Ramnulf" "Rathar" "Raynold" "Reginari" "Ricchar" 
+	"Rignomer" "Roland" "Robert" "Rotbert" "Segoin" "Seguin" "Sicbald" "Sichar" "Sicland" "Sicleard" 
+	"Siclevold" "Sigebald" "Sigebert" "Sigeric" "Sigismund" "Sigobert" "Sinop" "Sunnegisil" "Sunno" "Tancrad" 
+	"Tancred" "Tassilo" "Teotbert" "Tetbert" "Teutbald" "Teutbert" "Theoderic" "Theoric" "Theudebald" "Theudemeres" 
+	"Theuderic" "Theudoald" "Theutbald" "Trutgaud" "Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" 
+	"Wilbert" "Willichar" "Wolfari" }
+monarch_names = {
+	"Serafino #0" = 1
+	"Abbondanzio #2" = 24
+	"Alessandra #0" = -1
+	"Patrizio #0" = 1
+	"Giolio #0" = 1
+	"Lucinetta #0" = -1
+	"Albina #0" = -1
+	"Creat #0" = 1
+	"Folco #0" = 1
+	"Sinibaldo #1" = 0
+	"Salinguerra #1" = 0
+	"Virginio #1" = 0
+	"Riccardo #1" = 0
+	"Abrahil #0" = 0
+	"Abram #0" = 0
+	"Adalbald #0" = 0
+	"Adalbert #0" = 0
+	"Adalgari #0" = 0
+	"Adalgrim #0" = 0
+	"Aegidius #0" = 0
+	"Ageric #0" = 0
+	"Agilbert #0" = 0
+	"Agiulf #0" = 0
+	"Ailbert #0" = 0
+	"Albric #0" = 0
+	"Aldedramn #0" = 0
+	"Andica #0" = 0
+	"Ansovald #0" = 0
+	"Arcambald #0" = 0
+	"Aregisel #0" = 0
+	"Arnegisel #0" = 0
+	"Arnulf #0" = 0
+	"Ascaric #0" = 0
+	"Audovald #0" = 0
+	"Austregisel #0" = 0
+	"Autbert #0" = 0
+	"Autgari #0" = 0
+	"Autgeri #0" = 0
+	"Avremar #0" = 0
+	"Badegisel #0" = 0
+	"Balduin #0" = 0
+	"Barnard #0" = 0
+	"Berald #0" = 0
+	"Bernard #0" = 0
+	"Berneri #0" = 0
+	"Bero #0" = 0
+	"Berold #0" = 0
+	"Berthefried #0" = 0
+	"Bertlin #0" = 0
+	"Bertram #0" = 0
+	"Bertrand #0" = 0
+	"Burchard #0" = 0
+	"Karloman #0" = 0
+	"Ceslin #0" = 0
+	"Chararic #0" = 0
+	"Charibert #0" = 0
+	"Childebert #0" = 0
+	"Childeric #0" = 0
+	"Chilperic #0" = 0
+	"Chlodomer #0" = 0
+	"Chlothar #0" = 0
+	"Chramnesind #0" = 0
+	"Clodio #0" = 0
+	"Clodion #0" = 0
+	"Clovis #0" = 0
+	"Dagaric #0" = 0
+	"Dagobert #0" = 0
+	"Drogo #0" = 0
+	"Eberulf #0" = 0
+	"Ebregisel #0" = 0
+	"Engilbert #0" = 0
+	"Euric #0" = 0
+	"Everard #0" = 0
+	"Faroard #0" = 0
+	"Faroin #0" = 0
+	"Feremund #0" = 0
+	"Feroard #0" = 0
+	"Foroen #0" = 0
+	"Frobert #0" = 0
+	"Frotari #0" = 0
+	"Frothard #0" = 0
+	"Frothari #0" = 0
+	"Frotlaic #0" = 0
+	"Fulcari #0" = 0
+	"Fulcrad #0" = 0
+	"Galteri #0" = 0
+	"Gararic #0" = 0
+	"Garivald #0" = 0
+	"Gaucelm #0" = 0
+	"Gaudulf #0" = 0
+	"Gaujoin #0" = 0
+	"Gausbert #0" = 0
+	"Gausbold #0" = 0
+	"Gautmar #0" = 0
+	"Gauzbert #0" = 0
+	"Gedalbert #0" = 0
+	"Gedalca #0" = 0
+	"Genobaud #0" = 0
+	"Gerbert #0" = 0
+	"Gerhard #0" = 0
+	"Gerold #0" = 0
+	"Gislari #0" = 0
+	"Gislevert #0" = 0
+	"Gocelm #0" = 0
+	"Godalbert #0" = 0
+	"Godomar #0" = 0
+	"Gozhelm #0" = 0
+	"Grimald #0" = 0
+	"Guadulf #0" = 0
+	"Gualtari #0" = 0
+	"Gualter #0" = 0
+	"Guillabert #0" = 0
+	"Guitard #0" = 0
+	"Gundobad #0" = 0
+	"Gunthar #0" = 0
+	"Guntram #0" = 0
+	"Haldemar #0" = 0
+	"Hartmut #0" = 0
+	"Hildebald #0" = 0
+	"Hildebold #0" = 0
+	"Hildegaud #0" = 0
+	"Hildevold #0" = 0
+	"Hildoin #0" = 0
+	"Hucbert #0" = 0
+	"Hugbert #0" = 0
+	"Imnachar #0" = 0
+	"Ingalbert #0" = 0
+	"Ingomer #0" = 0
+	"Karl #0" = 0
+	"Lambert #0" = 0
+	"Lantbert #0" = 0
+	"Leudast #0" = 0
+	"Lothar #0" = 0
+	"Magnachar #0" = 0
+	"Magneric #0" = 0
+	"Mainard #0" = 0
+	"Mallobaudes #0" = 0
+	"Marachar #0" = 0
+	"Marcomer #0" = 0
+	"Marell #0" = 0
+	"Martin #0" = 0
+	"Maurifi #0" = 0
+	"Meginhard #0" = 0
+	"Merogais #0" = 0
+	"Merovech #0" = 0
+	"Munderic #0" = 0
+	"Niebelung #0" = 0
+	"Odelric #0" = 0
+	"Odolric #0" = 0
+	"Otbert #0" = 0
+	"Otgeri #0" = 0
+	"Otker #0" = 0
+	"Pepin #0" = 0
+	"Pharamond #0" = 0
+	"Pippin #0" = 0
+	"Radulf #0" = 0
+	"Ragambald #0" = 0
+	"Ragena #0" = 0
+	"Ragenard #0" = 0
+	"Raginari #0" = 0
+	"Ragnachar #0" = 0
+	"Ragnald #0" = 0
+	"Ragno #0" = 0
+	"Raimbold #0" = 0
+	"Rainald #0" = 0
+	"Ramnulf #0" = 0
+	"Rathar #0" = 0
+	"Raynold #0" = 0
+	"Reginari #0" = 0
+	"Ricchar #0" = 0
+	"Rignomer #0" = 0
+	"Roland #0" = 0
+	"Robert #0" = 0
+	"Rotbert #0" = 0
+	"Segoin #0" = 0
+	"Seguin #0" = 0
+	"Sicbald #0" = 0
+	"Sichar #0" = 0
+	"Sicland #0" = 0
+	"Sicleard #0" = 0
+	"Siclevold #0" = 0
+	"Sigebald #0" = 0
+	"Sigebert #0" = 0
+	"Sigeric #0" = 0
+	"Sigismund #0" = 0
+	"Sigobert #0" = 0
+	"Sinop #0" = 0
+	"Sunnegisil #0" = 0
+	"Sunno #0" = 0
+	"Tancrad #0" = 0
+	"Tancred #0" = 0
+	"Tassilo #0" = 0
+	"Teotbert #0" = 0
+	"Tetbert #0" = 0
+	"Teutbald #0" = 0
+	"Teutbert #0" = 0
+	"Theoderic #0" = 0
+	"Theoric #0" = 0
+	"Theudebald #0" = 0
+	"Theudemeres #0" = 0
+	"Theuderic #0" = 0
+	"Theudoald #0" = 0
+	"Theutbald #0" = 0
+	"Trutgaud #0" = 0
+	"Vuitard #0" = 0
+	"Vulfari #0" = 0
+	"Vulframn #0" = 0
+	"Vulvari #0" = 0
+	"Waltgaud #0" = 0
+	"Werinbert #0" = 0
+	"Wilbert #0" = 0
+	"Willichar #0" = 0
+	"Wolfari #0" = 0
+
+
+	"Bertrada #0" = -1
+	"Sadalberga #0" = -1
+}
+ship_names = {
+	Medea Vulcano Gloria Minerva Laatea
+	Diligenza Vittoria Eolo Concordia Forza 
+	Fama Sirena Falcon Ercole Idra "San Andrea"
+	"San Zaccaria" "San Spiridon" "San Gaetano"
+	"Fortuna Guerriera" Terror Aquileta Constanza
+	"Regina del Mar" "San Nicolo" Nettuno Rosa
+	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
+	"Amazzone Guerriera"
+}
+

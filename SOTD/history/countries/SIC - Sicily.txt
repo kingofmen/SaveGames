@@ -1,0 +1,25 @@
+# Sicily
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 125
+1433.3.24 = {
+	monarch = {
+		name = "Giuseppe"
+		birth_date = 1401.9.25
+		dynasty = "Boyardee"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 125
+	add_treasury = 30
+	add_prestige = 302
+}

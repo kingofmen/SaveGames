@@ -1,0 +1,35 @@
+# Samanid
+government = despotic_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 441
+1435.4.15 = {
+	monarch = {
+		name = "Dariush"
+		birth_date = 1409.4.19
+		dynasty = "Samanid"
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Mahmud"
+		monarch_name = "Mahmud"
+		dynasty = "Samanid"
+		birth_date = 1421.7.20
+		death_date = 1501.7.20
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	capital = 441
+	add_treasury = 82
+	add_prestige = 346
+}

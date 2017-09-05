@@ -1,0 +1,25 @@
+# Germany
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 57
+1437.9.4 = {
+	monarch = {
+		name = "Alonso"
+		birth_date = 1425.8.22
+		dynasty = "von Britannia"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 57
+	add_treasury = 11
+	add_prestige = 330
+}

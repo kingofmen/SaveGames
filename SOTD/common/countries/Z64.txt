@@ -1,0 +1,246 @@
+# Capua
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 240 209 100 }
+historical_idea_groups = {
+	naval_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	religious_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Kriemhild" "Birinus" "Ansia" "Manso" "Hermenfred" "Thiudigotho" "Geila" "Wechthari" "Glismoda" "Aimeric" 
+	"Gundeperga" "Unichis" "Taino" "Amefrith" "Liutpirc" "Aunepert" "Ausfrid" "Walthari" "Walderada" "Giso" 
+	"Hunila" "Wido" "Theodarada" "Menia" "Gaatha" "Areagne" "Adalgis" "Adaloald" "Adhemar" "Ado" 
+	"Agelmund" "Agilof" "Agilulf" "Agiprand" "Ago" "Ahthari" "Aistulf" "Aiulf" "Ajo" "Alahis" 
+	"Alboin" "Aldihoc" "Alo" "Altpert" "Anselm" "Ansfrid" "Ansfrith" "Ansprand" "Ardoin" "Arechis" 
+	"Ariald" "Aribert" "Arichis" "Aripert" "Ariulf" "Arnefrith" "Arnifrid" "Artavasdas" "Atenulf" "Atto" 
+	"Audelahis" "Audoin" "Authari" "Berin" "Bernard" "Cleph" "Corvulus" "Daufer" "Desiderius" "Donnolo" 
+	"Erchempert" "Erchinoald" "Erlembald" "Ewin" "Fara" "Faroald" "Ferdulf" "Gacco" "Garibald" "Gisulf" 
+	"Godehoc" "Godepert" "Godescalc" "Grasulf" "Grimoald" "Guaifer" "Guaimar" "Gumpert" "Gundo" "Gundoald" 
+	"Hildeprand" "Hilderic" "Hildigis" "Hilmagis" "Hrodgaud" "Hucpert" "Ibor" "Ildiches" "Indulf" "Ingoald" 
+	"Ioann" "Irnerius" "Kakko" "Kunibert" "Laiamicho" "Laidulf" "Lambert" "Landari" "Landenulf" "Lando" 
+	"Landulf" "Lantpert" "Laudari" "Liutbald" "Liutbrand" "Liutpert" "Liutprand" "Liutward" "Lupus" "Maginulf" 
+	"Munichis" "Nordepert" "Odilo" "Odoaker" "Odoin" "Orson" "Pandenulf" "Pandulf" "Pemmo" "Penno" 
+	"Perctarit" "Petrus" "Poppo" "Radelchis" "Radelgar" "Radgis" "Radwald" "Raginpert" "Ratchis" "Reccared" 
+	"Risiulf" "Rochus" "Rodgand" "Rodoald" "Rodolf" "Rodwald" "Romuald" "Rothari" "Saxo" "Sico" 
+	"Siconulf" "Sigibuld" "Sigisbert" "Sigisbrand" "Sikard" "Sinibald" "Taso" "Theodelap" "Theoderich" "Theodicius" 
+	"Theodo" "Theodorich" "Theotpert" "Theudoald" "Thrasimund" "Unigild" "Unulf" "Ursus" "Vacho" "Waifar" 
+	"Waimar" "Waldchis" "Waldipert" "Zotto" "Zuchilo" }
+monarch_names = {
+	"Kriemhild #0" = -1
+	"Birinus #0" = 1
+	"Ansia #0" = -1
+	"Manso #3" = 27
+	"Hermenfred #0" = 1
+	"Thiudigotho #0" = -1
+	"Geila #0" = -1
+	"Wechthari #0" = 1
+	"Glismoda #0" = -1
+	"Aimeric #0" = 1
+	"Gundeperga #0" = -1
+	"Unichis #0" = 1
+	"Taino #0" = 1
+	"Amefrith #1" = 18
+	"Liutpirc #0" = -1
+	"Aunepert #0" = 1
+	"Ausfrid #0" = 1
+	"Walthari #0" = 1
+	"Walderada #0" = -1
+	"Giso #0" = -1
+	"Hunila #0" = -1
+	"Wido #0" = 1
+	"Theodarada #0" = -1
+	"Menia #0" = -1
+	"Gaatha #0" = -1
+	"Areagne #0" = -1
+	"Adalgis #0" = 0
+	"Adaloald #0" = 0
+	"Adhemar #0" = 0
+	"Ado #0" = 0
+	"Agelmund #0" = 0
+	"Agilof #0" = 0
+	"Agilulf #0" = 0
+	"Agiprand #0" = 0
+	"Ago #0" = 0
+	"Ahthari #0" = 0
+	"Aistulf #0" = 0
+	"Aiulf #0" = 0
+	"Ajo #0" = 0
+	"Alahis #0" = 0
+	"Alboin #0" = 0
+	"Aldihoc #0" = 0
+	"Alo #0" = 0
+	"Altpert #0" = 0
+	"Anselm #0" = 0
+	"Ansfrid #0" = 0
+	"Ansfrith #0" = 0
+	"Ansprand #0" = 0
+	"Ardoin #0" = 0
+	"Arechis #0" = 0
+	"Ariald #0" = 0
+	"Aribert #0" = 0
+	"Arichis #0" = 0
+	"Aripert #0" = 0
+	"Ariulf #0" = 0
+	"Arnefrith #0" = 0
+	"Arnifrid #0" = 0
+	"Artavasdas #0" = 0
+	"Atenulf #0" = 0
+	"Atto #0" = 0
+	"Audelahis #0" = 0
+	"Audoin #0" = 0
+	"Authari #0" = 0
+	"Berin #0" = 0
+	"Bernard #0" = 0
+	"Cleph #0" = 0
+	"Corvulus #0" = 0
+	"Daufer #0" = 0
+	"Desiderius #0" = 0
+	"Donnolo #0" = 0
+	"Erchempert #0" = 0
+	"Erchinoald #0" = 0
+	"Erlembald #0" = 0
+	"Ewin #0" = 0
+	"Fara #0" = 0
+	"Faroald #0" = 0
+	"Ferdulf #0" = 0
+	"Gacco #0" = 0
+	"Garibald #0" = 0
+	"Gisulf #0" = 0
+	"Godehoc #0" = 0
+	"Godepert #0" = 0
+	"Godescalc #0" = 0
+	"Grasulf #0" = 0
+	"Grimoald #0" = 0
+	"Guaifer #0" = 0
+	"Guaimar #0" = 0
+	"Gumpert #0" = 0
+	"Gundo #0" = 0
+	"Gundoald #0" = 0
+	"Hildeprand #0" = 0
+	"Hilderic #0" = 0
+	"Hildigis #0" = 0
+	"Hilmagis #0" = 0
+	"Hrodgaud #0" = 0
+	"Hucpert #0" = 0
+	"Ibor #0" = 0
+	"Ildiches #0" = 0
+	"Indulf #0" = 0
+	"Ingoald #0" = 0
+	"Ioann #0" = 0
+	"Irnerius #0" = 0
+	"Kakko #0" = 0
+	"Kunibert #0" = 0
+	"Laiamicho #0" = 0
+	"Laidulf #0" = 0
+	"Lambert #0" = 0
+	"Landari #0" = 0
+	"Landenulf #0" = 0
+	"Lando #0" = 0
+	"Landulf #0" = 0
+	"Lantpert #0" = 0
+	"Laudari #0" = 0
+	"Liutbald #0" = 0
+	"Liutbrand #0" = 0
+	"Liutpert #0" = 0
+	"Liutprand #0" = 0
+	"Liutward #0" = 0
+	"Lupus #0" = 0
+	"Maginulf #0" = 0
+	"Munichis #0" = 0
+	"Nordepert #0" = 0
+	"Odilo #0" = 0
+	"Odoaker #0" = 0
+	"Odoin #0" = 0
+	"Orson #0" = 0
+	"Pandenulf #0" = 0
+	"Pandulf #0" = 0
+	"Pemmo #0" = 0
+	"Penno #0" = 0
+	"Perctarit #0" = 0
+	"Petrus #0" = 0
+	"Poppo #0" = 0
+	"Radelchis #0" = 0
+	"Radelgar #0" = 0
+	"Radgis #0" = 0
+	"Radwald #0" = 0
+	"Raginpert #0" = 0
+	"Ratchis #0" = 0
+	"Reccared #0" = 0
+	"Risiulf #0" = 0
+	"Rochus #0" = 0
+	"Rodgand #0" = 0
+	"Rodoald #0" = 0
+	"Rodolf #0" = 0
+	"Rodwald #0" = 0
+	"Romuald #0" = 0
+	"Rothari #0" = 0
+	"Saxo #0" = 0
+	"Sico #0" = 0
+	"Siconulf #0" = 0
+	"Sigibuld #0" = 0
+	"Sigisbert #0" = 0
+	"Sigisbrand #0" = 0
+	"Sikard #0" = 0
+	"Sinibald #0" = 0
+	"Taso #0" = 0
+	"Theodelap #0" = 0
+	"Theoderich #0" = 0
+	"Theodicius #0" = 0
+	"Theodo #0" = 0
+	"Theodorich #0" = 0
+	"Theotpert #0" = 0
+	"Theudoald #0" = 0
+	"Thrasimund #0" = 0
+	"Unigild #0" = 0
+	"Unulf #0" = 0
+	"Ursus #0" = 0
+	"Vacho #0" = 0
+	"Waifar #0" = 0
+	"Waimar #0" = 0
+	"Waldchis #0" = 0
+	"Waldipert #0" = 0
+	"Zotto #0" = 0
+	"Zuchilo #0" = 0
+}
+ship_names = {
+	Agatobles Altavilla Apollo Archimede Audaze Borbone
+	Calabria Capitana Diana Disttrutore Drago
+	Ercole Etna "Federigo Barbarossa" Folgorante Fulminante
+	Generoso Guiscardo Hohenstaufen Idra Invencibile L'Aretusa Jupiter
+	"Maria Inmacolata" Marte Mercurio Messaggero Minerva
+	Napoli Navigante Nettuno Palinuro Partenope Pegaso 
+	Peloro Plutone Puglia "Purissima Concezione"
+	"Re Carlo" "Re Federigo" "Re Ferrante" "Regina dei Mari"
+	"S.Francesco d'Assisi" Saetta "San Antonio" "San Carlo"
+	"San Ferdinando" "San Vito" Sannita "Santa Amalia" "Santa Helena"
+	"Santa Lucia" "Santa Wenfrida" Sant'Agata Sant'Agatone
+	Sibilla Sicilia Sirena Tancredi Veloce
+}
+

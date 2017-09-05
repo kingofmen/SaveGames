@@ -1,0 +1,23 @@
+# Salerno
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+capital = 2983
+1443.10.16 = {
+	monarch = {
+		name = "Astorre"
+		birth_date = 1439.1.10
+		dynasty = "di Rapallo"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2983
+	add_treasury = 2
+	add_prestige = 60
+}

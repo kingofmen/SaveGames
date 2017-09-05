@@ -1,0 +1,23 @@
+# Armeniacon
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = sunni
+capital = 328
+1425.5.16 = {
+	monarch = {
+		name = "Vahram"
+		birth_date = 1396.4.2
+		dynasty = "Varajnuni"
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 328
+	add_treasury = 14
+	add_prestige = 59
+}

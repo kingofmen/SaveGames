@@ -1,0 +1,36 @@
+# Akbarid
+government = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 451
+1434.1.25 = {
+	monarch = {
+		name = "Bahman"
+		birth_date = 1402.12.2
+		dynasty = "Akbarid"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Jahanshah"
+		monarch_name = "Jahanshah"
+		dynasty = "Akbarid"
+		birth_date = 1425.3.19
+		death_date = 1505.3.19
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 451
+	add_treasury = -11
+	add_prestige = 174
+}

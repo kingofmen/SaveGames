@@ -1,0 +1,87 @@
+# Vitebsk
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 75 125 6 }
+
+
+
+
+leader_names = {
+
+	"Radoslav" "Volodar" "Gellért" "Fevronia" "Boleslava" "Svetozar" "Iliya" "Yelisey" "Vsevolod" "Mitrofan" 
+	"Pribislava" "Matfei" "Rostislava" "Fedot" "Praskovya" "Igor" "Yevstafiy" "Predslava" "Maria" "Rostislav" 
+	"Feodora" "Frirek" "Hroðulfr" "Yefrosinia" "Yefimia" "Yefimiy" "Sofia" "Rogneda" "Dobrava" "Verkhoslava" 
+	"Premyslava" "Zvenislava" "Vseslava" "Putiata" "Darya" "Vseslav" "Yelizaveta" "Feodor" "Ruslan" "Gremislava" 
+	"Malfrida" "Vasilisa" "Sviatopolk" "Briachislav" "Demid" "Dobrynia" "Gleb" "Iziaslav" "Lev" "Mstislav" 
+	"Nikita" "Rodislav" "Rogvolod" "Stanislav" "Sudislav" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" 
+	"Vladislav" "Voislav" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Yeremey" }
+monarch_names = {
+	"Radoslav #0" = 1
+	"Volodar #0" = 1
+	"Gellért #0" = 1
+	"Fevronia #0" = -1
+	"Boleslava #0" = -1
+	"Svetozar #0" = 1
+	"Iliya #0" = 1
+	"Yelisey #0" = 1
+	"Vsevolod #0" = 1
+	"Mitrofan #0" = 1
+	"Pribislava #0" = -1
+	"Matfei #0" = 1
+	"Rostislava #0" = -1
+	"Fedot #0" = 1
+	"Praskovya #0" = -1
+	"Igor #0" = 1
+	"Yevstafiy #0" = 1
+	"Predslava #0" = -1
+	"Maria #0" = -1
+	"Rostislav #0" = 1
+	"Feodora #0" = -1
+	"Frirek #0" = 1
+	"Hroðulfr #0" = 1
+	"Yefrosinia #0" = -1
+	"Yefimia #0" = -1
+	"Yefimiy #0" = 1
+	"Sofia #0" = -1
+	"Rogneda #0" = -1
+	"Dobrava #0" = -1
+	"Verkhoslava #0" = -1
+	"Premyslava #0" = -1
+	"Zvenislava #0" = -1
+	"Vseslava #0" = -1
+	"Putiata #0" = 1
+	"Darya #0" = -1
+	"Vseslav #0" = 1
+	"Yelizaveta #0" = -1
+	"Feodor #0" = 1
+	"Ruslan #0" = 1
+	"Gremislava #0" = -1
+	"Malfrida #0" = -1
+	"Vasilisa #0" = -1
+	"Sviatopolk #0" = 1
+	"Briachislav #0" = 0
+	"Demid #0" = 0
+	"Dobrynia #0" = 0
+	"Gleb #0" = 0
+	"Iziaslav #0" = 0
+	"Lev #0" = 0
+	"Mstislav #0" = 0
+	"Nikita #0" = 0
+	"Rodislav #0" = 0
+	"Rogvolod #0" = 0
+	"Stanislav #0" = 0
+	"Sudislav #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Viacheslav #0" = 0
+	"Vladimir #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Vyshata #0" = 0
+	"Vysheslav #0" = 0
+	"Yaropolk #0" = 0
+	"Yaroslav #0" = 0
+	"Yeremey #0" = 0
+}
+

@@ -1,0 +1,25 @@
+# Cyrenaica
+government = oligarchic_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = ibadi
+clear_scripted_personalities = yes
+capital = 356
+1442.11.17 = {
+	monarch = {
+		name = "Orna"
+		birth_date = 1411.4.6
+		dynasty = "Theodote"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 356
+	add_treasury = 19
+	add_prestige = 14
+}

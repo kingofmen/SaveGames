@@ -1,0 +1,23 @@
+# Denmark
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = czech
+religion = catholic
+capital = 275
+1436.6.23 = {
+	monarch = {
+		name = "Zikmund"
+		birth_date = 1431.7.25
+		dynasty = "Murayev"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+1444.11.11 = {
+	capital = 275
+	add_treasury = 17
+	add_prestige = 130
+}

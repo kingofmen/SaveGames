@@ -1,0 +1,26 @@
+# Yatvingia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = lithuanian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1937
+1410.4.15 = {
+	monarch = {
+		name = "Mats"
+		birth_date = 1369.11.26
+		dynasty = "af Bachanta"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1937
+	add_treasury = 25
+	add_prestige = 34
+}

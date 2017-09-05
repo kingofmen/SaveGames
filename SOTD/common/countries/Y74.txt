@@ -1,0 +1,83 @@
+# Kirghiz
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 155 140 78 }
+
+
+
+
+leader_names = {
+
+	"Irge" "Dilek" "Kopti" "Özgul" "Itlar" "Akgul" "Borç" "Esin" "Uzluk" "Kutan" 
+	"Kuntuvdi" "Samur" "Asalup" "Girgen" "Gunduz" "Sevilay" "Yeldem" "Kozel" "Sevenç" "Yildiz" 
+	"Özlem" "Usunbike" "Sirçan" "Yasar" "Sokal" "Gulçiçek" "Gunes" "Umay" "Koza" "Atrak" 
+	"Reza" "Bayanchur" "Seitek" "Alp-Qutlugh" "Tolossu" "Qutlugh" "Bonyak" "Bönek" "Eldeçyuk" "Çor" 
+	"Begluk" "Sugr" "Kharuchi" "Çilbu" "Aepak" "Asep" "Bachman" "Blush" "Etrek" "Gzi" 
+	"Ituk" "Könçek" "Kobyak" "Kotyan" "Kubasar" "Pulad" "Saru" "Sotan" "Törtogul" "Togli" 
+	"Tolun" "Tugor" "Uzur" }
+monarch_names = {
+	"Irge #0" = -1
+	"Dilek #0" = -1
+	"Kopti #0" = 1
+	"Özgul #0" = -1
+	"Itlar #1" = 21
+	"Akgul #0" = -1
+	"Borç #0" = 1
+	"Esin #0" = -1
+	"Uzluk #2" = 27
+	"Kutan #0" = 1
+	"Kuntuvdi #0" = 1
+	"Samur #0" = -1
+	"Asalup #0" = 1
+	"Girgen #0" = 1
+	"Gunduz #0" = -1
+	"Sevilay #0" = -1
+	"Yeldem #0" = -1
+	"Kozel #0" = 1
+	"Sevenç #0" = 1
+	"Yildiz #0" = -1
+	"Özlem #0" = -1
+	"Usunbike #0" = -1
+	"Sirçan #0" = 1
+	"Yasar #0" = -1
+	"Sokal #1" = 18
+	"Gulçiçek #0" = -1
+	"Gunes #0" = -1
+	"Umay #0" = -1
+	"Koza #0" = 1
+	"Atrak #0" = 1
+	"Reza #0" = 1
+	"Bayanchur #1" = 0
+	"Seitek #1" = 0
+	"Alp-Qutlugh #1" = 0
+	"Tolossu #1" = 0
+	"Qutlugh #2" = 0
+	"Bonyak #2" = 0
+	"Bönek #1" = 0
+	"Eldeçyuk #2" = 0
+	"Çor #1" = 0
+	"Begluk #1" = 0
+	"Sugr #1" = 0
+	"Kharuchi #1" = 0
+	"Çilbu #0" = 0
+	"Aepak #0" = 0
+	"Asep #0" = 0
+	"Bachman #0" = 0
+	"Blush #0" = 0
+	"Etrek #0" = 0
+	"Gzi #0" = 0
+	"Ituk #0" = 0
+	"Könçek #0" = 0
+	"Kobyak #0" = 0
+	"Kotyan #0" = 0
+	"Kubasar #0" = 0
+	"Pulad #0" = 0
+	"Saru #0" = 0
+	"Sotan #0" = 0
+	"Törtogul #0" = 0
+	"Togli #0" = 0
+	"Tolun #0" = 0
+	"Tugor #0" = 0
+	"Uzur #0" = 0
+}
+

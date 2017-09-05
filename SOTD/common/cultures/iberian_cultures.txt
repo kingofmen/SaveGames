@@ -1,0 +1,6 @@
+iberian = {
+	visigothic = {
+		primary = CAS
+		dynasty_names = { "de Castella" "de Cantabria" "de Maiorica" "de Salgueiro" "Sesebutiana" "de Medina del Campo" "de Castro Urdiales" "de Gormaz" "de Castro Verde" "de Tamisa" "d'Asilah" "de Tiflet" "d'Alcolea" }
+	}
+}

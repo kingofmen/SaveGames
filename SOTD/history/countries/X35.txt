@@ -1,0 +1,33 @@
+# Khotan
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = sogdian
+religion = sunni
+capital = 710
+1436.6.21 = {
+	monarch = {
+		name = "Babak IV"
+		birth_date = 1432.4.26
+		dynasty = "Vijaya"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	heir = {
+		name = "Sili"
+		monarch_name = "Sili"
+		dynasty = "Vijaya"
+		birth_date = 1435.6.22
+		death_date = 1515.6.22
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 710
+	add_treasury = 13
+	add_prestige = 180
+}

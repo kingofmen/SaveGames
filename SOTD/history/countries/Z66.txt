@@ -1,0 +1,25 @@
+# Ancona
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 119
+1440.5.7 = {
+	monarch = {
+		name = "Mathieu"
+		birth_date = 1416.4.28
+		dynasty = "di Saluzzo"
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 119
+	add_treasury = 14
+	add_prestige = 29
+}

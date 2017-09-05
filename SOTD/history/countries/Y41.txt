@@ -1,0 +1,37 @@
+# Asas
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1849
+1432.5.15 = {
+	monarch = {
+		name = "Ferhan"
+		birth_date = 1415.2.22
+		dynasty = "Fezlun"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1439.3.26 = {
+	heir = {
+		name = "Ferhan"
+		monarch_name = "Ferhan"
+		dynasty = "Fezlun"
+		birth_date = 1439.3.26
+		death_date = 1519.3.26
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1849
+	add_treasury = 32
+	add_prestige = 26
+}

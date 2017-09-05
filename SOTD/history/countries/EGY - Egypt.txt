@@ -1,0 +1,25 @@
+# Egypt
+government = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = nubian
+religion = ibadi
+clear_scripted_personalities = yes
+capital = 362
+1440.7.23 = {
+	monarch = {
+		name = "Merkourios"
+		birth_date = 1421.2.22
+		dynasty = "Hedareb"
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 362
+	add_treasury = 17
+	add_prestige = 271
+}

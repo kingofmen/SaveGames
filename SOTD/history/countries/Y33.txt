@@ -1,0 +1,21 @@
+# Azerbaijan
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+1441.2.15 = {
+	monarch = {
+		name = "Thoros"
+		birth_date = 1434.5.7
+		dynasty = "Yazidid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 77
+	add_prestige = 78
+}

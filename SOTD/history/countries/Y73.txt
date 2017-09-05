@@ -1,0 +1,25 @@
+# Yugra
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 1074
+1437.7.15 = {
+	monarch = {
+		name = "Nyalku II"
+		birth_date = 1405.10.3
+		dynasty = "Ngën"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1074
+	add_treasury = 29
+	add_prestige = 123
+}

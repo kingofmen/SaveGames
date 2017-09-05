@@ -1,0 +1,141 @@
+# Tabriz
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 86 133 61 }
+
+
+
+
+leader_names = {
+
+	"Varazdat" "Lousin" "Berjanoush" "Vassak" "Trdat" "Keghanoush" "Baydzar" "Mleh" "Vagharshak" "Anahid" 
+	"Vahag" "Mara" "Dalita" "Goshtasb" "Aboulgharib" "Huma" "Hamazasp" "Berjouhi" "Hripsimeh" "Avag" 
+	"Khorishah" "Mihrdat" "Khachik" "Hranoush" "Zmroukhd" "Razmouhi" "Seta" "Amir" "Arevig" "Sirvart" 
+	"Ishkhan" "Datevig" "Arin" "Kapriel" "Vesd" "Thoros" "Vosgi" "Eliz" "Latavri" "Nazani" 
+	"Srpouhi" "Gavbarih" "Dabuya" "Farrukhan" "Dadhburzmihr" "Khurshid" "Sorkhab" "Bugha" "Wahsudan" "Ali" 
+	"Khosrow Firuz" "Keyxusrew" "Mushel" "Artashir" "Malkhas" "Abas" "Abirad" "Aboughamr" "Aleksandr" "Artashes" 
+	"Artavazd" "Arsen" "Arshak" "Ashot" "Athom" "Atrnerseh" "Avedis" "Bagour" "Bagrat" "Bedros" 
+	"Boghos" "Davit" "Eshkhan" "Gagik" "Gevorg" "Gosdantin" "Grigor" "Gurgen" "Hagop" "Hethum" 
+	"Hovhannes" "Hovsep" "Ivane" "Khosrov" "Levon" "Mamigon" "Manuel" "Margos" "Melek" "Mikayel" 
+	"Mushegh" "Mzhezh" "Nerseh" "Oshin" "Roupen" "Sahag" "Sarkis" "Sevag" "Shahanshah" "Smbat" 
+	"Stepanos" "Tachat" "Taniel" "Tatoul" "Tigran" "Tornik" "Tovmas" "Vache" "Vachagan" "Vahan" 
+	"Vahram" "Vakhtank" "Vartan" "Vrtanes" "Zakare" "Zarmihr" }
+monarch_names = {
+	"Varazdat #0" = 1
+	"Lousin #0" = -1
+	"Berjanoush #0" = -1
+	"Vassak #1" = 21
+	"Trdat #0" = 1
+	"Keghanoush #0" = -1
+	"Baydzar #0" = -1
+	"Mleh #1" = 21
+	"Vagharshak #0" = 1
+	"Anahid #0" = -1
+	"Vahag #0" = 1
+	"Mara #0" = -1
+	"Dalita #0" = -1
+	"Goshtasb #0" = 1
+	"Aboulgharib #0" = 1
+	"Huma #0" = -1
+	"Hamazasp #0" = 1
+	"Berjouhi #0" = -1
+	"Hripsimeh #0" = -1
+	"Avag #0" = 1
+	"Khorishah #0" = -1
+	"Mihrdat #0" = 1
+	"Khachik #0" = 1
+	"Hranoush #0" = -1
+	"Zmroukhd #0" = -1
+	"Razmouhi #0" = -1
+	"Seta #0" = -1
+	"Amir #0" = 1
+	"Arevig #0" = -1
+	"Sirvart #0" = -1
+	"Ishkhan #0" = 1
+	"Datevig #0" = -1
+	"Arin #0" = -1
+	"Kapriel #0" = 1
+	"Vesd #0" = 1
+	"Thoros #0" = 1
+	"Vosgi #0" = -1
+	"Eliz #0" = -1
+	"Latavri #0" = -1
+	"Nazani #0" = -1
+	"Srpouhi #0" = -1
+	"Gavbarih #1" = 0
+	"Dabuya #1" = 0
+	"Farrukhan #1" = 0
+	"Dadhburzmihr #1" = 0
+	"Khurshid #1" = 0
+	"Sorkhab #1" = 0
+	"Bugha #1" = 0
+	"Wahsudan #1" = 0
+	"Ali #1" = 0
+	"Khosrow Firuz #1" = 0
+	"Keyxusrew #1" = 0
+	"Mushel #1" = 0
+	"Artashir #1" = 0
+	"Malkhas #1" = 0
+	"Abas #0" = 0
+	"Abirad #0" = 0
+	"Aboughamr #0" = 0
+	"Aleksandr #0" = 0
+	"Artashes #0" = 0
+	"Artavazd #0" = 0
+	"Arsen #0" = 0
+	"Arshak #0" = 0
+	"Ashot #0" = 0
+	"Athom #0" = 0
+	"Atrnerseh #0" = 0
+	"Avedis #0" = 0
+	"Bagour #0" = 0
+	"Bagrat #0" = 0
+	"Bedros #0" = 0
+	"Boghos #0" = 0
+	"Davit #0" = 0
+	"Eshkhan #0" = 0
+	"Gagik #0" = 0
+	"Gevorg #0" = 0
+	"Gosdantin #0" = 0
+	"Grigor #0" = 0
+	"Gurgen #0" = 0
+	"Hagop #0" = 0
+	"Hethum #0" = 0
+	"Hovhannes #0" = 0
+	"Hovsep #0" = 0
+	"Ivane #0" = 0
+	"Khosrov #0" = 0
+	"Levon #0" = 0
+	"Mamigon #0" = 0
+	"Manuel #0" = 0
+	"Margos #0" = 0
+	"Melek #0" = 0
+	"Mikayel #0" = 0
+	"Mushegh #0" = 0
+	"Mzhezh #0" = 0
+	"Nerseh #0" = 0
+	"Oshin #0" = 0
+	"Roupen #0" = 0
+	"Sahag #0" = 0
+	"Sarkis #0" = 0
+	"Sevag #0" = 0
+	"Shahanshah #0" = 0
+	"Smbat #0" = 0
+	"Stepanos #0" = 0
+	"Tachat #0" = 0
+	"Taniel #0" = 0
+	"Tatoul #0" = 0
+	"Tigran #0" = 0
+	"Tornik #0" = 0
+	"Tovmas #0" = 0
+	"Vache #0" = 0
+	"Vachagan #0" = 0
+	"Vahan #0" = 0
+	"Vahram #0" = 0
+	"Vakhtank #0" = 0
+	"Vartan #0" = 0
+	"Vrtanes #0" = 0
+	"Zakare #0" = 0
+	"Zarmihr #0" = 0
+}
+

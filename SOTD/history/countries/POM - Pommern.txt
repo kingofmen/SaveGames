@@ -1,0 +1,37 @@
+# Pomerania
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = pommeranian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1858
+1408.5.26 = {
+	monarch = {
+		name = "Milosz"
+		birth_date = 1396.3.21
+		dynasty = "z Obodrytow"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+}
+1420.7.7 = {
+	heir = {
+		name = "Oldrich"
+		monarch_name = "Oldrich II"
+		dynasty = "z Obodrytow"
+		birth_date = 1420.7.7
+		death_date = 1500.7.7
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1858
+	add_treasury = 13
+	add_prestige = 407
+}

@@ -1,0 +1,64 @@
+# Bashkiria
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 209 174 79 }
+
+
+
+
+leader_names = {
+
+	"Ngeva" "Tada" "Panay" "Pudak" "Potekay" "Senda" "Yar" "Khatyako" "Wayngachi" "Yapti" 
+	"Ilme" "Yadne" "Sarantay" "Hasaba" "Yurak" "Kat" "Tadane" "Vesei" "Somatu" "Kharuchi" 
+	"Noumea" "Nenyts" "Kako" "Tolik" "Galya" "Auli" "Nabtiko" "Laptsui" "Atpälha" "Kujku" 
+	"Syeju" "Alik" "Kolik" "Mandak" "Nga" "Ngënoh" "Num" "Nyalku" "Salinder" "Samatu" 
+	"Sarak" "Sirtya" "Syudbya" "Tatva" "Xëryuchi" "Yavlad" }
+monarch_names = {
+	"Ngeva #0" = -1
+	"Tada #0" = -1
+	"Panay #0" = 1
+	"Pudak #0" = 1
+	"Potekay #0" = -1
+	"Senda #0" = -1
+	"Yar #0" = -1
+	"Khatyako #0" = -1
+	"Wayngachi #0" = 1
+	"Yapti #0" = 1
+	"Ilme #0" = -1
+	"Yadne #0" = 1
+	"Sarantay #0" = -1
+	"Hasaba #0" = 1
+	"Yurak #0" = 1
+	"Kat #0" = -1
+	"Tadane #0" = -1
+	"Vesei #0" = 1
+	"Somatu #0" = 1
+	"Kharuchi #0" = 1
+	"Noumea #0" = 1
+	"Nenyts #0" = 1
+	"Kako #0" = 1
+	"Tolik #0" = 1
+	"Galya #0" = -1
+	"Auli #0" = -1
+	"Nabtiko #0" = 1
+	"Laptsui #0" = -1
+	"Atpälha #0" = -1
+	"Kujku #0" = -1
+	"Syeju #0" = -1
+	"Alik #0" = 0
+	"Kolik #0" = 0
+	"Mandak #0" = 0
+	"Nga #0" = 0
+	"Ngënoh #0" = 0
+	"Num #0" = 0
+	"Nyalku #0" = 0
+	"Salinder #0" = 0
+	"Samatu #0" = 0
+	"Sarak #0" = 0
+	"Sirtya #0" = 0
+	"Syudbya #0" = 0
+	"Tatva #0" = 0
+	"Xëryuchi #0" = 0
+	"Yavlad #0" = 0
+}
+

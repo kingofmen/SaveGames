@@ -1,0 +1,18 @@
+germanic = {
+	german = {
+		primary = GER
+		dynasty_names = { "von Pommern" "von Plain" "von Lengenfeld" "von Wittelsbach" "von Andechs" "von Sulzbach" "von Kleve" "von Babenberg" "Welf" "Salian" "Etichonen" "Hunfriding" "Immedinger" "Babenberger" "Unruochinger" "Wilhelmiden" "Sieghardinger" "von Bregenz" "dez Neigh" "von Limpurg" "von Andechs" "von Emden" "von Waiblingen" "von Lienz" "von Busca" }
+	}
+	frankish = {
+		primary = FRA
+		dynasty_names = { "Fournier" "de Montferrat" "Chamillart" "de Dreux" "de Clermont" "de Dampierre" "d'Éolienne" "de Vaudemont" "de Comminges" "Chatenois" "Capet" "de Chaumontois" "Rorgonides" "de Châteaubriant" "de Melle" "de Comborn" "de Roeselare" "de Meaux" "de Picquigny" "de Thiers" "de Brienne" "de Castelfranco" }
+	}
+	suebi = {
+		primary = POR
+		dynasty_names = { }
+	}
+	frisian = {
+		primary = NED
+		dynasty_names = { }
+	}
+}
