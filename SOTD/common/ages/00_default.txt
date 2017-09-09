@@ -175,7 +175,7 @@ age_of_discovery = {
 		
 		ab_ottoman_siege_ability = {
 			allow = {
-				tag = CXI
+				tag = WUU
 			}
 			modifier = {
 				siege_ability = 0.33
@@ -602,7 +602,7 @@ age_of_absolutism = {
 
 		ab_manchu_banner = {
 			allow = {
-				tag = CXI
+				tag = WUU
 			}
 			modifier = {
 				amount_of_banners = 0.5
